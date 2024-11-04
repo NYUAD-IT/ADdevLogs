@@ -1,147 +1,0 @@
-******000000******Start of Script******000000******
-*************Start time: Thu Oct 31 22:14:49 +04 2024*************
-*************Checking Chrome*************
-GC Installed Ver: 130.0.6723.92
-****** Chrome DMG is fresh and metadata matches. Skipping download. ******
-GC Stable Ver: 130.0.6723.92
-GC Installed Ver: 130.0.6723.92
-****** Chrome version checked OK (130.0.6723.92) ******
-****** Firefox is not installed ******
-****** Thunderbird is not installed ******
-*************Checking Acrobat Reader*************
-****** Adobe Acrobat Reader is installed. Proceeding ******
-AR Stable Ver: 24.004.20219
-AR Installed Ver: 24.003.20180
-****** Adobe Reader is outdated. Updating ******
-ARCurrVersNormalized: 2400420219
-Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
-Thu Oct 31 22:15:01 +04 2024: Downloaded file is already in place.
-Thu Oct 31 22:15:01 +04 2024: Mounting installer disk image.
-Thu Oct 31 22:15:06 +04 2024: Installing...
-No process containing 'Acrobat' in its name is currently running.
-Thu Oct 31 22:15:17 +04 2024: Unmounting installer disk image.
-All volumes unmounted.
-Thu Oct 31 23:48:15 +04 2024: Deleting disk image.
-Thu Oct 31 23:48:17 +04 2024: ERROR: Adobe Reader update unsuccessful, version remains at 24.003.20180.
---
-****** Adobe Acrobat Reader check completed ******
-*************Checking log4j*************
-JAR file already exists. Skipping download.
-Using existing JAR file: /Users/Shared/log4jscan-latest.jar
-Log file is not more than 7 days old. Skipping scan.
-*************Checking Acrobat Full Version*************
-****** Adobe Acrobat Full is installed. Proceeding ******
-AB Stable Ver: 
-AB Installed Ver: 24.004.20219
-****** Adobe Full is outdated. Updating ******
-ABCurrVersNormalized: 
-Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC//AcrobatDCUpd.dmg
-Thu Oct 31 23:48:17 +04 2024: Downloading newer version.
-Thu Oct 31 23:48:17 +04 2024: Mounting installer disk image.
-Thu Oct 31 23:48:26 +04 2024: Installing...
-No process containing 'Acrobat' in its name is currently running.
-installer: Error - the package path specified was invalid: '/Volumes/AcrobatDCUpd/AcrobatDCUpd.pkg'.
-Thu Oct 31 23:48:37 +04 2024: Unmounting installer disk image.
-All volumes unmounted.
-Thu Oct 31 23:48:47 +04 2024: Deleting disk image.
-Thu Oct 31 23:48:47 +04 2024: SUCCESS: Adobe Full has been updated to version 
-****** Adobe Acrobat Full check completed ******
-*************Checking Microsoft Office*************
-Microsoft AutoUpdate is installed.
-Opening Microsoft AutoUpdate app...
-Continuing script execution...
-Installing updates...
-*************Check complete for Microsoft Office*************
-*************Checking Silverlight*************
-
-*************Check complete for Silverlight*************
-*************Checking Java*************
-Folder with 'jdk' found.
-Checking Java version
-Skipping JDK update as version 23.0.1 is found in Java version.
-Searching for rt.jar...
-Searching for jrt-fs.jar...
-Searching for catalina.jar...
-Searching for struts-core-1.3.8.jar...
-Searching for rt.ogjarbak...
-Searching for jrt-fs.ogjarbak...
-*************Check complete for Java*************
-*************Checking Safari*************
-macOS version is above 13.0. Skipping installation.
-*************Check complete for Safari for macOS 11-13 only *************
-*************Checking Rogue Apps*************
-Searching for Google Chrome.app...
-Searching for Safari.app...
-Searching for Firefox.app...
-No instances of Firefox.app found outside /Applications.
-Searching for Thunderbird.app...
-No instances of Thunderbird.app found outside /Applications.
-Searching for Foxit Reader.app...
-No instances of Foxit Reader.app found outside /Applications.
-*************Task completed in 1 seconds to Remove rogue apps*************
-*************Checking Adobe Apps*************
-Remote Update Manager is already installed.
-Adobe Apps Update in progress...
-RemoteUpdateManager version is : 3.1.0.3
-Starting the RemoteUpdateManager...
-
-**************************************************
-No new updates are available for Acrobat/Reader
-**************************************************
-Following Updates are applicable on the system :
-		(ESHR/4.0.4.4202/osx10-64)
-		(LTRM/14.0.1.202410161356/macuniversal)
-		(SBSTP/10.1.0.3963/osx10-64)
-		(PPRO/24.6.3.004/macuniversal)
-**************************************************
-Following Updates are to be downloaded :
-		(ESHR/4.0.4.4202/osx10-64)
-		(LTRM/14.0.1.202410161356/macuniversal)
-		(SBSTP/10.1.0.3963/osx10-64)
-		(PPRO/24.6.3.004/macuniversal)
-**************************************************
-*** Downloading (ESHR/4.0.4.4202/osx10-64) ...
-*** Successfully downloaded (ESHR/4.0.4.4202/osx10-64) ...
-*** Downloading (LTRM/14.0.1.202410161356/macuniversal) ...
-*** Successfully downloaded (LTRM/14.0.1.202410161356/macuniversal) ...
-*** Downloading (SBSTP/10.1.0.3963/osx10-64) ...
-*** Successfully downloaded (SBSTP/10.1.0.3963/osx10-64) ...
-*** Downloading (PPRO/24.6.3.004/macuniversal) ...
-*** Successfully downloaded (PPRO/24.6.3.004/macuniversal) ...
-All Updates downloaded successfully ...
-**************************************************
-*** Installing (ESHR/4.0.4.4202/osx10-64) ...
-Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 2%Progress: 3%Progress: 4%Progress: 4%Progress: 5%Progress: 5%Progress: 6%Progress: 6%Progress: 7%Progress: 8%Progress: 9%Progress: 10%Progress: 10%Progress: 11%Progress: 11%Progress: 12%Progress: 12%Progress: 13%Progress: 14%Progress: 15%Progress: 17%Progress: 18%Progress: 19%Progress: 24%Progress: 25%Progress: 25%Progress: 26%Progress: 26%Progress: 27%Progress: 28%Progress: 29%Progress: 29%Progress: 30%Progress: 30%Progress: 31%Progress: 31%Progress: 32%Progress: 32%Progress: 33%Progress: 33%Progress: 34%Progress: 34%Progress: 35%Progress: 35%Progress: 36%Progress: 36%Progress: 37%Progress: 37%Progress: 38%Progress: 38%Progress: 39%Progress: 39%Progress: 40%Progress: 41%Progress: 42%Progress: 44%Progress: 45%Progress: 46%Progress: 46%Progress: 47%Progress: 47%Progress: 48%Progress: 48%Progress: 49%Progress: 51%Progress: 53%Progress: 54%Progress: 55%Progress: 56%Progress: 58%Progress: 59%Progress: 60%Progress: 61%Progress: 62%Progress: 64%Progress: 65%Progress: 66%Progress: 67%Progress: 67%Progress: 69%Progress: 71%Progress: 73%Progress: 75%Progress: 75%Progress: 77%Progress: 78%Progress: 80%Progress: 81%Progress: 81%Progress: 82%Progress: 83%Progress: 85%Progress: 98%Progress: 100%Exit Code: 0          
-*** Successfully installed (ESHR/4.0.4.4202/osx10-64) ...
-*** Installing (LTRM/14.0.1.202410161356/macuniversal) ...
-Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 2%Progress: 3%Progress: 3%Progress: 4%Progress: 4%Progress: 5%Progress: 5%Progress: 6%Progress: 6%Progress: 7%Progress: 7%Progress: 8%Progress: 8%Progress: 9%Progress: 9%Progress: 10%Progress: 10%Progress: 11%Progress: 11%Progress: 12%Progress: 12%Progress: 13%Progress: 13%Progress: 14%Progress: 14%Progress: 15%Progress: 15%Progress: 16%Progress: 16%Progress: 17%Progress: 17%Progress: 18%Progress: 18%Progress: 19%Progress: 19%Progress: 20%Progress: 20%Progress: 21%Progress: 21%Progress: 22%Progress: 22%Progress: 23%Progress: 23%Progress: 24%Progress: 27%Progress: 30%Progress: 33%Progress: 34%Progress: 34%Progress: 36%Progress: 37%Progress: 40%Progress: 41%Progress: 41%Progress: 42%Progress: 43%Progress: 44%Progress: 44%Progress: 45%Progress: 46%Progress: 48%Progress: 48%Progress: 49%Progress: 49%Progress: 50%Progress: 51%Progress: 51%Progress: 52%Progress: 53%Progress: 53%Progress: 54%Progress: 54%Progress: 55%Progress: 55%Progress: 56%Progress: 57%Progress: 57%Progress: 58%Progress: 58%Progress: 59%Progress: 59%Progress: 60%Progress: 60%Progress: 61%Progress: 61%Progress: 62%Progress: 62%Progress: 63%Progress: 64%Progress: 65%Progress: 65%Progress: 66%Progress: 66%Progress: 67%Progress: 69%Progress: 69%Progress: 70%Progress: 71%Progress: 72%Progress: 73%Progress: 74%Progress: 74%Progress: 75%Progress: 76%Progress: 77%Progress: 77%Progress: 78%Progress: 79%Progress: 79%Progress: 79%Progress: 80%Progress: 81%Progress: 82%Progress: 82%Progress: 83%Progress: 83%Progress: 84%Progress: 85%Progress: 86%Progress: 87%Progress: 88%Progress: 89%Progress: 96%Progress: 97%Progress: 100%Exit Code: 0          
-*** Successfully installed (LTRM/14.0.1.202410161356/macuniversal) ...
-*** Installing (SBSTP/10.1.0.3963/osx10-64) ...
-Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 2%Progress: 3%Progress: 3%Progress: 4%Progress: 4%Progress: 5%Progress: 5%Progress: 6%Progress: 7%Progress: 7%Progress: 8%Progress: 8%Progress: 9%Progress: 9%Progress: 10%Progress: 10%Progress: 11%Progress: 11%Progress: 12%Progress: 12%Progress: 13%Progress: 13%Progress: 14%Progress: 15%Progress: 16%Progress: 16%Progress: 17%Progress: 17%Progress: 18%Progress: 18%Progress: 19%Progress: 19%Progress: 20%Progress: 20%Progress: 21%Progress: 22%Progress: 23%Progress: 23%Progress: 24%Progress: 25%Progress: 26%Progress: 27%Progress: 28%Progress: 29%Progress: 29%Progress: 30%Progress: 31%Progress: 32%Progress: 32%Progress: 33%Progress: 33%Progress: 34%Progress: 34%Progress: 35%Progress: 35%Progress: 36%Progress: 36%Progress: 37%Progress: 37%Progress: 38%Progress: 38%Progress: 39%Progress: 39%Progress: 40%Progress: 40%Progress: 41%Progress: 41%Progress: 42%Progress: 42%Progress: 43%Progress: 43%Progress: 44%Progress: 44%Progress: 45%Progress: 45%Progress: 46%Progress: 46%Progress: 47%Progress: 47%Progress: 48%Progress: 48%Progress: 49%Progress: 49%Progress: 50%Progress: 50%Progress: 51%Progress: 52%Progress: 52%Progress: 53%Progress: 53%Progress: 54%Progress: 54%Progress: 55%Progress: 56%Progress: 56%Progress: 57%Progress: 57%Progress: 58%Progress: 59%Progress: 59%Progress: 60%Progress: 60%Progress: 61%Progress: 61%Progress: 62%Progress: 62%Progress: 63%Progress: 63%Progress: 64%Progress: 64%Progress: 65%Progress: 65%Progress: 66%Progress: 66%Progress: 67%Progress: 67%Progress: 68%Progress: 68%Progress: 69%Progress: 70%Progress: 70%Progress: 71%Progress: 71%Progress: 72%Progress: 73%Progress: 74%Progress: 75%Progress: 76%Progress: 77%Progress: 78%Progress: 79%Progress: 80%Progress: 80%Progress: 81%Progress: 82%Progress: 83%Progress: 84%Progress: 85%Progress: 87%Progress: 89%Progress: 97%Progress: 100%Exit Code: 0          
-*** Successfully installed (SBSTP/10.1.0.3963/osx10-64) ...
-*** Installing (PPRO/24.6.3.004/macuniversal) ...
-Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 2%Progress: 3%Progress: 3%Progress: 4%Progress: 4%Progress: 5%Progress: 6%Progress: 6%Progress: 7%Progress: 8%Progress: 8%Progress: 9%Progress: 10%Progress: 10%Progress: 11%Progress: 11%Progress: 12%Progress: 12%Progress: 13%Progress: 13%Progress: 14%Progress: 14%Progress: 15%Progress: 16%Progress: 16%Progress: 17%Progress: 17%Progress: 18%Progress: 18%Progress: 20%Progress: 21%Progress: 21%Progress: 22%Progress: 22%Progress: 23%Progress: 24%Progress: 24%Progress: 25%Progress: 25%Progress: 27%Progress: 30%Progress: 33%Progress: 34%Progress: 34%Progress: 35%Progress: 36%Progress: 36%Progress: 37%Progress: 38%Progress: 38%Progress: 39%Progress: 39%Progress: 40%Progress: 41%Progress: 42%Progress: 42%Progress: 43%Progress: 44%Progress: 44%Progress: 45%Progress: 46%Progress: 46%Progress: 48%Progress: 48%Progress: 49%Progress: 50%Progress: 51%Progress: 52%Progress: 53%Progress: 53%Progress: 54%Progress: 55%Progress: 55%Progress: 56%Progress: 56%Progress: 57%Progress: 58%Progress: 59%Progress: 59%Progress: 60%Progress: 61%Progress: 62%Progress: 63%Progress: 64%Progress: 64%Progress: 65%Progress: 66%Progress: 66%Progress: 67%Progress: 68%Progress: 69%Progress: 70%Progress: 70%Progress: 71%Progress: 71%Progress: 72%Progress: 73%Progress: 74%Progress: 75%Progress: 76%Progress: 76%Progress: 77%Progress: 77%Progress: 78%Progress: 79%Progress: 80%Progress: 80%Progress: 81%Progress: 81%Progress: 82%Progress: 83%Progress: 83%Progress: 84%Progress: 85%Progress: 86%Progress: 87%Progress: 88%Progress: 89%Progress: 90%Progress: 97%Progress: 100%Exit Code: 0          
-*** Successfully installed (PPRO/24.6.3.004/macuniversal) ...
-All Updates installed successfully ...
-**************************************************
-Following Updates were successfully installed :
-		(ESHR/3.0/4.0.4/osx10-64)
-		(LTRM/8.3/14.0.1/macuniversal)
-		(PPRO/24.0/24.6.3/macuniversal)
-		(SBSTP/7.2.0/10.1.0/osx10-64)
-**************************************************
-RemoteUpdateManager exiting with Return Code (0)
-*************Adobe apps check completed*************
-*************Checking MacOS SU*************
-Performing Software Update Check for macOS
-App Sanity Check Completed
-button returned:OK
-****** macOS SU check completed ******
-VLC version: 3.0.21
-Arch is: x86_64
-VLC up to date
-****** VLC check completed ******
-*************End of Script*************
-*************End time: Fri Nov  1 00:15:42 +04 2024*************
-*************Elapsed time: 7253 seconds*************
-App Sanity Check Completed

@@ -1,171 +1,0 @@
-******000000******Start of Script******000000******
-*************Start time: Thu Oct 31 17:05:45 +04 2024*************
-*************Checking Chrome*************
-GC Installed Ver: 130.0.6723.70
-****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
-GC Stable Ver: 
-GC Installed Ver: 130.0.6723.70
-****** Chrome version differs - installed: 130.0.6723.70, available:  ******
-****** Application is currently running on target Mac. Proceeding Upgrade. ******
-****** Latest version of Chrome is now installed on target Mac. ******
-****** Firefox is not installed ******
-****** Thunderbird is not installed ******
-*************Checking Acrobat Reader*************
-****** Adobe Acrobat Reader is installed. Proceeding ******
-AR Stable Ver: 24.004.20219
-AR Installed Ver: 24.003.20121
-****** Adobe Reader is outdated. Updating ******
-ARCurrVersNormalized: 2400420219
-Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
-Thu Oct 31 17:33:06 +04 2024: Downloading newer version.
-Thu Oct 31 17:49:46 +04 2024: Mounting installer disk image.
-Thu Oct 31 17:49:47 +04 2024: Installing...
-Process containing 'Acrobat' in its name has been killed.
-Thu Oct 31 17:50:22 +04 2024: Unmounting installer disk image.
-All volumes unmounted.
-Thu Oct 31 17:50:57 +04 2024: Deleting disk image.
-Thu Oct 31 17:50:57 +04 2024: ERROR: Adobe Reader update unsuccessful, version remains at 24.003.20121.
---
-****** Adobe Acrobat Reader check completed ******
-*************Checking log4j*************
-JAR file already exists. Skipping download.
-Using existing JAR file: /Users/Shared/log4jscan-latest.jar
-Log file is either more than 7 days old or does not exist. Running scan...
-****** Scan completed. Log file: /Users/Shared/log4j.log ******
-*************Checking Acrobat Full Version*************
-****** Adobe Acrobat Full is installed. Proceeding ******
-AB Stable Ver: 24.004.20219
-AB Installed Ver: 24.003.20112
-****** Adobe Full is outdated. Updating ******
-ABCurrVersNormalized: 2400420219
-Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400420219/AcrobatDCUpd2400420219.dmg
-Thu Oct 31 17:50:59 +04 2024: Downloading newer version.
-Thu Oct 31 18:10:13 +04 2024: Mounting installer disk image.
-Thu Oct 31 18:10:13 +04 2024: Installing...
-Process containing 'Acrobat' in its name has been killed.
-installer: Error - the package path specified was invalid: '/Volumes/AcrobatDCUpd2400420219/AcrobatDCUpd2400420219.pkg'.
-Thu Oct 31 18:10:24 +04 2024: Unmounting installer disk image.
-All volumes unmounted.
-Thu Oct 31 18:25:59 +04 2024: Deleting disk image.
-Thu Oct 31 18:25:59 +04 2024: ERROR: Adobe Full update unsuccessful, version remains at 24.003.20112.
---
-****** Adobe Acrobat Full check completed ******
-*************Checking Microsoft Office*************
-Microsoft AutoUpdate is installed.
-Opening Microsoft AutoUpdate app...
-Continuing script execution...
-Installing updates...
-*************Check complete for Microsoft Office*************
-*************Checking Silverlight*************
-
-*************Check complete for Silverlight*************
-*************Checking Java*************
-No folder with 'jdk' found.
-Removing JRE
-Thu Oct 31 18:25:59 +04 2024: Clean up JRE traces...
-Searching for rt.jar...
-Searching for jrt-fs.jar...
-Searching for catalina.jar...
-Searching for struts-core-1.3.8.jar...
-Searching for rt.ogjarbak...
-Searching for jrt-fs.ogjarbak...
-*************Check complete for Java*************
-*************Checking Safari*************
-macOS version is above 13.0. Skipping installation.
-*************Check complete for Safari for macOS 11-13 only *************
-*************Checking Rogue Apps*************
-Searching for Google Chrome.app...
-Searching for Safari.app...
-Searching for Firefox.app...
-No instances of Firefox.app found outside /Applications.
-Searching for Thunderbird.app...
-No instances of Thunderbird.app found outside /Applications.
-Searching for Foxit Reader.app...
-No instances of Foxit Reader.app found outside /Applications.
-*************Task completed in 0 seconds to Remove rogue apps*************
-*************Checking Adobe Apps*************
-Remote Update Manager is already installed.
-Adobe Apps Update in progress...
-RemoteUpdateManager version is : 3.1.0.3
-Starting the RemoteUpdateManager...
-
-**************************************************
-Following Acrobat/Reader updates are applicable on the system : 
-		(AdobeAcrobatDC-24.0/24.004.20219)
-**************************************************
-**************************************************
-*** Installing (AdobeAcrobatDC-24.0/24.004.20219) ...
-*** Failed to install (AdobeAcrobatDC-24.0/24.004.20219) ...
-**************************************************
-Following Updates are applicable on the system :
-		(CCXP/5.8.0.16/macarm64)
-**************************************************
-Following Updates are to be downloaded :
-		(CCXP/5.8.0.16/macarm64)
-**************************************************
-*** Downloading (CCXP/5.8.0.16/macarm64) ...
-*** Successfully downloaded (CCXP/5.8.0.16/macarm64) ...
-All Updates downloaded successfully ...
-**************************************************
-*** Installing (CCXP/5.8.0.16/macarm64) ...
-Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 25%Progress: 50%Progress: 63%Progress: 64%Progress: 64%Progress: 65%Progress: 66%Progress: 67%Progress: 69%Progress: 70%Progress: 70%Progress: 71%Progress: 72%Progress: 73%Progress: 74%Progress: 76%Progress: 77%customhook: 53.032ms
-directories on user machine [ 'com.adobe.ccx.start-6.7.0', 'com.adobe.ccx.start-6.8.0' ]
-builds to keep [
-  'com.adobe.ccx.start-7.0.0',
-  'com.adobe.ccx.start-7.1.0',
-  'com.adobe.ccx.start-7.2.0',
-  'com.adobe.ccx.start-7.2.1',
-  'com.adobe.ccx.start-7.3.0',
-  'com.adobe.ccx.start-7.4.0',
-  'com.adobe.ccx.start-7.5.0',
-  'com.adobe.ccx.start-7.7.0',
-  'com.adobe.ccx.start-7.8.0',
-  'com.adobe.ccx.start-6.7.0',
-  'com.adobe.ccx.start-6.8.0'
-]
-directories to delete []
-Progress: 86%Progress: 88%Progress: 89%Progress: 90%Progress: 90%Progress: 91%Progress: 92%Progress: 93%Progress: 94%Progress: 95%Progress: 96%Progress: 97%Progress: 100%Exit Code: 0          
-*** Successfully installed (CCXP/5.8.0.16/macarm64) ...
-All Updates installed successfully ...
-**************************************************
-Following Updates failed to Install :
-		(AdobeAcrobatDC-24.0/24.004.20219)
-**************************************************
-Following Updates were successfully installed :
-		(CCXP/2.2.1/5.8.0/macarm64)
-**************************************************
-*************Adobe apps check completed*************
-*************Checking MacOS SU*************
-Performing Software Update Check for macOS
-App Sanity Check Completed
-button returned:OK
-****** macOS SU check completed ******
-VLC version: 3.0.21
-Arch is: arm64
-Installing Zoom for ARM
-Checksumming Protective Master Boot Record (MBR : 0)…
-Protective Master Boot Record (MBR :: verified   CRC32 $C203F25B
-Checksumming GPT Header (Primary GPT Header : 1)…
- GPT Header (Primary GPT Header : 1): verified   CRC32 $A4737F4D
-Checksumming GPT Partition Data (Primary GPT Table : 2)…
-GPT Partition Data (Primary GPT Tabl: verified   CRC32 $588135DA
-Checksumming  (Apple_Free : 3)…
-                    (Apple_Free : 3): verified   CRC32 $00000000
-Checksumming disk image (Apple_HFS : 4)…
-          disk image (Apple_HFS : 4): verified   CRC32 $07679627
-Checksumming  (Apple_Free : 5)…
-                    (Apple_Free : 5): verified   CRC32 $00000000
-Checksumming GPT Partition Data (Backup GPT Table : 6)…
-GPT Partition Data (Backup GPT Table: verified   CRC32 $588135DA
-Checksumming GPT Header (Backup GPT Header : 7)…
-  GPT Header (Backup GPT Header : 7): verified   CRC32 $FE7067D3
-verified   CRC32 $D842EE35
-/dev/disk4          	GUID_partition_scheme          	
-/dev/disk4s1        	Apple_HFS                      	/Volumes/vlc
-"/Volumes/vlc" unmounted successfully.
-Latest VLC Installed
-****** VLC check completed ******
-*************End of Script*************
-*************End time: Fri Nov  1 09:39:05 +04 2024*************
-*************Elapsed time: 59600 seconds*************
-App Sanity Check Completed
