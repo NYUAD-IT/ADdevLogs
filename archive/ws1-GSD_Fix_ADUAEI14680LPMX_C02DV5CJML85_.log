@@ -1,0 +1,146 @@
+******000000******Start of Script******000000******
+*************Start time: Thu Oct 31 16:55:23 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.71
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 130.0.6723.92
+GC Installed Ver: 130.0.6723.71
+****** Chrome version differs - installed: 130.0.6723.71, available: 130.0.6723.92 ******
+****** Application is currently running on target Mac. Proceeding Upgrade. ******
+****** Latest version of Chrome is now installed on target Mac. ******
+*************Checking Firefox*************
+****** Firefox DMG is outdated or metadata mismatch. Downloading again. ******
+FF Stable Ver: 132.0
+FF Installed Ver: 131.0.3
+****** Firefox version differs - installed: 131.0.3, available: 132.0 ******
+****** Firefox is currently running on target Mac. Proceeding Upgrade. ******
+installer: Package name is 
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+****** Latest version of Firefox is installed on target Mac. ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is installed. Proceeding ******
+AR Stable Ver: 24.004.20219
+AR Installed Ver: 24.003.20180
+****** Adobe Reader is outdated. Updating ******
+ARCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
+Thu Oct 31 17:02:46 +04 2024: Downloading newer version.
+Thu Oct 31 17:03:42 +04 2024: Mounting installer disk image.
+Thu Oct 31 17:03:49 +04 2024: Installing...
+Process containing 'Acrobat' in its name has been killed.
+Thu Oct 31 17:05:50 +04 2024: Unmounting installer disk image.
+All volumes unmounted.
+Thu Oct 31 17:06:00 +04 2024: Deleting disk image.
+Thu Oct 31 17:06:01 +04 2024: SUCCESS: Adobe Reader has been updated to version 24.004.20219
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is either more than 7 days old or does not exist. Running scan...
+****** Scan completed. Log file: /Users/Shared/log4j.log ******
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20219
+AB Installed Ver: 24.003.20180
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400420219/AcrobatDCUpd2400420219.dmg
+Thu Oct 31 17:06:01 +04 2024: Downloading newer version.
+Thu Oct 31 17:07:03 +04 2024: Mounting installer disk image.
+Thu Oct 31 17:07:12 +04 2024: Installing...
+Process containing 'Acrobat' in its name has been killed.
+installer: Package name is Adobe Acrobat (24.004.20219)
+installer: Upgrading at base path /
+installer: The upgrade failed. (The Installer encountered an error that caused the installation to fail. Contact the software manufacturer for assistance. An error occurred while running scripts from the package “AcrobatDCUpd2400420219.pkg”.)
+Thu Oct 31 17:07:48 +04 2024: Unmounting installer disk image.
+Unmounting /dev/disk3s1
+Volume AcrobatDCUpd2400420219 on disk3s1 unmounted
+All volumes unmounted.
+Thu Oct 31 17:07:58 +04 2024: Deleting disk image.
+Thu Oct 31 17:07:58 +04 2024: ERROR: Adobe Full update unsuccessful, version remains at 24.003.20180.
+--
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Oct 31 17:07:59 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+Following Acrobat/Reader updates are applicable on the system : 
+		(AdobeAcrobatDC-24.0/24.004.20219)
+**************************************************
+**************************************************
+Following conflicting processes are found running. Skipping installation of updates for (com.adobe.acrobat.dc) ...
+		(Acrobat)
+**************************************************
+Following Updates are applicable on the system :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.0.1097/macuniversal) ...
+*** Successfully downloaded (ACR/17.0.0.1097/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (ACR/17.0.0.1097/macuniversal) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 4%Progress: 5%Progress: 7%Progress: 9%Progress: 11%Progress: 12%Progress: 13%Progress: 25%Progress: 26%Progress: 27%Progress: 27%Progress: 28%Progress: 28%Progress: 29%Progress: 29%Progress: 30%Progress: 30%Progress: 31%Progress: 31%Progress: 32%Progress: 32%Progress: 33%Progress: 33%Progress: 34%Progress: 34%Progress: 35%Progress: 35%Progress: 36%Progress: 36%Progress: 37%Progress: 38%Progress: 38%Progress: 39%Progress: 39%Progress: 40%Progress: 40%Progress: 41%Progress: 41%Progress: 42%Progress: 42%Progress: 43%Progress: 43%Progress: 44%Progress: 44%Progress: 45%Progress: 45%Progress: 46%Progress: 46%Progress: 47%Progress: 47%Progress: 48%Progress: 48%Progress: 49%Progress: 49%Progress: 50%Progress: 50%Progress: 51%Progress: 52%Progress: 52%Progress: 53%Progress: 54%Progress: 55%Progress: 57%Progress: 64%Progress: 71%Progress: 75%Progress: 76%Progress: 78%Progress: 78%Progress: 79%Progress: 79%Progress: 80%Progress: 82%Progress: 83%Progress: 84%Progress: 87%Progress: 88%Progress: 95%Progress: 96%Progress: 98%Progress: 100%Exit Code: 0          
+*** Successfully installed (ACR/17.0.0.1097/macuniversal) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates failed to Install :
+		(AdobeAcrobatDC-24.0/24.004.20219)
+**************************************************
+Following Updates were successfully installed :
+		(ACR/9.6/17.0/macuniversal)
+**************************************************
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: x86_64
+Installing Zoom for Intel
+Latest VLC Installed
+****** VLC check completed ******
+*************End of Script*************
+*************End time: Thu Oct 31 17:41:15 +04 2024*************
+*************Elapsed time: 2752 seconds*************
+App Sanity Check Completed

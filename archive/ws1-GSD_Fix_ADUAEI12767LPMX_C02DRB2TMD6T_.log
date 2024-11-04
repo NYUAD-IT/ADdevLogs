@@ -1,0 +1,201 @@
+******000000******Start of Script******000000******
+*************Start time: Thu Oct 31 17:23:08 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 129.0.6668.90
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 130.0.6723.92
+GC Installed Ver: 129.0.6668.90
+****** Chrome version differs - installed: 129.0.6668.90, available: 130.0.6723.92 ******
+****** Application is currently running on target Mac. Proceeding Upgrade. ******
+****** Latest version of Chrome is now installed on target Mac. ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is installed. Proceeding ******
+AR Stable Ver: 24.004.20219
+AR Installed Ver: 24.002.21005
+****** Adobe Reader is outdated. Updating ******
+ARCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
+Thu Oct 31 17:24:13 +04 2024: Downloading newer version.
+Thu Oct 31 17:25:10 +04 2024: Mounting installer disk image.
+Thu Oct 31 17:25:16 +04 2024: Installing...
+Process containing 'Acrobat' in its name has been killed.
+Thu Oct 31 17:27:58 +04 2024: Unmounting installer disk image.
+All volumes unmounted.
+Thu Oct 31 17:28:08 +04 2024: Deleting disk image.
+Thu Oct 31 17:28:08 +04 2024: SUCCESS: Adobe Reader has been updated to version 24.004.20219
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is either more than 7 days old or does not exist. Running scan...
+****** Scan completed. Log file: /Users/Shared/log4j.log ******
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20219
+AB Installed Ver: 24.003.20180
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400420219/AcrobatDCUpd2400420219.dmg
+Thu Oct 31 17:28:08 +04 2024: Downloading newer version.
+Thu Oct 31 17:30:01 +04 2024: Mounting installer disk image.
+Thu Oct 31 17:30:08 +04 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+installer: Package name is Adobe Acrobat (24.004.20219)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+Thu Oct 31 17:36:05 +04 2024: Unmounting installer disk image.
+Unmounting /dev/disk3s1
+Volume AcrobatDCUpd2400420219 on disk3s1 unmounted
+All volumes unmounted.
+Thu Oct 31 17:36:15 +04 2024: Deleting disk image.
+Thu Oct 31 17:36:15 +04 2024: SUCCESS: Adobe Full has been updated to version 24.004.20219
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is not installed. Installing...
+Installing Microsoft AutoUpdate...
+installer: Package name is Microsoft AutoUpdate
+installer: Installing at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Microsoft AutoUpdate…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%35.287626
+installer:PHASE:Running package scripts…
+installer:%46.700039
+installer:PHASE:Moving items into place…
+installer:%87.378833
+installer:PHASE:Running package scripts…
+installer:%89.329158
+installer:PHASE:Running package scripts…
+installer:%89.499271
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Validating packages…
+installer:%97.262500
+installer:PHASE:Registering updated applications…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The install was successful.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Oct 31 17:36:27 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Downloading https://deploymenttools.acp.adobeoobe.com/RUM/MacIntel/RemoteUpdateManager.dmg to /Users/Shared/RemoteUpdateManager.dmg...
+Checksumming Driver Descriptor Map (DDM : 0)…
+     Driver Descriptor Map (DDM : 0): verified   CRC32 $967248A4
+Checksumming Apple (Apple_partition_map : 1)…
+     Apple (Apple_partition_map : 1): verified   CRC32 $1884650E
+Checksumming disk image (Apple_HFS : 2)…
+          disk image (Apple_HFS : 2): verified   CRC32 $58469387
+verified   CRC32 $0D4C4387
+/dev/disk4          	Apple_partition_scheme         	
+/dev/disk4s1        	Apple_partition_map            	
+/dev/disk4s2        	Apple_HFS                      	/Volumes/RemoteUpdateManager
+"disk4" ejected.
+Remote Update Manager installed successfully.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+Following Updates are applicable on the system :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.0.1097/macuniversal) ...
+*** Successfully downloaded (ACR/17.0.0.1097/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (ACR/17.0.0.1097/macuniversal) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 3%Progress: 3%Progress: 6%Progress: 8%Progress: 9%Progress: 10%Progress: 13%Progress: 14%Progress: 26%Progress: 28%Progress: 28%Progress: 29%Progress: 29%Progress: 30%Progress: 30%Progress: 31%Progress: 31%Progress: 32%Progress: 32%Progress: 33%Progress: 33%Progress: 34%Progress: 35%Progress: 35%Progress: 36%Progress: 37%Progress: 37%Progress: 38%Progress: 39%Progress: 39%Progress: 40%Progress: 41%Progress: 42%Progress: 42%Progress: 43%Progress: 43%Progress: 44%Progress: 45%Progress: 46%Progress: 46%Progress: 47%Progress: 47%Progress: 48%Progress: 49%Progress: 49%Progress: 50%Progress: 51%Progress: 52%Progress: 53%Progress: 54%Progress: 55%Progress: 62%Progress: 69%Progress: 76%Progress: 78%Progress: 78%Progress: 79%Progress: 79%Progress: 80%Progress: 81%Progress: 82%Progress: 86%Progress: 89%Progress: 90%Progress: 92%Progress: 100%Exit Code: 0          
+*** Successfully installed (ACR/17.0.0.1097/macuniversal) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates were successfully installed :
+		(ACR/9.6/17.0/macuniversal)
+**************************************************
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: x86_64
+Installing Zoom for Intel
+Checksumming Protective Master Boot Record (MBR : 0)…
+Protective Master Boot Record (MBR :: verified   CRC32 $D8D65A25
+Checksumming GPT Header (Primary GPT Header : 1)…
+ GPT Header (Primary GPT Header : 1): verified   CRC32 $B2A7C206
+Checksumming GPT Partition Data (Primary GPT Table : 2)…
+GPT Partition Data (Primary GPT Tabl: verified   CRC32 $7E22E383
+Checksumming  (Apple_Free : 3)…
+                    (Apple_Free : 3): verified   CRC32 $00000000
+Checksumming disk image (Apple_HFS : 4)…
+          disk image (Apple_HFS : 4): verified   CRC32 $2515A59F
+Checksumming  (Apple_Free : 5)…
+                    (Apple_Free : 5): verified   CRC32 $00000000
+Checksumming GPT Partition Data (Backup GPT Table : 6)…
+GPT Partition Data (Backup GPT Table: verified   CRC32 $7E22E383
+Checksumming GPT Header (Backup GPT Header : 7)…
+  GPT Header (Backup GPT Header : 7): verified   CRC32 $39A5E5C4
+verified   CRC32 $59128FB7
+/dev/disk2          	GUID_partition_scheme          	
+/dev/disk2s1        	Apple_HFS                      	/Volumes/vlc
+"/Volumes/vlc" unmounted successfully.
+Latest VLC Installed
+****** VLC check completed ******
+*************End of Script*************
+*************End time: Thu Oct 31 17:46:20 +04 2024*************
+*************Elapsed time: 1392 seconds*************
+App Sanity Check Completed
