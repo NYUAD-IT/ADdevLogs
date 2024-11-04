@@ -1,0 +1,135 @@
+******000000******Start of Script******000000******
+*************Start time: Mon Nov  4 15:08:09 CET 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.92
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 130.0.6723.92
+GC Installed Ver: 130.0.6723.92
+****** Chrome version checked OK (130.0.6723.92) ******
+*************Checking Firefox*************
+****** Firefox DMG is fresh and metadata matches. Skipping download. ******
+FF Stable Ver: 132.0
+FF Installed Ver: 132.0
+****** Firefox version checked OK (132.0) ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is installed. Proceeding ******
+AR Stable Ver: 24.004.20219
+AR Installed Ver: 24.003.20180
+****** Adobe Reader is outdated. Updating ******
+ARCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
+Mon Nov  4 15:08:13 CET 2024: Downloaded file is already in place.
+Mon Nov  4 15:08:13 CET 2024: Mounting installer disk image.
+Mon Nov  4 15:08:13 CET 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+Mon Nov  4 15:08:25 CET 2024: Unmounting installer disk image.
+All volumes unmounted.
+Mon Nov  4 15:08:35 CET 2024: Deleting disk image.
+Mon Nov  4 15:08:35 CET 2024: ERROR: Adobe Reader update unsuccessful, version remains at 24.003.20180.
+--
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+Folder with 'jdk' found.
+Checking Java version
+Skipping JDK update as version 23.0.1 is found in Java version.
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+Found /Users/jt4711/Downloads/jdk-18.jdk/Contents/Home/lib/jrt-fs.ogjarbak (already .ogjarbak)
+Java is required. Install Zulu JDK
+Folder with 'jdk' found.
+Checking Java version
+Skipping JDK update as version 23.0.1 is found in Java version.
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Deleting: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Helpers/AdobeResourceSynchronizer.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+Deleting from Trash: /Users/jt4711/.Trash/Adobe Acrobat Reader DC.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Status: DISABLED for user itops
+*************End of Script*************
+*************End time: Mon Nov  4 15:09:14 CET 2024*************
+*************Elapsed time: 65 seconds*************
+App Sanity Check Completed
