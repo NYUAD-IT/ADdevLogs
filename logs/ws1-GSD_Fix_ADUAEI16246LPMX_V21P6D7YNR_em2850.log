@@ -1,0 +1,182 @@
+******000000******Start of Script******000000******
+*************Start time: Tue Nov  5 07:51:57 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.92
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 130.0.6723.92
+GC Installed Ver: 130.0.6723.92
+****** Chrome version checked OK (130.0.6723.92) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is installed. Proceeding ******
+AR Stable Ver: 24.004.20219
+AR Installed Ver: 24.003.20180
+****** Adobe Reader is outdated. Updating ******
+ARCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2400420219/AcroRdrDC_2400420219_MUI.dmg
+Tue Nov  5 07:52:10 +04 2024: Downloaded file is already in place.
+Tue Nov  5 07:52:10 +04 2024: Mounting installer disk image.
+Tue Nov  5 07:52:10 +04 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+Tue Nov  5 07:52:22 +04 2024: Unmounting installer disk image.
+All volumes unmounted.
+Tue Nov  5 07:52:32 +04 2024: Deleting disk image.
+Tue Nov  5 07:52:32 +04 2024: ERROR: Adobe Reader update unsuccessful, version remains at 24.003.20180.
+--
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20219
+AB Installed Ver: 24.003.20180
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400420219
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400420219/AcrobatDCUpd2400420219.dmg
+****** Acrobat DMG is outdated or metadata mismatch. Downloading again. ******
+Tue Nov  5 07:52:47 +04 2024: Mounting installer disk image.
+Tue Nov  5 07:52:53 +04 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+installer: Package name is Adobe Acrobat (24.004.20219)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+Tue Nov  5 07:56:06 +04 2024: Unmounting installer disk image.
+Unmounting /dev/disk5s1
+Volume AcrobatDCUpd2400420219 on disk5s1 unmounted
+All volumes unmounted.
+Tue Nov  5 07:56:17 +04 2024: Deleting disk image.
+Tue Nov  5 07:56:17 +04 2024: SUCCESS: Adobe Full has been updated to version 24.004.20219
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Tue Nov  5 07:56:17 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+Following Updates are applicable on the system :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.0.1097/macuniversal) ...
+*** Successfully downloaded (ACR/17.0.0.1097/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (ACR/17.0.0.1097/macuniversal) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 4%Progress: 8%Progress: 11%Progress: 25%Progress: 26%Progress: 27%Progress: 28%Progress: 29%Progress: 31%Progress: 31%Progress: 33%Progress: 34%Progress: 35%Progress: 37%Progress: 38%Progress: 39%Progress: 40%Progress: 41%Progress: 43%Progress: 44%Progress: 45%Progress: 46%Progress: 47%Progress: 48%Progress: 50%Progress: 52%Progress: 52%Progress: 54%Progress: 65%Progress: 77%Progress: 78%Progress: 78%Progress: 79%Progress: 79%Progress: 80%Progress: 82%Progress: 83%Progress: 88%Progress: 95%Progress: 96%Progress: 98%Progress: 100%Exit Code: 0          
+*** Successfully installed (ACR/17.0.0.1097/macuniversal) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates were successfully installed :
+		(ACR/9.6/17.0/macuniversal)
+**************************************************
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Deleting: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/Adobe Acrobat Reader Helper.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/AdobeResourceSynchronizer.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 5-38-12.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Helpers/AdobeResourceSynchronizer.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader11-23-10.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Status: DISABLED for user itops
+*************End of Script*************
+*************End time: Tue Nov  5 08:02:46 +04 2024*************
+*************Elapsed time: 649 seconds*************
+App Sanity Check Completed
