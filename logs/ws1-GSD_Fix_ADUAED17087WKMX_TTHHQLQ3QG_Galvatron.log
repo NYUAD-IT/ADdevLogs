@@ -1,0 +1,236 @@
+******000000******Start of Script******000000******
+*************Start time: Mon Nov  4 17:08:17 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 
+GC Installed Ver: 
+****** Chrome version checked OK () ******
+*************Checking Firefox*************
+****** Firefox DMG is fresh and metadata matches. Skipping download. ******
+FF Stable Ver: 132.0
+FF Installed Ver: 132.0
+****** Firefox version checked OK (132.0) ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Nov  4 17:08:21 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+No instances of Google Chrome.app found outside /Applications.
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 1 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+Acrobat update is currently not supported on Apple Silicon devices
+**************************************************
+Following Updates are applicable on the system :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.0.1097/macuniversal) ...
+*** Failed to download (ACR/17.0.0.1097/macuniversal) ...
+Some Updates failed to download ...
+**************************************************
+No new Updates to be installed ...
+**************************************************
+Following Updates failed to Download :
+		(ACR/9.6/17.0/macuniversal)
+**************************************************
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Mon Nov  4 18:08:06 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 
+GC Installed Ver: 
+****** Chrome version checked OK () ******
+*************Checking Firefox*************
+****** Firefox DMG is fresh and metadata matches. Skipping download. ******
+FF Stable Ver: 132.0
+FF Installed Ver: 132.0
+****** Firefox version checked OK (132.0) ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Nov  4 18:08:09 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+No instances of Google Chrome.app found outside /Applications.
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+Acrobat update is currently not supported on Apple Silicon devices
+**************************************************
+Following Updates are applicable on the system :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.0.1097/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.0.1097/macuniversal) ...
+*** Successfully downloaded (ACR/17.0.0.1097/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (ACR/17.0.0.1097/macuniversal) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 4%Progress: 7%Progress: 12%Progress: 25%Progress: 27%Progress: 27%Progress: 29%Progress: 30%Progress: 31%Progress: 32%Progress: 34%Progress: 35%Progress: 36%Progress: 37%Progress: 39%Progress: 40%Progress: 41%Progress: 42%Progress: 44%Progress: 45%Progress: 46%Progress: 47%Progress: 49%Progress: 50%Progress: 52%Progress: 54%Progress: 73%Progress: 78%Progress: 78%Progress: 79%Progress: 79%Progress: 80%Progress: 82%Progress: 83%Progress: 87%Progress: 95%Progress: 96%Progress: 98%Progress: 100%Exit Code: 0          
+*** Successfully installed (ACR/17.0.0.1097/macuniversal) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates were successfully installed :
+		(ACR/9.6/17.0/macuniversal)
+**************************************************
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: arm64
+Installing Zoom for ARM
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: arm64
+Installing Zoom for ARM
+Checksumming Protective Master Boot Record (MBR : 0)…
+Protective Master Boot Record (MBR :: verified   CRC32 $C203F25B
+Checksumming GPT Header (Primary GPT Header : 1)…
+ GPT Header (Primary GPT Header : 1): verified   CRC32 $A4737F4D
+Checksumming GPT Partition Data (Primary GPT Table : 2)…
+GPT Partition Data (Primary GPT Tabl: verified   CRC32 $588135DA
+Checksumming  (Apple_Free : 3)…
+                    (Apple_Free : 3): verified   CRC32 $00000000
+Checksumming disk image (Apple_HFS : 4)…
+          disk image (Apple_HFS : 4): verified   CRC32 $07679627
+Checksumming  (Apple_Free : 5)…
+                    (Apple_Free : 5): verified   CRC32 $00000000
+Checksumming GPT Partition Data (Backup GPT Table : 6)…
+GPT Partition Data (Backup GPT Table: verified   CRC32 $588135DA
+Checksumming GPT Header (Backup GPT Header : 7)…
+  GPT Header (Backup GPT Header : 7): verified   CRC32 $FE7067D3
+verified   CRC32 $D842EE35
+/dev/disk5          	GUID_partition_scheme          	
+/dev/disk5s1        	Apple_HFS                      	/Volumes/vlc
+"/Volumes/vlc" unmounted successfully.
+Latest VLC Installed
+****** VLC check completed ******
+Deleting: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Deleting: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Deleting: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Deleting: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Deleting: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Status: DISABLED for user itops
+*************End of Script*************
+*************End time: Tue Nov  5 12:10:34 +04 2024*************
+*************Elapsed time: 64948 seconds*************
+App Sanity Check Completed
