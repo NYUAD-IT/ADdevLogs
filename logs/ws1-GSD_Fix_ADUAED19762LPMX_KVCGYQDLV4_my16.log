@@ -1,0 +1,149 @@
+******000000******Start of Script******000000******
+*************Start time: Wed Nov  6 08:35:32 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.92
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 130.0.6723.117
+GC Installed Ver: 130.0.6723.92
+****** Chrome version differs - installed: 130.0.6723.92, available: 130.0.6723.117 ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+"disk4" ejected.
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is not installed. Installing...
+Installing Microsoft AutoUpdate...
+installer: Package name is Microsoft AutoUpdate
+installer: Installing at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Microsoft AutoUpdate…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%36.059840
+installer:PHASE:Running package scripts…
+installer:%86.680003
+installer:PHASE:Running package scripts…
+installer:%88.684029
+installer:PHASE:Running package scripts…
+installer:%89.499271
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Validating packages…
+installer:%97.262500
+installer:PHASE:Registering updated applications…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The install was successful.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Wed Nov  6 08:36:27 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 1 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************No update found*************
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Status: DISABLED for user itops
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Wed Nov  6 08:36:42 +04 2024*************
+*************Elapsed time: 70 seconds*************
+App Sanity Check Completed
