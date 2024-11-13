@@ -24,3 +24,4 @@ Highest version available: 15.1
 Forced_Update to 15.1
 Error: 1 - The operation couldn’t be completed. (hubd.SWUpdateError error 1.)
 Request for software update failed
+==========Not WS1 enrolled==========
