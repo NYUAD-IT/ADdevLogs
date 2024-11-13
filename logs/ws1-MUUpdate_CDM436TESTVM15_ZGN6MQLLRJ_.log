@@ -51,3 +51,16 @@ Highest version available: 15.1
 Forced_Update to 15.1
 Error: 1 - The operation couldn’t be completed. (hubd.SWUpdateError error 1.)
 Request for software update failed
+============Sync started successfully============
+Tue Nov 12 00:46:53 +04 2024
+Current OS:  
+Current OS URL: https://support.apple.com
+Release Date: 
+20038 days since release date
+Is the release date more than 100 days? Yes
+Installed Version: 15.0
+CURRENT build for 15 is not available
+Highest version available: 15.1
+Forced_Update to 15.1
+Error: 1 - The operation couldn’t be completed. (hubd.SWUpdateError error 1.)
+Request for software update failed
