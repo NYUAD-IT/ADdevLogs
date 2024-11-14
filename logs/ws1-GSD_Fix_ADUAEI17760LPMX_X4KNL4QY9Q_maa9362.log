@@ -130,3 +130,14 @@ Deleted: /Users/Shared/NYUAD/09.jpg
 *************End time: Tue Nov  5 23:15:56 +04 2024*************
 *************Elapsed time: 601 seconds*************
 App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Nov 14 19:38:24 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.117
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 131.0.6778.70
+GC Installed Ver: 130.0.6723.117
+****** Chrome version differs - installed: 130.0.6723.117, available: 131.0.6778.70 ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+"disk5" ejected.
