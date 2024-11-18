@@ -152,3 +152,14 @@ Status: DISABLED for user itops
 *************End time: Tue Nov  5 06:18:30 CET 2024*************
 *************Elapsed time: 32527 seconds*************
 App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Mon Nov 18 16:01:25 CET 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.92
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 
+GC Installed Ver: 130.0.6723.92
+****** Chrome version differs - installed: 130.0.6723.92, available:  ******
+****** Application is currently running on target Mac. Proceeding Upgrade. ******
+****** Latest version of Chrome is now installed on target Mac. ******
+****** Firefox is not installed ******
