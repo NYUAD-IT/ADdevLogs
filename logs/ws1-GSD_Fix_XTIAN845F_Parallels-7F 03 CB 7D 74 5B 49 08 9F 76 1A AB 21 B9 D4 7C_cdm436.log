@@ -327,3 +327,55 @@ Windows Update not initiated. Set the -RunWindowsUpdate parameter to 'yes' to ex
 00000000000000000
 lastest
 #############GSD-Fix Completed#############
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_XTIAN845F_20241204_202959.log
+*************GSD Initiated at 2024-12-04 20:29:59*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is installed at C:\Users\cdm436\AppData\Local\Microsoft\WindowsApps\winget.exe
+*************Running Windows OS Updates*************
+Detected as **SKIPPED** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30mins) *************
+True
+winget.exe completed within the timeout period.
+************* Running Apps Updates (Timeout 30mins) *************
+True
+winget.exe completed within the timeout period.
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+*************Checking Firefox*************
+Mozilla Firefox entries found for user SID: .DEFAULT at .DEFAULT\Software\Mozilla\Firefox
+Mozilla Firefox entries found for user SID: S-1-5-21-1094488684-1085761819-831105157-1000 at S-1-5-21-1094488684-1085761819-831105157-1000\Software\Mozilla\Firefox
+Mozilla Firefox entries found for user SID: S-1-5-18 at S-1-5-18\Software\Mozilla\Firefox
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software\WOW6432Node
+
+Firefox not found. Exiting
+Adobe Creative Cloud is already installed.
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_XTIAN845F_20241204_202959.log
+###PSUsection###
+Windows Update not initiated. Set the -RunWindowsUpdate parameter to 'yes' to execute.
+###WGUsection 01###
+00000000000000000
+second to the last
+###WGUsection 02###
+00000000000000000
+lastest
+#############GSD-Fix Completed#############
