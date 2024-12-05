@@ -1,0 +1,84 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI16115LPWX_20241205_205910.log
+*************GSD Initiated at 2024-12-05 20:59:10*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+
+
+    Directory: C:\
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         12/5/2024   3:29 PM                temp                                                                 
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Downloaded: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is already installed.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI16115LPWX_20241205_205910.log
+
+
+###PSUsection###
+VERBOSE: ADUAEI16115LPWX (12/5/2024 9:00:20 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [33] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI161... Accepted   KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Accepted [1] Updates ready to Download
+2 ADUAEI161... Downloaded KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Downloaded [1] Updates ready to Install
+3 ADUAEI161... Installed  KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Installed [1] Updates
+Reboot is required, but do it manually.
+
+
+###WGUsection 01###
+###WGUsection 02###
+###WG7zip###
+7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
