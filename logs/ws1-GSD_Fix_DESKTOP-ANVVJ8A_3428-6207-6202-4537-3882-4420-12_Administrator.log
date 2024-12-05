@@ -3,3 +3,1023 @@
 ###WGUsection 01###
 ###WGUsection 02###
 #############GSD-Fix Completed#############
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_DESKTOP-ANVVJ8A_20241204_235136.log
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+The current user is a system account - nt authority\system. Run choco winget...
+winget.exe found at: C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\winget.exe
+"C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\winget.exe" upgrade --accept-package-agreements --accept-source-agreements --all --include-unknown --force --disable-interactivity --verbose --silent
+Log file content:
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id             Version       Available     Source
+----------------------------------------------------------------
+Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
+1 upgrades available.
+True
+winget.exe completed within the timeout period.
+winget.exe found at: C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\winget.exe
+"C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\winget.exe" upgrade --accept-package-agreements --accept-source-agreements --all --include-unknown --force --disable-interactivity --verbose --silent
+Log file content:
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id             Version       Available     Source
+----------------------------------------------------------------
+Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
+1 upgrades available.
+True
+winget.exe completed within the timeout period.
+Ghostscript folder not found. Skipped install process.
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file content:
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Found Adobe Creative Cloud [Adobe.CreativeCloud] Version 6.4.0.361
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://prod-rel-ffc-ccm.oobesaas.adobe.com/adobe-ffc-external/core/v1/wam/download?sapCode=KCCC&wamFeature=nuj-live
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.15 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.15 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’  3.00 MB / 3.15 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.15 MB / 3.15 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Successfully installed
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_DESKTOP-ANVVJ8A_20241204_235136.log
+###PSUsection###
+VERBOSE: DESKTOP-ANVVJ8A (12/4/2024 11:52:00 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [0] Updates in pre search criteria
+###WGUsection 01###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id             Version       Available     Source
+----------------------------------------------------------------
+Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
+1 upgrades available.
+###WGUsection 02###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id             Version       Available     Source
+----------------------------------------------------------------
+Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
+1 upgrades available.
+#############GSD-Fix Completed#############
