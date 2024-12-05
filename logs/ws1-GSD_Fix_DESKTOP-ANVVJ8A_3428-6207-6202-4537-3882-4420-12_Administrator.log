@@ -1023,3 +1023,410 @@ Name           Id             Version       Available     Source
 Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
 1 upgrades available.
 #############GSD-Fix Completed#############
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_DESKTOP-ANVVJ8A_20241205_004057.log
+*************GSD Initiated at 2024-12-05 00:40:57*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run choco winget...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30mins) *************
+True
+************* Running Apps Updates (Timeout 30mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+*************Checking Firefox*************
+
+Firefox not found. Exiting
+Adobe Creative Cloud is already installed.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_DESKTOP-ANVVJ8A_20241205_004057.log
+###PSUsection###
+VERBOSE: DESKTOP-ANVVJ8A (12/5/2024 12:41:22 AM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [1] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 DESKTOP-A... Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Accepted [1] Updates ready to Download
+2 DESKTOP-A... Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Downloaded [1] Updates ready to Install
+3 DESKTOP-A... Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Installed [1] Updates
+
+
+###WGUsection 01###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name                                                    Id                           Version       Available     Source
+-----------------------------------------------------------------------------------------------------------------------
+Microsoft Edge                                          Microsoft.Edge               100.0.1185.36 131.0.2903.70 winget
+Microsoft Visual C++ 2015-2022 Redistributable (x64) -â€¦ Microsoft.VCRedist.2015+.x64 14.32.31326.0 14.42.34433.0 winget
+Microsoft Visual C++ 2015-2022 Redistributable (x86) -â€¦ Microsoft.VCRedist.2015+.x86 14.32.31326.0 14.42.34433.0 winget
+3 upgrades available.
+
+(1/2) Found Microsoft Visual C++ 2015-2022 Redistributable (x64) [Microsoft.VCRedist.2015+.x64] Version 14.42.34433.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/c7dac50a-e3e8-40f6-bbb2-9cc4e3dfcabe/1821577409C35B2B9505AC833E246376CC68A8262972100444010B57226F0940/VC_redist.x64.exe
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  4.00 MB / 24.4 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  15.0 MB / 24.4 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  24.4 MB / 24.4 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+                                                                                                                        
+Successfully installed
+
+(2/2) Found Microsoft Visual C++ 2015-2022 Redistributable (x86) [Microsoft.VCRedist.2015+.x86] Version 14.42.34433.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/5319f718-2a84-4aff-86be-8dbdefd92ca1/DD1A8BE03398367745A87A5E35BEBDAB00FDAD080CF42AF0C3F20802D08C25D4/VC_redist.x86.exe
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  5.00 MB / 13.3 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  13.3 MB / 13.3 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Successfully installed
+
+w i n g e t . e x e   c o m p l e t e d   w i t h i n   t h e   t i m e o u t   p e r i o d . 
+ 
+ 
+###WGUsection 02###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id             Version       Available     Source
+----------------------------------------------------------------
+Microsoft Edge Microsoft.Edge 100.0.1185.36 131.0.2903.70 winget
+1 upgrades available.
+w i n g e t . e x e   c o m p l e t e d   w i t h i n   t h e   t i m e o u t   p e r i o d . 
+ 
+ 
+#############GSD-Fix Completed#############
