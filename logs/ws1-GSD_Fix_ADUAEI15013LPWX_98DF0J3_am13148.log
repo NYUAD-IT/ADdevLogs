@@ -1,0 +1,73 @@
+
+Deleted old log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_PatchV2_ADUAEI15013LPWX_20240524_101722.log
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI15013LPWX_20241205_152839.log
+*************GSD Initiated at 2024-12-05 15:28:40*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run choco winget...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30mins) *************
+True
+************* Running Apps Updates (Timeout 30mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Scan completed. Log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_log4j.log
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+JRE folder found. Parameter containsJRE set to True.
+Uninstalling Java 8 Update 391 (64-bit) using command: MsiExec.exe /X{72624AE4-039E-4CA4-87B4-2F64180391F0}
+*************Checking Firefox*************
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software
+Deleted Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Mozilla\Firefox\Extensions
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software\WOW6432Node
+Deleted Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\WOW6432Node\Mozilla\Firefox\Extensions
+
+Firefox not found. Exiting
+Adobe Creative Cloud is already installed.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI15013LPWX_20241205_152839.log
+###PSUsection###
+VERBOSE: ADUAEI15013LPWX (12/5/2024 3:29:00 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [53] Updates in pre search criteria
+VERBOSE: Found [3] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI150... Accepted   KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+1 ADUAEI150... Accepted   KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+1 ADUAEI150... Accepted   KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Accepted [3] Updates ready to Download
+2 ADUAEI150... Downloaded KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+2 ADUAEI150... Downloaded KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+2 ADUAEI150... Downloaded KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Downloaded [3] Updates ready to Install
+3 ADUAEI150... Installed  KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+3 ADUAEI150... Installed  KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+3 ADUAEI150... Installed  KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Installed [3] Updates
+Reboot is required, but do it manually.
+
+
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 23.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
