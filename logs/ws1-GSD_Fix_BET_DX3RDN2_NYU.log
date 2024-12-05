@@ -1,0 +1,76 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_BET_20241205_153457.log
+*************GSD Initiated at 2024-12-05 15:34:58*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is not installed.
+*************Checking Package Manager*************
+
+
+    Directory: C:\temp
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         12/5/2024   3:35 PM                winget                                                               
+Folder created at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run choco winget...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30mins) *************
+True
+************* Running Apps Updates (Timeout 30mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Downloaded: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+*************Checking Firefox*************
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software
+Deleted Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Mozilla\Firefox\extensions
+Mozilla Firefox entries found in HKEY_LOCAL_MACHINE\Software\WOW6432Node
+Deleted Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\WOW6432Node\Mozilla\Firefox\extensions
+
+Firefox not found. Exiting
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file not found.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_BET_20241205_153457.log
+
+
+###PSUsection###
+VERBOSE: BET (12/5/2024 3:35:47 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [10] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 BET          Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Accepted [1] Updates ready to Download
+2 BET          Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Downloaded [1] Updates ready to Install
+3 BET          Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Installed [1] Updates
+
+
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip is not installed or not found in default locations.
+#############GSD-Fix Completed#############
