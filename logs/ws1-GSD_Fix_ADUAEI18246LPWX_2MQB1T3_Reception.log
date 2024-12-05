@@ -1,0 +1,76 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI18246LPWX_20241205_152840.log
+*************GSD Initiated at 2024-12-05 15:28:41*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+
+
+    Directory: C:\temp
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----         12/5/2024   3:28 PM                winget                                                               
+Folder created at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run choco winget...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30mins) *************
+True
+************* Running Apps Updates (Timeout 30mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Downloaded: c:\temp\log4jscan-latest.jar
+Scan completed. Log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_log4j.log
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+*************Checking Firefox*************
+
+Firefox not found. Exiting
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file not found.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI18246LPWX_20241205_152840.log
+
+
+###PSUsection###
+VERBOSE: ADUAEI18246LPWX (12/5/2024 3:28:55 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [33] Updates in pre search criteria
+VERBOSE: Found [2] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI182... Accepted   KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+1 ADUAEI182... Accepted   KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Accepted [2] Updates ready to Download
+2 ADUAEI182... Downloaded KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+2 ADUAEI182... Downloaded KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Downloaded [2] Updates ready to Install
+3 ADUAEI182... Installed  KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+3 ADUAEI182... Installed  KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+VERBOSE: Installed [2] Updates
+Reboot is required, but do it manually.
+
+
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
