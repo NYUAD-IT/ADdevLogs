@@ -101,3 +101,30 @@ winget.exe completed within the timeout period.
 ###WGUsection 02###
 winget.exe completed within the timeout period.
 #############GSD-Fix Completed#############
+
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+###PSUsection###
+VERBOSE: ADUAEI14636LPWX (12/6/2024 1:47:43 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [32] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI146... Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Accepted [1] Updates ready to Download
+2 ADUAEI146... Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Downloaded [1] Updates ready to Install
+3 ADUAEI146... Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Installed [1] Updates
+
+
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 24.05 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
