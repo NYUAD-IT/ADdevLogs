@@ -220,3 +220,8 @@ No installed package found matching input criteria.
 ###WG7zip###
 7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
 #############GSD-Fix Completed#############
+
+###PSUsection###
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI18434LPWX_20241206_114625.log
+*************GSD Initiated at 2024-12-06 11:46:25*************
+*************Check and install Dependencies*************
