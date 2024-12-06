@@ -1,0 +1,86 @@
+
+Deleted old log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI11730LPWX_20240912_093236.log
+Deleted old log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_PSUJob_20240912_093825.log
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI11730LPWX_20241206_113625.log
+*************GSD Initiated at 2024-12-06 11:36:26*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is already installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file not found.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI11730LPWX_20241206_113625.log
+###PSUsection###
+VERBOSE: ADUAEI11730LPWX (12/6/2024 11:36:54 AM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [12] Updates in pre search criteria
+VERBOSE: Found [4] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI117... Accepted   KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+1 ADUAEI117... Accepted   KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+1 ADUAEI117... Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+1 ADUAEI117... Accepted   KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Accepted [4] Updates ready to Download
+2 ADUAEI117... Downloaded KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+2 ADUAEI117... Downloaded KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+2 ADUAEI117... Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+2 ADUAEI117... Downloaded KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Downloaded [4] Updates ready to Install
+3 ADUAEI117... Installed  KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+3 ADUAEI117... Installed  KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+3 ADUAEI117... Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+3 ADUAEI117... Installed  KB4023057    3MB 2023-11 Update for Windows 11 Version 23H2 for x64-based Systems (KB4023057)
+VERBOSE: Installed [4] Updates
+Reboot is required, but do it manually.
+
+
+###WGUsection 01###
+###WGUsection 02###
+###WG7zip###
+7-Zip version: 24.07 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
