@@ -1,0 +1,81 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI14991LPWX_20241206_135909.log
+*************GSD Initiated at 2024-12-06 13:59:10*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is already installed.
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+Following Acrobat/Reader updates are applicable on the system : 
+		(AdobeAcrobatDC-24.0)
+**************************************************
+**************************************************
+*** Installing (AdobeAcrobatDC-24.0) ...
+*** Failed to install (AdobeAcrobatDC-24.0) ...
+**************************************************
+No new applicable Updates. Seems like all products are up-to-date.
+Following Updates failed to Install :
+		(AdobeAcrobatDC-24.0)
+**************************************************
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI14991LPWX_20241206_135909.log
+###PSUsection###
+VERBOSE: ADUAEI14991LPWX (12/6/2024 1:59:56 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [11] Updates in pre search criteria
+VERBOSE: Found [0] Updates in post search criteria
+VERBOSE: Accepted [0] Updates ready to Download
+VERBOSE: Downloaded [0] Updates ready to Install
+VERBOSE: Installed [0] Updates
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
