@@ -1,0 +1,143 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAED13416WKWX_20241206_113632.log
+*************GSD Initiated at 2024-12-06 11:36:32*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Scan completed. Log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_log4j.log
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+JRE folder found. Parameter containsJRE set to True.
+Uninstalling Java 8 Update 401 (64-bit) using command: MsiExec.exe /X{71024AE4-039E-4CA4-87B4-2F64180401F0}
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file content:
+   -\|/-\|/-\|/- 
+Failed in attempting to update the source: winget
+The `msstore` source requires that you view the following agreements before using.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+The source requires the current machine's 2-letter geographic region to be sent to the backend service to function properly (ex. "US").
+
+Failed when searching source: winget
+An unexpected error occurred while executing the command: 
+0x8a15000f : Data required by the source is missing
+
+No packages were found among the working sources.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAED13416WKWX_20241206_113632.log
+###PSUsection###
+VERBOSE: ADUAED13416WKWX (12/6/2024 11:37:10 AM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [25] Updates in pre search criteria
+VERBOSE: Found [0] Updates in post search criteria
+VERBOSE: Accepted [0] Updates ready to Download
+VERBOSE: Downloaded [0] Updates ready to Install
+VERBOSE: Installed [0] Updates
+###WGUsection 01###
+Windows Package Manager v1.2.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Argument name was not recognized for the current command : '--include-unknown'
+
+Upgrades the selected package, either found by searching the installed packages list or directly from a manifest. By default, the query must case-insensitively match the id, name, or moniker of the package. Other fields can be used by passing their appropriate option.
+
+usage: winget upgrade [[-q] <query>] [<options>]
+
+The following arguments are available:
+  -q,--query                   The query used to search for a package
+
+The following options are available:
+  -m,--manifest                The path to the manifest of the package
+  --id                         Filter results by id
+  --name                       Filter results by name
+  --moniker                    Filter results by moniker
+  -v,--version                 Use the specified version; default is the latest version
+  -s,--source                  Find package using the specified source
+  -e,--exact                   Find package using exact match
+  -i,--interactive             Request interactive installation; user input may be needed
+  -h,--silent                  Request silent installation
+  -o,--log                     Log location (if supported)
+  --override                   Override arguments to be passed on to the installer
+  -l,--location                Location to install to (if supported)
+  --force                      Override the installer hash check
+  --accept-package-agreements  Accept all license agreements for packages
+  --accept-source-agreements   Accept all source agreements during source operations
+  --header                     Optional Windows-Package-Manager REST source HTTP header
+  --all                        Update all installed packages to latest if available
+
+More help can be found at: https://aka.ms/winget-command-upgrade
+###WGUsection 02###
+Windows Package Manager v1.2.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Argument name was not recognized for the current command : '--include-unknown'
+
+Upgrades the selected package, either found by searching the installed packages list or directly from a manifest. By default, the query must case-insensitively match the id, name, or moniker of the package. Other fields can be used by passing their appropriate option.
+
+usage: winget upgrade [[-q] <query>] [<options>]
+
+The following arguments are available:
+  -q,--query                   The query used to search for a package
+
+The following options are available:
+  -m,--manifest                The path to the manifest of the package
+  --id                         Filter results by id
+  --name                       Filter results by name
+  --moniker                    Filter results by moniker
+  -v,--version                 Use the specified version; default is the latest version
+  -s,--source                  Find package using the specified source
+  -e,--exact                   Find package using exact match
+  -i,--interactive             Request interactive installation; user input may be needed
+  -h,--silent                  Request silent installation
+  -o,--log                     Log location (if supported)
+  --override                   Override arguments to be passed on to the installer
+  -l,--location                Location to install to (if supported)
+  --force                      Override the installer hash check
+  --accept-package-agreements  Accept all license agreements for packages
+  --accept-source-agreements   Accept all source agreements during source operations
+  --header                     Optional Windows-Package-Manager REST source HTTP header
+  --all                        Update all installed packages to latest if available
+
+More help can be found at: https://aka.ms/winget-command-upgrade
+###WG7zip###
+7-Zip version: 23.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
