@@ -755,3 +755,12 @@ Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-Passma
 ###WG7zip###
 7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
 #############GSD-Fix Completed#############
+
+************* Running Apps Updates (Timeout 30 mins) *************
+************* Running Apps Updates (Timeout 30 mins) *************
+###PSUsection###
+###WGUsection 01###
+###WGUsection 02###
+###WG7zip###
+7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
