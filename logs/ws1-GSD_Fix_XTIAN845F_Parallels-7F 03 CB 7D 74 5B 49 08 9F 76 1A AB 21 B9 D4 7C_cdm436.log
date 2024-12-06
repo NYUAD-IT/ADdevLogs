@@ -655,3 +655,103 @@ Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-Passma
 ###WG7zip###
 7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
 #############GSD-Fix Completed#############
+
+************* Running Apps Updates (Timeout 30 mins) *************
+************* Running Apps Updates (Timeout 30 mins) *************
+###PSUsection###
+VERBOSE: XTIAN845F (12/6/2024 1:30:01 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [0] Updates in pre search criteria
+###WGUsection 01###
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+Name           Id                        Version       Available     Source
+---------------------------------------------------------------------------
+OSFMount       PassmarkSoftware.OSFMount Unknown       3.1.1003.0    winget
+Microsoft Edge Microsoft.Edge            131.0.2903.70 131.0.2903.86 winget
+2 upgrades available.
+
+(1/1) Found OSFMount [PassmarkSoftware.OSFMount] Version 3.1.1003.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Installer failed with exit code: 1
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-PassmarkSoftware.OSFMount.3.1.1003.0-2024-12-06-13-30-16.850.log
+
+###WGUsection 02###
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name           Id                        Version       Available     Source
+---------------------------------------------------------------------------
+OSFMount       PassmarkSoftware.OSFMount Unknown       3.1.1003.0    winget
+Microsoft Edge Microsoft.Edge            131.0.2903.70 131.0.2903.86 winget
+2 upgrades available.
+
+(1/1) Found OSFMount [PassmarkSoftware.OSFMount] Version 3.1.1003.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Installer failed with exit code: 1
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-PassmarkSoftware.OSFMount.3.1.1003.0-2024-12-06-13-30-23.757.log
+
+###WG7zip###
+7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
