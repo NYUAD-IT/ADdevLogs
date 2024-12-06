@@ -306,3 +306,225 @@ Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-Passma
 ###WG7zip###
 7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
 #############GSD-Fix Completed#############
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_XTIAN845F_20241206_125448.log
+*************GSD Initiated at 2024-12-06 12:54:48*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is installed at C:\Users\cdm436\AppData\Local\Microsoft\WindowsApps\winget.exe
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is already installed.
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_XTIAN845F_20241206_125448.log
+###PSUsection###
+VERBOSE: XTIAN845F (12/6/2024 12:55:06 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [1] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                                                                                                                                                                                                                                               
+- ------------ ------     --          ---- -----                                                                                                                                                                                                                                                                                               
+1 XTIAN845F    Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.421.647.0) - Current Channel (Broad)                                                                                                                                                                           
+VERBOSE: Accepted [1] Updates ready to Download
+2 XTIAN845F    Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.421.647.0) - Current Channel (Broad)                                                                                                                                                                           
+VERBOSE: Downloaded [1] Updates ready to Install
+3 XTIAN845F    Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.421.647.0) - Current Channel (Broad)                                                                                                                                                                           
+VERBOSE: Installed [1] Updates
+
+
+###WGUsection 01###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 1.50 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  1.50 MB / 1.50 MB
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name                   Id                        Version         Available       Source
+---------------------------------------------------------------------------------------
+Notepad++ (ARM 64-bit) Notepad++.Notepad++       8.7.3           8.7.4           winget
+OSFMount               PassmarkSoftware.OSFMount Unknown         3.1.1003.0      winget
+Microsoft Edge         Microsoft.Edge            131.0.2903.70   131.0.2903.86   winget
+NTLite                 Nlitesoft.NTLite          2024.12.10200.0 2024.12.10204.0 winget
+4 upgrades available.
+
+(1/3) Found Notepad++ [Notepad++.Notepad++] Version 8.7.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.7.4/npp.8.7.4.Installer.arm64.exe
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 6.02 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’  5.02 MB / 6.02 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  6.02 MB / 6.02 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+                                                                                                                        
+Successfully installed
+
+(2/3) Found OSFMount [PassmarkSoftware.OSFMount] Version 3.1.1003.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+Installer failed with exit code: 1
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-PassmarkSoftware.OSFMount.3.1.1003.0-2024-12-06-12-55-41.863.log
+
+(3/3) Found NTLite [Nlitesoft.NTLite] Version 2024.12.10204.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://downloads.ntlite.com/files/NTLite_setup_x64.exe
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  â–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 21.0 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  7.03 MB / 21.0 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  14.0 MB / 21.0 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’  16.0 MB / 21.0 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  19.0 MB / 21.0 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  21.0 MB / 21.0 MB
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+Successfully installed
+
+###WGUsection 02###
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+Name           Id                        Version       Available     Source
+---------------------------------------------------------------------------
+OSFMount       PassmarkSoftware.OSFMount Unknown       3.1.1003.0    winget
+Microsoft Edge Microsoft.Edge            131.0.2903.70 131.0.2903.86 winget
+2 upgrades available.
+
+(1/1) Found OSFMount [PassmarkSoftware.OSFMount] Version 3.1.1003.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+                                                                                                                        
+Installer failed with exit code: 1
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-PassmarkSoftware.OSFMount.3.1.1003.0-2024-12-06-12-55-58.280.log
+
+###WG7zip###
+7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
