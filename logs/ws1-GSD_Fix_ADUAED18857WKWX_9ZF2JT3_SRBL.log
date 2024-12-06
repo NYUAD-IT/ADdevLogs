@@ -1,0 +1,142 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAED18857WKWX_20241206_123738.log
+*************GSD Initiated at 2024-12-06 12:37:38*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+JRE folder found. Parameter containsJRE set to True.
+Uninstalling Java 8 Update 431 (64-bit) using command: MsiExec.exe /X{71024AE4-039E-4CA4-87B4-2F64180431F0}
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file not found.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAED18857WKWX_20241206_123738.log
+###PSUsection###
+VERBOSE: ADUAED18857WKWX (12/6/2024 12:40:48 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [3] Updates in pre search criteria
+VERBOSE: Found [0] Updates in post search criteria
+VERBOSE: Accepted [0] Updates ready to Download
+VERBOSE: Downloaded [0] Updates ready to Install
+VERBOSE: Installed [0] Updates
+###WGUsection 01###
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+   | 
+   / 
+   - 
+   \ 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 1.50 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  1.50 MB / 1.50 MB
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+
+   - 
+                                                                                                                        
+Name       Id                         Version      Available    Source
+----------------------------------------------------------------------
+EndNote 21 ClarivateAnalytics.EndNote 21.0.1.17232 21.5.0.18513 winget
+1 upgrades available.
+
+(1/1) Found EndNote 21 [ClarivateAnalytics.EndNote] Version 21.5.0.18513
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+   | 
+                                                                                                                        
+Another version of this application is already installed.
+Installer failed with exit code: 1638
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-ClarivateAnalytics.EndNote.21.5.0.18513-2024-12-06-12-41-10.012.log
+
+###WGUsection 02###
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  1024 KB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’  2.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’  3.00 MB / 3.24 MB
+  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  3.24 MB / 3.24 MB
+                                                                                                                        
+Name       Id                         Version      Available    Source
+----------------------------------------------------------------------
+EndNote 21 ClarivateAnalytics.EndNote 21.0.1.17232 21.5.0.18513 winget
+1 upgrades available.
+
+(1/1) Found EndNote 21 [ClarivateAnalytics.EndNote] Version 21.5.0.18513
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+   - 
+   \ 
+                                                                                                                        
+Another version of this application is already installed.
+Installer failed with exit code: 1638
+Installer log is available at: C:\WINDOWS\TEMP\WinGet\defaultState\WinGet-ClarivateAnalytics.EndNote.21.5.0.18513-2024-12-06-12-41-13.493.log
+
+###WG7zip###
+7-Zip version: 24.09 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
