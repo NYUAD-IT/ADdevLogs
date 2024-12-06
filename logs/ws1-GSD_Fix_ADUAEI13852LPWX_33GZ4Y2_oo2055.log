@@ -1,0 +1,84 @@
+
+Deleted old log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI13852LPWX_20240917_140113.log
+Deleted old log file: C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_PSUJob_20240917_140128.log
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI13852LPWX_20241206_113636.log
+*************GSD Initiated at 2024-12-06 11:36:37*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is not installed. Installing using winget...
+The process output has been logged to C:\temp\winget_log.txt
+Log file not found.
+Adobe Remote Update Manager is not installed.
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI13852LPWX_20241206_113636.log
+###PSUsection###
+VERBOSE: ADUAEI13852LPWX (12/6/2024 11:37:18 AM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [14] Updates in pre search criteria
+VERBOSE: Found [3] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI138... Accepted   KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+1 ADUAEI138... Accepted   KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+1 ADUAEI138... Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Accepted [3] Updates ready to Download
+2 ADUAEI138... Downloaded KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+2 ADUAEI138... Downloaded KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+2 ADUAEI138... Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Downloaded [3] Updates ready to Install
+3 ADUAEI138... Installed  KB890830    73MB Windows Malicious Software Removal Tool x64 - v5.130 (KB890830)             
+3 ADUAEI138... Installed  KB5048163   72MB 2024-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8.1 for Wi...
+3 ADUAEI138... Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Installed [3] Updates
+Reboot is required, but do it manually.
+
+
+###WGUsection 01###
+###WGUsection 02###
+###WG7zip###
+7-Zip version: 24.06 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
