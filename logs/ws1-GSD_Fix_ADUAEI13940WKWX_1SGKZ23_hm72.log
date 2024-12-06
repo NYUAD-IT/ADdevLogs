@@ -1,0 +1,105 @@
+
+Transcript started, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI13940WKWX_20241206_113624.log
+*************GSD Initiated at 2024-12-06 11:36:24*************
+*************Check and install Dependencies*************
+NuGet provider is installed.
+*************Checking PSU Module*************
+PSWindowsUpdate module is installed.
+*************Checking Package Manager*************
+Folder already exists at C:\temp\winget
+winget is not installed.
+Microsoft.VCLibs.x64.14.00.Desktop.appx is not installed. Installing...
+Microsoft.VCLibs.x64.14.00.Desktop.appx has been installed.
+Microsoft.UI.Xaml.2.8.x64.appx is not installed. Installing...
+Microsoft.UI.Xaml.2.8.x64.appx has been installed.
+Dependencies have been checked and installed successfully.
+The current user is a system account - nt authority\system. Run 2nd try...
+winget-install 5.0.5
+To check for updates, run winget-install -CheckForUpdate
+To delay script exit, run winget-install -Wait
+To force script pausing after execution, run winget-install -NoExit
+
+##########
+# winget #
+##########
+
+Installing Microsoft.WinGet.Client module...
+Installing winget (this takes a minute or two)...
+
+############
+# Complete #
+############
+
+winget installed successfully.
+Checking if winget is installed and working...
+*************Running Windows OS Updates*************
+Detected as **GSD** process is runinng - Logs below look for ***PSUsection***
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+*************Checking for Silverlight*************
+Silverlight is not installed.
+*************Checking log4j*************
+Using existing JAR file: c:\temp\log4jscan-latest.jar
+Failed to execute log4j scan
+*************Checking Ghostscript*************
+Ghostscript folder not found. Skipped install process.
+*************Checking Java*************
+No JDK folder found. Parameter containsJDK remains False.
+No JRE folder found. Parameter containsJRE remains False.
+Adobe Creative Cloud is already installed.
+RemoteUpdateManager version is : 2.4.0.2
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+Following Updates are applicable on the system :
+		(CCXP/6.1.0.9/win32)
+		(LIBS/4.6.4.2/win32)
+**************************************************
+Following Updates are to be downloaded :
+		(CCXP/6.1.0.9/win32)
+		(LIBS/4.6.4.2/win32)
+**************************************************
+*** Downloading (CCXP/6.1.0.9/win32) ...
+*** Successfully downloaded (CCXP/6.1.0.9/win32) ...
+*** Downloading (LIBS/4.6.4.2/win32) ...
+*** Successfully downloaded (LIBS/4.6.4.2/win32) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (CCXP/6.1.0.9/win32) ...
+*** Successfully installed (CCXP/6.1.0.9/win32) ...
+*** Installing (LIBS/4.6.4.2/win32) ...
+*** Successfully installed (LIBS/4.6.4.2/win32) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates were successfully installed :
+		(CCXP/2.2.1/6.1.0/win32)
+		(LIBS/2.14.7/4.6.4/win32)
+**************************************************
+RemoteUpdateManager exiting with Return Code (0)
+Transcript stopped, output file is C:\ProgramData\AirWatch\UnifiedAgent\Logs\ADWX_GSD_Patch_ADUAEI13940WKWX_20241206_113624.log
+###PSUsection###
+VERBOSE: ADUAEI13940WKWX (12/6/2024 11:40:30 AM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [17] Updates in pre search criteria
+VERBOSE: Found [1] Updates in post search criteria
+
+X ComputerName Result     KB          Size Title                                                                       
+- ------------ ------     --          ---- -----                                                                       
+1 ADUAEI139... Accepted   KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Accepted [1] Updates ready to Download
+2 ADUAEI139... Downloaded KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Downloaded [1] Updates ready to Install
+3 ADUAEI139... Installed  KB2267602    1GB Security Intelligence Update for Microsoft Defender Antivirus - KB2267602...
+VERBOSE: Installed [1] Updates
+
+
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 23.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
