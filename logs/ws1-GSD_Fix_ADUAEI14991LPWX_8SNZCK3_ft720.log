@@ -36,3 +36,14 @@ winget.exe completed within the timeout period.
 ###WG7zip###
 7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
 #############GSD-Fix Completed#############
+
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+###PSUsection###
+###WGUsection 01###
+###WGUsection 02###
+###WG7zip###
+7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
