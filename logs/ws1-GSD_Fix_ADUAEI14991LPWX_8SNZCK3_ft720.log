@@ -1,0 +1,19 @@
+
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+************* Running Apps Updates (Timeout 30 mins) *************
+True
+###PSUsection###
+VERBOSE: ADUAEI14991LPWX (12/6/2024 1:59:56 PM): Connecting to Microsoft Update server. Please wait...
+VERBOSE: Found [11] Updates in pre search criteria
+VERBOSE: Found [0] Updates in post search criteria
+VERBOSE: Accepted [0] Updates ready to Download
+VERBOSE: Downloaded [0] Updates ready to Install
+VERBOSE: Installed [0] Updates
+###WGUsection 01###
+winget.exe completed within the timeout period.
+###WGUsection 02###
+winget.exe completed within the timeout period.
+###WG7zip###
+7-Zip version: 22.01 (Path: C:\Program Files\7-Zip\7z.exe)
+#############GSD-Fix Completed#############
