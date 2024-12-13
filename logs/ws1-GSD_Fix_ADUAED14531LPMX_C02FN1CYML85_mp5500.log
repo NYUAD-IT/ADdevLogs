@@ -1,0 +1,643 @@
+******000000******Start of Script******000000******
+*************Start time: Mon Nov  4 19:53:05 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.92
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 130.0.6723.92
+GC Installed Ver: 130.0.6723.92
+****** Chrome version checked OK (130.0.6723.92) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Nov  4 19:53:14 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 1 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: x86_64
+Installing Zoom for Intel
+Checksumming Protective Master Boot Record (MBR : 0)…
+Protective Master Boot Record (MBR :: verified   CRC32 $D8D65A25
+Checksumming GPT Header (Primary GPT Header : 1)…
+ GPT Header (Primary GPT Header : 1): verified   CRC32 $B2A7C206
+Checksumming GPT Partition Data (Primary GPT Table : 2)…
+GPT Partition Data (Primary GPT Tabl: verified   CRC32 $7E22E383
+Checksumming  (Apple_Free : 3)…
+                    (Apple_Free : 3): verified   CRC32 $00000000
+Checksumming disk image (Apple_HFS : 4)…
+          disk image (Apple_HFS : 4): verified   CRC32 $2515A59F
+Checksumming  (Apple_Free : 5)…
+                    (Apple_Free : 5): verified   CRC32 $00000000
+Checksumming GPT Partition Data (Backup GPT Table : 6)…
+GPT Partition Data (Backup GPT Table: verified   CRC32 $7E22E383
+Checksumming GPT Header (Backup GPT Header : 7)…
+  GPT Header (Backup GPT Header : 7): verified   CRC32 $39A5E5C4
+verified   CRC32 $59128FB7
+/dev/disk2          	GUID_partition_scheme          	
+/dev/disk2s1        	Apple_HFS                      	/Volumes/vlc
+"/Volumes/vlc" unmounted successfully.
+Latest VLC Installed
+****** VLC check completed ******
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Status: ENABLED for user itops
+*************End of Script*************
+*************End time: Mon Nov  4 19:57:32 +04 2024*************
+*************Elapsed time: 267 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Nov 14 16:30:08 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 130.0.6723.117
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 131.0.6778.70
+GC Installed Ver: 130.0.6723.117
+****** Chrome version differs - installed: 130.0.6723.117, available: 131.0.6778.70 ******
+****** Application is currently running on target Mac. Proceeding Upgrade. ******
+****** Latest version of Chrome is now installed on target Mac. ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.91.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Nov 14 16:37:46 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 7 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+Following Updates are applicable on the system :
+		(ACR/17.0.1.7/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(ACR/17.0.1.7/macuniversal)
+**************************************************
+*** Downloading (ACR/17.0.1.7/macuniversal) ...
+*** Successfully downloaded (ACR/17.0.1.7/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (ACR/17.0.1.7/macuniversal) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 3%Progress: 5%Progress: 7%Progress: 9%Progress: 11%Progress: 13%Progress: 25%Progress: 26%Progress: 27%Progress: 27%Progress: 28%Progress: 28%Progress: 29%Progress: 29%Progress: 30%Progress: 31%Progress: 31%Progress: 32%Progress: 32%Progress: 33%Progress: 34%Progress: 34%Progress: 35%Progress: 35%Progress: 36%Progress: 36%Progress: 37%Progress: 38%Progress: 38%Progress: 39%Progress: 40%Progress: 40%Progress: 41%Progress: 42%Progress: 42%Progress: 43%Progress: 43%Progress: 44%Progress: 44%Progress: 45%Progress: 45%Progress: 46%Progress: 47%Progress: 48%Progress: 49%Progress: 49%Progress: 50%Progress: 50%Progress: 51%Progress: 51%Progress: 52%Progress: 52%Progress: 53%Progress: 54%Progress: 58%Progress: 67%Progress: 76%Progress: 78%Progress: 78%Progress: 79%Progress: 79%Progress: 80%Progress: 81%Progress: 82%Progress: 83%Progress: 85%Progress: 88%Progress: 96%Progress: 97%Progress: 98%Progress: 100%Exit Code: 0          
+*** Successfully installed (ACR/17.0.1.7/macuniversal) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates were successfully installed :
+		(ACR/9.6/17.0.1/macuniversal)
+**************************************************
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Deleting: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: ENABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Thu Nov 14 20:25:13 +04 2024*************
+*************Elapsed time: 14105 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Fri Nov 22 16:35:03 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.86
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 131.0.6778.86
+GC Installed Ver: 131.0.6778.86
+****** Chrome version checked OK (131.0.6778.86) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.91.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Fri Nov 22 16:35:06 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: ENABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Fri Nov 22 16:35:33 +04 2024*************
+*************Elapsed time: 30 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Dec 12 17:12:24 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.140
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 131.0.6778.140
+GC Installed Ver: 131.0.6778.140
+****** Chrome version checked OK (131.0.6778.140) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.92.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Dec 12 17:12:27 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 1 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+Following Updates are applicable on the system :
+		(CCXP/6.1.0.9/osx10-64)
+		(ACR/17.1.0.55/macuniversal)
+		(LIBS/4.8.23.1/osx10-64)
+**************************************************
+Following Updates are to be downloaded :
+		(CCXP/6.1.0.9/osx10-64)
+		(ACR/17.1.0.55/macuniversal)
+		(LIBS/4.8.23.1/osx10-64)
+**************************************************
+*** Downloading (CCXP/6.1.0.9/osx10-64) ...
+*** Successfully downloaded (CCXP/6.1.0.9/osx10-64) ...
+*** Downloading (ACR/17.1.0.55/macuniversal) ...
+*** Failed to download (ACR/17.1.0.55/macuniversal) ...
+*** Downloading (LIBS/4.8.23.1/osx10-64) ...
+*** Successfully downloaded (LIBS/4.8.23.1/osx10-64) ...
+Some Updates failed to download ...
+**************************************************
+*** Installing (CCXP/6.1.0.9/osx10-64) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 2%Progress: 3%Progress: 4%Progress: 22%Progress: 32%Progress: 42%Progress: 60%Progress: 61%Progress: 61%Progress: 62%Progress: 62%Progress: 63%Progress: 64%Progress: 65%Progress: 65%Progress: 66%Progress: 67%Progress: 69%Progress: 70%Progress: 71%Progress: 72%Progress: 73%Progress: 74%Progress: 75%Progress: 76%customhook: 79.53ms
+directories on user machine [
+  'com.adobe.ccx.start-6.7.0',
+  'com.adobe.ccx.start-6.8.0',
+  'com.adobe.ccx.start-7.0.0',
+  'com.adobe.ccx.start-7.1.0',
+  'com.adobe.ccx.start-7.2.1',
+  'com.adobe.ccx.start-7.3.0',
+  'com.adobe.ccx.start-7.4.0',
+  'com.adobe.ccx.start-7.5.0',
+  'com.adobe.ccx.start-7.8.0',
+  'com.adobe.ccx.start-7.9.0'
+]
+builds to keep [
+  'com.adobe.ccx.start-6.7.0',
+  'com.adobe.ccx.start-6.8.0',
+  'com.adobe.ccx.start-7.0.0',
+  'com.adobe.ccx.start-7.1.0',
+  'com.adobe.ccx.start-7.2.1',
+  'com.adobe.ccx.start-7.9.0'
+]
+directories to delete [
+  'com.adobe.ccx.start-7.3.0',
+  'com.adobe.ccx.start-7.4.0',
+  'com.adobe.ccx.start-7.5.0',
+  'com.adobe.ccx.start-7.8.0'
+]
+Deleted: com.adobe.ccx.start-7.3.0
+Deleted: com.adobe.ccx.start-7.4.0
+Deleted: com.adobe.ccx.start-7.8.0
+Deleted: com.adobe.ccx.start-7.5.0
+Progress: 77%Progress: 84%Progress: 85%Progress: 87%Progress: 88%Progress: 89%Progress: 90%Progress: 91%Progress: 92%Progress: 93%Progress: 94%Progress: 95%Progress: 96%Progress: 97%Progress: 97%Progress: 100%Exit Code: 0          
+*** Successfully installed (CCXP/6.1.0.9/osx10-64) ...
+*** Installing (LIBS/4.8.23.1/osx10-64) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 3%Progress: 4%Progress: 6%Progress: 10%Progress: 18%Progress: 21%Progress: 31%Progress: 41%Progress: 48%Progress: 53%Progress: 71%Progress: 72%Progress: 73%Progress: 73%Progress: 74%Progress: 75%Progress: 76%Progress: 78%Progress: 82%Progress: 83%Progress: 83%Progress: 89%Progress: 90%Progress: 92%Progress: 93%Progress: 95%Progress: 97%Progress: 98%Progress: 100%Exit Code: 0          
+*** Successfully installed (LIBS/4.8.23.1/osx10-64) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates failed to Download :
+		(ACR/9.6/17.1/macuniversal)
+**************************************************
+Following Updates were successfully installed :
+		(CCXP/2.2.1/6.1.0/osx10-64)
+		(LIBS/2.14.7/4.8.23/osx10-64)
+**************************************************
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: ENABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Fri Dec 13 17:56:33 +04 2024*************
+*************Elapsed time: 89049 seconds*************
+App Sanity Check Completed
