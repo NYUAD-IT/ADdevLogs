@@ -386,3 +386,229 @@ File not found: /Users/Shared/NYUAD/09.jpg
 *************End time: Fri Nov 22 16:40:12 +04 2024*************
 *************Elapsed time: 22 seconds*************
 App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Dec 12 16:23:58 WET 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.109
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 
+GC Installed Ver: 131.0.6778.109
+****** Chrome version differs - installed: 131.0.6778.109, available:  ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is either more than 7 days old or does not exist. Running scan...
+****** Scan completed. Log file: /Users/Shared/log4j.log ******
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.005.20320
+AB Installed Ver: 24.004.20219
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400520320
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400520320/AcrobatDCUpd2400520320.dmg
+****** Acrobat DMG is outdated or metadata mismatch. Downloading again. ******
+Thu Dec 12 16:56:29 WET 2024: Mounting installer disk image.
+Thu Dec 12 16:56:30 WET 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+installer: Error - the package path specified was invalid: '/Volumes/AcrobatDCUpd2400520320/AcrobatDCUpd2400520320.pkg'.
+Thu Dec 12 16:56:40 WET 2024: Unmounting installer disk image.
+All volumes unmounted.
+Thu Dec 12 16:56:50 WET 2024: Deleting disk image.
+Thu Dec 12 16:56:50 WET 2024: ERROR: Adobe Full update unsuccessful, version remains at 24.004.20219.
+****** Acrobat DC is outdated or metadata mismatch. Downloading again. ******
+installer: Package name is Adobe Acrobat (Continuous)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+****** Acrobat DC full install performed as updater failed. ******
+AB Stable Ver: 24.005.20320
+AB Installed Ver: 24.005.20320
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.92.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Dec 12 17:14:13 WET 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Renaming /Applications/Unity/Hub/Editor/6000.0.29f1/PlaybackEngines/AndroidPlayer/OpenJDK/lib/jrt-fs.jar to /Applications/Unity/Hub/Editor/6000.0.29f1/PlaybackEngines/AndroidPlayer/OpenJDK/lib/jrt-fs.ogjarbak
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+Java is required. Install Zulu JDK
+ARM architecture. Downloading arm64 binaries...
+Filename: zulu23.30.13-ca-jdk23.0.1-macosx_aarch64.dmg
+****** Java DMG is outdated or metadata mismatch. Downloading again. ******
+Thu Dec 12 17:45:54 WET 2024: Updating Java...
+Mounting /Users/Shared/zulu23.30.13-ca-jdk23.0.1-macosx_aarch64.dmg
+Thu Dec 12 17:45:54 WET 2024: Clean up JRE traces...
+Installing  ****************
+installer: Error - the package path specified was invalid: ''.
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+Following Acrobat/Reader updates are applicable on the system : 
+		(AdobeARMDCHelper/1.2.6)
+**************************************************
+**************************************************
+*** Installing (AdobeARMDCHelper/1.2.6) ...
+*** Failed to install (AdobeARMDCHelper/1.2.6) ...
+**************************************************
+Following Updates are applicable on the system :
+		(LIBS/4.8.23.1/macarm64)
+**************************************************
+Following Updates are to be downloaded :
+		(LIBS/4.8.23.1/macarm64)
+**************************************************
+*** Downloading (LIBS/4.8.23.1/macarm64) ...
+*** Successfully downloaded (LIBS/4.8.23.1/macarm64) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (LIBS/4.8.23.1/macarm64) ...
+Progress: 0%Progress: 1%Progress: 1%Progress: 2%Progress: 9%Progress: 19%Progress: 39%Progress: 71%Progress: 72%Progress: 73%Progress: 73%Progress: 74%Progress: 75%Progress: 76%Progress: 78%Progress: 82%Progress: 83%Progress: 89%Progress: 90%Progress: 92%Progress: 93%Progress: 95%Progress: 96%Progress: 97%Progress: 100%*** Successfully installed (LIBS/4.8.23.1/macarm64) ...
+All Updates installed successfully ...
+**************************************************
+Following Updates failed to Install :
+		(AdobeARMDCHelper/1.2.6)
+**************************************************
+Following Updates were successfully installed :
+		(LIBS/2.14.7/4.8.23/macarm64)
+**************************************************
+Exit Code: 0          
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Users/ya2331/Sadler Edepli Lab Dropbox/Yousra Ajouaou/Mac (2)/Desktop/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/md3886/Documents/Fiji
+Path not found, skipping: /private/tmp/msu-target-QYBdEQDz/Users/ag6042/Applications/IBKR Desktop/.install4j/jre.bundle
+Path not found, skipping: /Users/ekm294/Library/Application Support/OnVUE/Pearson VUE Browser Lock.app
+Path not found, skipping: /System/Volumes/Data/Users/mk8962/miniconda/envs/rnaseq/lib/jvm/lib
+Path not found, skipping: /System/Volumes/Data/Users/im57/.lunarclient/jre/288956c9fcac16cc8301a1f619294800723bbfcd/zulu21.30.15-ca-jre21.0.1-macosx_x64/zulu-21.jre
+Path not found, skipping: /Applications/Steinberg Download Assistant/Steinberg Download Assistant.app/Contents/PlugIns/Java.runtime
+Path not found, skipping: /Users/sj4095/Applications/IBKR Desktop/.install4j/jre.bundle
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /System/Volumes/Data/opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/wz19/.nutstore/apps/lightapp/1.1.0/NutstoreLightApp.app/Contents/PlugIns/jdk-fx.jdk
+Path not found, skipping: /System/Volumes/Data/Applications/CLC Genomics Workbench 23/.install4j/jre.bundle
+Path not found, skipping: /Applications/Integrated Genome Browser/.install4j/jre.bundle
+Path not found, skipping: /System/Volumes/Data/Users/rk1253/bin/JDownloader 2.0/.install4j/jre.bundle
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: ENABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Thu Dec 12 18:35:36 WET 2024*************
+*************Elapsed time: 7898 seconds*************
+App Sanity Check Completed
