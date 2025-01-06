@@ -1,0 +1,29 @@
+============Sync started successfully============
+============Sync started successfully============
+Fri Jan 3 23:56:57 +04 2025
+Current OS:  
+Current OS URL: https://support.apple.com
+Release Date: 
+20092 days since release date
+Is the release date more than 200 days? Yes
+Installed Version: 15.0
+CURRENT build for 15 is not available
+List of available version 15.2 15.1.1 15.1 15.0.1 15.0 14.7.2 14.7.1 14.7 14.4.1 
+Highest version available4: 15.2
+Forced_Update to 15.2
+Error: 1 - The operation couldn’t be completed. (hubd.SWUpdateError error 1.)
+Request for software update failed
+============Sync started successfully============
+Mon Jan 6 23:14:07 +04 2025
+Current OS: macOS Sequoia 15
+Current OS URL: https://support.apple.com/en-ae/121238
+Release Date: September 16, 2024
+112 days since release date
+Is the release date more than 200 days? NO
+Installed Version: 15.0
+CURRENT build for 15 is 15.2
+List of available version 15.2 15.1.1 15.1 15.0.1 15.0 14.7.2 14.7.1 14.7 14.4.1 
+Highest version available2: 15.2
+Forced_Update to 15.2
+Error: 1 - The operation couldn’t be completed. (hubd.SWUpdateError error 1.)
+Request for software update failed
