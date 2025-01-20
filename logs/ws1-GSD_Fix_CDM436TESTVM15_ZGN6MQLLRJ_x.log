@@ -875,3 +875,184 @@ File not found: /Users/Shared/NYUAD/09.jpg
 *************End time: Mon Jan 20 18:44:28 +04 2025*************
 *************Elapsed time: 214 seconds*************
 App Sanity Check Completed
+###################################################
+******000000******GSD Fix Started******000000******
+###################################################
+*************Start time: Mon Jan 20 18:49:20 +04 2025*************
+*************Checking Chrome*************
+GC Installed Ver: 132.0.6834.84
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 132.0.6834.84
+GC Installed Ver: 132.0.6834.84
+****** Chrome version checked OK (132.0.6834.84) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Microsoft Word is not installed.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Jan 20 18:49:29 +04 2025: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Fiji*************
+Fiji.app not found. Skipping download and install.
+No action taken.
+*************Check complete for Fiji *************
+*************Checking Safari*************
+macOS version is above 14.0. Skipping installation.
+*************Check complete for Safari for macOS 11-14 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/ao1217/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Applications/Fiji 3.app
+Path not found, skipping: /Applications/Fiji 2.app
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/__MACOSX/VLC.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is x
+Homebrew update check 1
+Already up-to-date.
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+Application not found at /Applications/Firefox.app. Skipping...
+Installing vlc...
+Installing zoom...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/c2539a0c8502d24678f74769017d7995cd1e00b4/Casks/z/zoom.rb
+Already downloaded: /Users/x/Library/Caches/Homebrew/downloads/f05b7fd7ed749b23a01d5360559fce45a08c32dd093f7134f1d761f96085392f--zoom.rb
+==> Verifying checksum for 'f05b7fd7ed749b23a01d5360559fce45a08c32dd093f7134f1d761f96085392f--zoom.rb'
+==> Downloading https://cdn.zoom.us/prod/6.3.6.47101/zoomusInstallerFull.pkg
+Already downloaded: /Users/x/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg
+==> Verifying checksum for 'adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg'
+==> Installing Cask zoom
+cp -p /Users/x/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg /usr/local/Caskroom/zoom/6.3.6.47101/zoomusInstallerFull.pkg
+==> Running installer for zoom with sudo; the password may be necessary.
+==> Purging files for version 6.3.6.47101 of Cask zoom
+Installing google-chrome...
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+Already downloaded: /Users/x/Library/Caches/Homebrew/downloads/88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250120-6645-x39p0u/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.84/.keystone_install
+mv /private/tmp/homebrew-unpack-20250120-6645-x39p0u/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.84/Google Chrome.app
+==> Removing App '/Applications/Google Chrome.app'
+==> Using sudo to gain ownership of path '/Applications/Google Chrome.app'
+==> Purging files for version 132.0.6834.84 of Cask google-chrome
+Application not found at /Applications/Google Drive.app. Skipping...
+Application not found at /Applications/Cisco Jabber.app. Skipping...
+Application not found at /Applications/Microsoft Outlook.app. Skipping...
+Application not found at /Applications/Adobe Acrobat Reader.app. Skipping...
+Application not found at /Applications/Adobe Acrobat DC. Skipping...
+Application not found at /Applications/Wireshark.app. Skipping...
+Application not found at /Applications/VMware Fusion.app. Skipping...
+Application not found at /Applications/Thunderbird.app. Skipping...
+*************Brew check completed*************
+*************Get more info*************
+########TOKEN
+Status: DISABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Mon Jan 20 18:50:28 +04 2025*************
+*************Elapsed time: 68 seconds*************
+App Sanity Check Completed
