@@ -2345,3 +2345,912 @@ Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/7ea666e6f1bd
 /Applications/Microsoft Word.app
 /Applications/OneDrive.app
 ==> Purging files for version 16.93.25011212 of Cask microsoft-office-businesspro
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is cdm436
+Homebrew update check 1
+Already up-to-date.
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/01dbcb38687f3d1bffb5a0f88d92dfc138a269e5/Casks/v/vlc.rb
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/7ea666e6f1bd4685d443f0547bec4e6777c8f462e7b17a2f57ebfd8b77f651ad--vlc.rb
+==> Verifying checksum for '7ea666e6f1bd4685d443f0547bec4e6777c8f462e7b17a2f57ebfd8b77f651ad--vlc.rb'
+==> Downloading https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg
+==> Verifying checksum for 'f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg'
+==> Installing Cask vlc
+mv /private/tmp/homebrew-unpack-20250120-38379-mi85pn/.background.tiff /usr/local/Caskroom/vlc/3.0.21/.background.tiff
+mv /private/tmp/homebrew-unpack-20250120-38379-mi85pn/VLC.app /usr/local/Caskroom/vlc/3.0.21/VLC.app
+==> Moving App 'VLC.app' to '/Applications/VLC.app'
+==> Linking Binary 'vlc.wrapper.sh' to '/usr/local/bin/vlc'
+🍺  vlc was successfully installed!
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/01dbcb38687f3d1bffb5a0f88d92dfc138a269e5/Casks/z/zoom.rb
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/e57d04f368b62c81f28c2216ea277e5b0a1b16f0280bd98fdb28a01aac1d99ae--zoom.rb
+==> Verifying checksum for 'e57d04f368b62c81f28c2216ea277e5b0a1b16f0280bd98fdb28a01aac1d99ae--zoom.rb'
+==> Downloading https://cdn.zoom.us/prod/6.3.6.47101/zoomusInstallerFull.pkg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg
+==> Verifying checksum for 'adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg'
+==> Installing Cask zoom
+cp -p /Users/cdm436/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg /usr/local/Caskroom/zoom/6.3.6.47101/zoomusInstallerFull.pkg
+==> Running installer for zoom with sudo; the password may be necessary.
+installer: Package name is Zoom Workplace
+installer: Installing at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Zoom Workplace…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%8.736604
+installer:PHASE:Writing files…
+installer:%11.418450
+installer:PHASE:Writing files…
+installer:%21.251888
+installer:PHASE:Writing files…
+installer:%25.721633
+installer:PHASE:Writing files…
+installer:%38.236917
+installer:PHASE:Writing files…
+installer:%45.750417
+installer:PHASE:Running package scripts…
+installer:%47.216257
+installer:PHASE:Registering package with system…
+installer:%57.316647
+installer:PHASE:Running package scripts…
+installer:%57.763494
+installer:PHASE:Running package scripts…
+installer:%57.903793
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:%59.951230
+installer:PHASE:Registering updated components…
+installer:%60.398289
+installer:PHASE:Registering updated components…
+installer:%60.845273
+installer:PHASE:Registering updated components…
+installer:%61.292208
+installer:PHASE:Registering updated components…
+installer:%61.739184
+installer:PHASE:Registering updated components…
+installer:%62.186168
+installer:PHASE:Registering updated components…
+installer:%62.633811
+installer:PHASE:Registering updated components…
+installer:%63.079941
+installer:PHASE:Registering updated components…
+installer:%63.526993
+installer:PHASE:Registering updated components…
+installer:%63.973912
+installer:PHASE:Registering updated components…
+installer:%64.420874
+installer:PHASE:Registering updated components…
+installer:%64.867862
+installer:PHASE:Registering updated components…
+installer:%65.314908
+installer:PHASE:Registering updated components…
+installer:%65.761899
+installer:PHASE:Registering updated components…
+installer:%66.208927
+installer:PHASE:Registering updated components…
+installer:%66.655836
+installer:PHASE:Registering updated components…
+installer:%67.102865
+installer:PHASE:Registering updated components…
+installer:%67.549782
+installer:PHASE:Registering updated components…
+installer:%67.996807
+installer:PHASE:Registering updated components…
+installer:%68.443798
+installer:PHASE:Registering updated components…
+installer:%68.890777
+installer:PHASE:Registering updated components…
+installer:%69.337651
+installer:PHASE:Registering updated components…
+installer:%69.784678
+installer:PHASE:Registering updated components…
+installer:%70.231611
+installer:PHASE:Registering updated components…
+installer:%70.678632
+installer:PHASE:Registering updated components…
+installer:%71.125620
+installer:PHASE:Registering updated components…
+installer:%71.572595
+installer:PHASE:Registering updated components…
+installer:%72.019561
+installer:PHASE:Registering updated components…
+installer:%72.466619
+installer:PHASE:Registering updated components…
+installer:%72.913447
+installer:PHASE:Registering updated components…
+installer:%73.360425
+installer:PHASE:Registering updated components…
+installer:%73.807412
+installer:PHASE:Registering updated components…
+installer:%74.254407
+installer:PHASE:Registering updated components…
+installer:%74.701398
+installer:PHASE:Registering updated components…
+installer:%75.148353
+installer:PHASE:Registering updated components…
+installer:%75.595304
+installer:PHASE:Registering updated components…
+installer:%76.042298
+installer:PHASE:Registering updated components…
+installer:%76.489266
+installer:PHASE:Registering updated components…
+installer:%76.936912
+installer:PHASE:Registering updated components…
+installer:%77.383284
+installer:PHASE:Registering updated components…
+installer:%77.830792
+installer:PHASE:Registering updated components…
+installer:%78.277158
+installer:PHASE:Registering updated components…
+installer:%78.724164
+installer:PHASE:Registering updated components…
+installer:%79.171628
+installer:PHASE:Registering updated components…
+installer:%79.618541
+installer:PHASE:Registering updated components…
+installer:%80.065060
+installer:PHASE:Registering updated components…
+installer:%80.512282
+installer:PHASE:Registering updated components…
+installer:%80.959339
+installer:PHASE:Registering updated components…
+installer:%81.406302
+installer:PHASE:Registering updated components…
+installer:%81.853194
+installer:PHASE:Registering updated components…
+installer:%82.300265
+installer:PHASE:Registering updated components…
+installer:%82.748316
+installer:PHASE:Registering updated components…
+installer:%83.194241
+installer:PHASE:Registering updated components…
+installer:%83.640912
+installer:PHASE:Registering updated components…
+installer:%84.088112
+installer:PHASE:Registering updated components…
+installer:%84.535289
+installer:PHASE:Registering updated components…
+installer:%84.982133
+installer:PHASE:Registering updated components…
+installer:%85.428993
+installer:PHASE:Registering updated components…
+installer:%85.876255
+installer:PHASE:Registering updated components…
+installer:%86.323084
+installer:PHASE:Registering updated components…
+installer:%86.770205
+installer:PHASE:Registering updated components…
+installer:%87.216984
+installer:PHASE:Registering updated components…
+installer:%87.664180
+installer:PHASE:Registering updated components…
+installer:%88.111106
+installer:PHASE:Registering updated components…
+installer:%88.558029
+installer:PHASE:Registering updated components…
+installer:%89.005083
+installer:PHASE:Registering updated components…
+installer:%89.452518
+installer:PHASE:Registering updated components…
+installer:%89.899244
+installer:PHASE:Registering updated components…
+installer:%90.346254
+installer:PHASE:Registering updated components…
+installer:%90.793367
+installer:PHASE:Registering updated components…
+installer:%91.239962
+installer:PHASE:Registering updated components…
+installer:%91.687944
+installer:PHASE:Registering updated components…
+installer:%92.133870
+installer:PHASE:Registering updated components…
+installer:%92.580783
+installer:PHASE:Registering updated components…
+installer:%93.027827
+installer:PHASE:Registering updated components…
+installer:%93.474832
+installer:PHASE:Registering updated components…
+installer:%93.921751
+installer:PHASE:Registering updated components…
+installer:%94.368576
+installer:PHASE:Registering updated components…
+installer:%94.815822
+installer:PHASE:Registering updated components…
+installer:%95.262711
+installer:PHASE:Registering updated components…
+installer:%95.709708
+installer:PHASE:Registering updated components…
+installer:%95.962102
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Validating packages…
+installer:PHASE:Waiting for other installations to complete…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The install was successful.
+==> The Zoom package postinstall script launches the Zoom app
+==> Attempting to close zoom.us.app to avoid unwanted user intervention
+🍺  zoom was successfully installed!
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250120-39944-kgjxjd/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.84/.keystone_install
+mv /private/tmp/homebrew-unpack-20250120-39944-kgjxjd/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.84/Google Chrome.app
+==> Moving App 'Google Chrome.app' to '/Applications/Google Chrome.app'
+🍺  google-chrome was successfully installed!
+==> Downloading https://dl.google.com/drive-file-stream/5-percent/GoogleDrive.dmg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/84693b003c10517f01579bedcab912bc7c5fa5c3b18a8b838de123793c4f0fa7--GoogleDrive.dmg
+==> Verifying checksum for '84693b003c10517f01579bedcab912bc7c5fa5c3b18a8b838de123793c4f0fa7--GoogleDrive.dmg'
+==> Installing Cask google-drive
+mv /private/tmp/homebrew-unpack-20250120-40411-l5iifh/.keystone_install /usr/local/Caskroom/google-drive/102.0.2/.keystone_install
+mv /private/tmp/homebrew-unpack-20250120-40411-l5iifh/GoogleDrive.pkg /usr/local/Caskroom/google-drive/102.0.2/GoogleDrive.pkg
+==> Running installer for google-drive with sudo; the password may be necessary.
+installer: Package name is Google Drive
+installer: Upgrading at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Google Drive…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%4.300285
+installer:PHASE:Writing files…
+installer:%25.941083
+installer:PHASE:Writing files…
+installer:%61.950193
+installer:PHASE:Writing files…
+installer:%76.960625
+installer:PHASE:Running package scripts…
+installer:%92.649386
+installer:PHASE:Running package scripts…
+installer:%93.211551
+installer:PHASE:Running package scripts…
+installer:%93.773548
+installer:PHASE:Running package scripts…
+installer:%94.336770
+installer:PHASE:Running package scripts…
+installer:%94.899176
+installer:PHASE:Running package scripts…
+installer:%95.146091
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Validating packages…
+installer:%97.262500
+installer:PHASE:Registering updated applications…
+installer:PHASE:Registering updated applications…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The upgrade was successful.
+🍺  google-drive was successfully installed!
+==> Downloading https://binaries.webex.com/jabberclientmac/20241220015538/Install_Cisco-Jabber-Mac.pkg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/eef74d79105a519aa3855cd617489fac42f087f76bacb70f9bf3c9d50a5149a7--Install_Cisco-Jabber-Mac.pkg
+==> Verifying checksum for 'eef74d79105a519aa3855cd617489fac42f087f76bacb70f9bf3c9d50a5149a7--Install_Cisco-Jabber-Mac.pkg'
+==> Installing Cask cisco-jabber
+cp -p /Users/cdm436/Library/Caches/Homebrew/downloads/eef74d79105a519aa3855cd617489fac42f087f76bacb70f9bf3c9d50a5149a7--Install_Cisco-Jabber-Mac.pkg /usr/local/Caskroom/cisco-jabber/20241220015538/Install_Cisco-Jabber-Mac.pkg
+==> Running installer for cisco-jabber with sudo; the password may be necessary.
+installer: Package name is Cisco Jabber
+installer: Installing at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Cisco Jabber…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%4.133589
+installer:PHASE:Writing files…
+installer:%13.744790
+installer:PHASE:Writing files…
+installer:%20.454911
+installer:PHASE:Writing files…
+installer:%38.668098
+installer:PHASE:Writing files…
+installer:%54.964108
+installer:PHASE:Writing files…
+installer:%68.609009
+installer:PHASE:Running package scripts…
+installer:%69.088350
+installer:PHASE:Running package scripts…
+installer:%69.568157
+installer:PHASE:Running package scripts…
+installer:%70.047790
+installer:PHASE:Running package scripts…
+installer:%70.526137
+installer:PHASE:Running package scripts…
+installer:%85.971926
+installer:PHASE:Running package scripts…
+installer:%86.454087
+installer:PHASE:Running package scripts…
+installer:%86.930652
+installer:PHASE:Running package scripts…
+installer:%87.410177
+installer:PHASE:Running package scripts…
+installer:%92.401774
+installer:PHASE:Registering updated components…
+installer:%92.881198
+installer:PHASE:Registering updated components…
+installer:%93.360405
+installer:PHASE:Registering updated components…
+installer:%93.839637
+installer:PHASE:Registering updated components…
+installer:PHASE:Validating packages…
+installer:PHASE:Validating packages…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The install was successful.
+🍺  cisco-jabber was successfully installed!
+==> Downloading https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+==> Verifying checksum for '64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg'
+All dependencies satisfied.
+==> Installing Cask microsoft-office-businesspro
+cp -p /Users/cdm436/Library/Caches/Homebrew/downloads/64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg /usr/local/Caskroom/microsoft-office-businesspro/16.93.25011212/Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+==> Running installer for microsoft-office-businesspro with sudo; the password may be necessary.
+installer: Package name is Microsoft 365 and Office for Mac
+installer: choices changes file '/private/tmp/choices20250120-41646-lt4sf9.xml' applied
+installer: Installing at base path /
+installer:PHASE:Preparing for installation…
+installer:PHASE:Preparing the disk…
+installer:PHASE:Preparing Microsoft 365 and Office for Mac…
+installer:PHASE:Waiting for other installations to complete…
+installer:PHASE:Configuring the installation…
+installer:STATUS:
+installer:%2.200000
+installer:PHASE:Validating packages…
+installer:PHASE:Validating packages…
+installer:PHASE:Validating packages…
+installer:PHASE:Validating packages…
+installer:%3.175000
+installer:PHASE:Validating packages…
+installer:PHASE:Validating packages…
+installer:%3.233751
+installer:PHASE:Writing files…
+installer:%3.834573
+installer:PHASE:Writing files…
+installer:%4.010826
+installer:PHASE:Writing files…
+installer:%4.304581
+installer:PHASE:Writing files…
+installer:%4.657086
+installer:PHASE:Writing files…
+installer:%4.715837
+installer:PHASE:Writing files…
+installer:%4.892090
+installer:PHASE:Writing files…
+installer:%5.068343
+installer:PHASE:Writing files…
+installer:%5.127094
+installer:PHASE:Writing files…
+installer:%5.244596
+installer:PHASE:Writing files…
+installer:%5.479600
+installer:PHASE:Writing files…
+installer:%5.597102
+installer:PHASE:Writing files…
+installer:%5.832106
+installer:PHASE:Writing files…
+installer:%6.302114
+installer:PHASE:Writing files…
+installer:%6.772121
+installer:PHASE:Writing files…
+installer:%7.124627
+installer:PHASE:Writing files…
+installer:%7.535884
+installer:PHASE:Writing files…
+installer:%7.712137
+installer:PHASE:Writing files…
+installer:%7.829639
+installer:PHASE:Writing files…
+installer:%8.123394
+installer:PHASE:Writing files…
+installer:%8.240896
+installer:PHASE:Writing files…
+installer:%8.534651
+installer:PHASE:Writing files…
+installer:%8.828405
+installer:PHASE:Writing files…
+installer:%9.709670
+installer:PHASE:Writing files…
+installer:%10.179678
+installer:PHASE:Writing files…
+installer:%10.708437
+installer:PHASE:Writing files…
+installer:%11.002191
+installer:PHASE:Writing files…
+installer:%11.119693
+installer:PHASE:Writing files…
+installer:%11.295946
+installer:PHASE:Writing files…
+installer:%11.942207
+installer:PHASE:Writing files…
+installer:%12.353464
+installer:PHASE:Writing files…
+installer:%12.470966
+installer:PHASE:Writing files…
+installer:%12.705970
+installer:PHASE:Writing files…
+installer:%13.058476
+installer:PHASE:Writing files…
+installer:%13.410981
+installer:PHASE:Writing files…
+installer:%13.880989
+installer:PHASE:Writing files…
+installer:%14.468499
+installer:PHASE:Writing files…
+installer:%14.762254
+installer:PHASE:Writing files…
+installer:%14.879756
+installer:PHASE:Writing files…
+installer:%15.584767
+installer:PHASE:Writing files…
+installer:%16.348530
+installer:PHASE:Writing files…
+installer:%17.347297
+installer:PHASE:Writing files…
+installer:%18.346063
+installer:PHASE:Writing files…
+installer:%19.344830
+installer:PHASE:Writing files…
+installer:%20.343596
+installer:PHASE:Writing files…
+installer:%21.401114
+installer:PHASE:Writing files…
+installer:%21.929872
+installer:PHASE:Writing files…
+installer:%22.164876
+installer:PHASE:Writing files…
+installer:%23.692402
+installer:PHASE:Writing files…
+installer:%26.042440
+installer:PHASE:Writing files…
+installer:%27.687468
+installer:PHASE:Writing files…
+installer:%28.392479
+installer:PHASE:Writing files…
+installer:%28.803736
+installer:PHASE:Writing files…
+installer:%29.626250
+installer:PHASE:Writing files…
+installer:%30.037507
+installer:PHASE:Writing files…
+installer:%30.860020
+installer:PHASE:Writing files…
+installer:%41.611448
+installer:PHASE:Writing files…
+installer:PHASE:Writing files…
+installer:%41.670199
+installer:PHASE:Writing files…
+installer:%42.022705
+installer:PHASE:Writing files…
+installer:%42.727717
+installer:PHASE:Writing files…
+installer:%43.491479
+installer:PHASE:Writing files…
+installer:%44.196491
+installer:PHASE:Writing files…
+installer:%44.255242
+installer:PHASE:Writing files…
+installer:%44.313993
+installer:PHASE:Writing files…
+installer:%44.372744
+installer:PHASE:Writing files…
+installer:%44.725250
+installer:PHASE:Writing files…
+installer:%45.312759
+installer:PHASE:Writing files…
+installer:%45.371510
+installer:PHASE:Writing files…
+installer:%45.430261
+installer:PHASE:Writing files…
+installer:%45.489012
+installer:PHASE:Writing files…
+installer:PHASE:Writing files…
+installer:%45.547763
+installer:PHASE:Writing files…
+installer:%45.606514
+installer:PHASE:Writing files…
+installer:PHASE:Writing files…
+installer:%45.665265
+installer:PHASE:Writing files…
+installer:%45.724016
+installer:PHASE:Writing files…
+installer:%46.370277
+installer:PHASE:Writing files…
+installer:%46.840285
+installer:PHASE:Writing files…
+installer:%47.604047
+installer:PHASE:Writing files…
+installer:%48.074055
+installer:PHASE:Writing files…
+installer:%48.544063
+installer:PHASE:Writing files…
+installer:%67.226872
+installer:PHASE:Writing files…
+installer:PHASE:Writing files…
+installer:%67.873133
+installer:PHASE:Writing files…
+installer:%68.460643
+installer:PHASE:Writing files…
+installer:%69.048152
+installer:PHASE:Writing files…
+installer:%69.635662
+installer:PHASE:Writing files…
+installer:%70.223172
+installer:PHASE:Writing files…
+installer:%70.869433
+installer:PHASE:Writing files…
+installer:%79.412402
+installer:PHASE:Running package scripts…
+installer:%79.441742
+installer:PHASE:Running package scripts…
+installer:%79.471139
+installer:PHASE:Running package scripts…
+installer:%79.500503
+installer:PHASE:Running package scripts…
+installer:%79.529902
+installer:PHASE:Running package scripts…
+installer:%79.559246
+installer:PHASE:Running package scripts…
+installer:%79.588636
+installer:PHASE:Running package scripts…
+installer:%79.618001
+installer:PHASE:Running package scripts…
+installer:%79.647372
+installer:PHASE:Running package scripts…
+installer:%79.676751
+installer:PHASE:Running package scripts…
+installer:%80.036017
+installer:PHASE:Registering package with system…
+installer:%80.065392
+installer:PHASE:Registering package with system…
+installer:%80.093335
+installer:PHASE:Registering package with system…
+installer:PHASE:Registering package with system…
+installer:%80.094299
+installer:PHASE:Moving items into place…
+installer:%93.627972
+installer:PHASE:Running package scripts…
+installer:%93.657348
+installer:PHASE:Running package scripts…
+installer:%93.686722
+installer:PHASE:Running package scripts…
+installer:%93.716097
+installer:PHASE:Running package scripts…
+installer:%93.745476
+installer:PHASE:Running package scripts…
+installer:%93.774861
+installer:PHASE:Running package scripts…
+installer:%93.804283
+installer:PHASE:Running package scripts…
+installer:%93.833599
+installer:PHASE:Running package scripts…
+installer:%93.862980
+installer:PHASE:Running package scripts…
+installer:%93.892351
+installer:PHASE:Running package scripts…
+installer:%93.921728
+installer:PHASE:Running package scripts…
+installer:%93.951104
+installer:PHASE:Running package scripts…
+installer:%93.980482
+installer:PHASE:Running package scripts…
+installer:%94.009851
+installer:PHASE:Running package scripts…
+installer:%94.039236
+installer:PHASE:Running package scripts…
+installer:%94.068605
+installer:PHASE:Running package scripts…
+installer:%94.097983
+installer:PHASE:Running package scripts…
+installer:%94.127354
+installer:PHASE:Running package scripts…
+installer:%94.156739
+installer:PHASE:Running package scripts…
+installer:%94.186122
+installer:PHASE:Running package scripts…
+installer:%94.215487
+installer:PHASE:Running package scripts…
+installer:%94.244865
+installer:PHASE:Running package scripts…
+installer:%94.274230
+installer:PHASE:Running package scripts…
+installer:%94.303605
+installer:PHASE:Running package scripts…
+installer:%94.311071
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:PHASE:Running package scripts…
+installer:%94.328690
+installer:PHASE:Writing package receipts…
+installer:%94.358062
+installer:PHASE:Writing package receipts…
+installer:%97.262500
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Registering updated components…
+installer:PHASE:Validating packages…
+installer:PHASE:Registering updated applications…
+installer:PHASE:Registering updated applications…
+installer:PHASE:Registering updated applications…
+installer:PHASE:Registering updated applications…
+installer:PHASE:Registering updated applications…
+installer:%97.750000
+installer:STATUS:Running installer actions…
+installer:STATUS:
+installer:PHASE:Finishing the Installation…
+installer:STATUS:
+installer:%100.000000
+installer:PHASE:The software was successfully installed.
+installer: The install was successful.
+🍺  microsoft-office-businesspro was successfully installed!
