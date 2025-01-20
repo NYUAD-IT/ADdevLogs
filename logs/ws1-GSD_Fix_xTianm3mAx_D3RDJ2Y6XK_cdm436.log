@@ -2193,3 +2193,92 @@ Updating Homebrew
 ==> Updating Homebrew...
 Already up-to-date.
 Homebrew installation complete
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is cdm436
+Homebrew update check 1
+Already up-to-date.
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+==> Uninstalling Cask vlc
+==> Backing App 'VLC.app' up to '/usr/local/Caskroom/vlc/3.0.21/VLC.app'
+==> Removing App '/Applications/VLC.app'
+==> Unlinking Binary '/usr/local/bin/vlc'
+==> Purging files for version 3.0.21 of Cask vlc
+==> Uninstalling Cask zoom
+==> Removing launchctl service us.zoom.updater
+==> Removing launchctl service us.zoom.updater.login.check
+==> Removing launchctl service us.zoom.ZoomDaemon
+==> Signalling 'KILL' to application ID 'us.zoom.xos'
+==> Uninstalling packages with sudo; the password may be necessary:
+us.zoom.pkg.videomeeting
+==> Removing files:
+/Applications/zoom.us.app
+/Library/Internet Plug-Ins/ZoomUsPlugIn.plugin
+/Library/Logs/DiagnosticReports/zoom.us*
+/Library/PrivilegedHelperTools/us.zoom.ZoomDaemon
+==> Purging files for version 6.3.6.47101 of Cask zoom
+==> Uninstalling Cask google-chrome
+==> Backing App 'Google Chrome.app' up to '/usr/local/Caskroom/google-chrome/132.0.6834.84/Google Chrome.app'
+==> Removing App '/Applications/Google Chrome.app'
+==> Purging files for version 132.0.6834.84 of Cask google-chrome
+==> Uninstalling Cask google-drive
+==> Removing login item Google Drive
+==> Uninstalling packages with sudo; the password may be necessary:
+com.google.drivefs.arm64
+com.google.drivefs.shortcuts
+com.google.drivefs.x86_64
+==> Purging files for version 102.0.2 of Cask google-drive
+==> Uninstalling Cask cisco-jabber
+==> Uninstalling packages with sudo; the password may be necessary:
+com.cisco.Jabber
+com.cisco.pkg.jabberplugin
+com.jabra.CiscoJabberPlugin
+com.logitech.LogiUCPlugin
+com.PlantronicsPlugin.CiscoJabberPlugin
+com.sennheiser.CiscoJabberPlugin
+==> Removing files:
+/Applications/Cisco Jabber.app
+/Library/Application Support/Cisco/Unified Communications/Jabber/
+/Library/Logs/Jabber/
+==> Purging files for version 20241220015538 of Cask cisco-jabber
+==> Uninstalling Cask microsoft-office-businesspro
+==> Removing launchctl service com.microsoft.office.licensing.helper
+==> Removing launchctl service com.microsoft.office.licensingV2.helper
+==> Removing launchctl service com.microsoft.OneDriveStandaloneUpdater
+==> Removing launchctl service com.microsoft.OneDriveStandaloneUpdaterDaemon
+==> Removing launchctl service com.microsoft.OneDriveUpdaterDaemon
+==> Removing launchctl service com.microsoft.SyncReporter
+==> Removing launchctl service com.microsoft.teams.TeamsUpdaterDaemon
+==> Uninstalling packages with sudo; the password may be necessary:
+com.microsoft.MSTeamsAudioDevice
+com.microsoft.OneDrive
+com.microsoft.package.DFonts
+com.microsoft.package.Frameworks
+com.microsoft.package.Microsoft_AutoUpdate.app
+com.microsoft.package.Microsoft_Excel.app
+com.microsoft.package.Microsoft_OneNote.app
+com.microsoft.package.Microsoft_Outlook.app
+com.microsoft.package.Microsoft_PowerPoint.app
+com.microsoft.package.Microsoft_Word.app
+com.microsoft.package.Proofing_Tools
+com.microsoft.pkg.licensing
+com.microsoft.teams
+com.microsoft.teams2
+com.microsoft.wdav
+com.microsoft.wdav.shim
+==> Removing files:
+/Applications/Microsoft Defender Shim.app
+/Applications/Microsoft Defender.app
+/Applications/Microsoft Excel.app
+/Applications/Microsoft OneNote.app
+/Applications/Microsoft Outlook.app
+/Applications/Microsoft PowerPoint.app
+/Applications/Microsoft Teams.app
+/Applications/Microsoft Word.app
+/Applications/OneDrive.app
+==> Purging files for version 16.93.25011212 of Cask microsoft-office-businesspro
