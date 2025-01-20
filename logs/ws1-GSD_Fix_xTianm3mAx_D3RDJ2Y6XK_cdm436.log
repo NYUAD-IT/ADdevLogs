@@ -2282,3 +2282,66 @@ com.microsoft.wdav.shim
 /Applications/Microsoft Word.app
 /Applications/OneDrive.app
 ==> Purging files for version 16.93.25011212 of Cask microsoft-office-businesspro
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is cdm436
+Homebrew update check 1
+Already up-to-date.
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/01dbcb38687f3d1bffb5a0f88d92dfc138a269e5/Casks/v/vlc.rb
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/7ea666e6f1bd4685d443f0547bec4e6777c8f462e7b17a2f57ebfd8b77f651ad--vlc.rb
+==> Verifying checksum for '7ea666e6f1bd4685d443f0547bec4e6777c8f462e7b17a2f57ebfd8b77f651ad--vlc.rb'
+==> Uninstalling Cask vlc
+==> Purging files for version 3.0.21 of Cask vlc
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/01dbcb38687f3d1bffb5a0f88d92dfc138a269e5/Casks/z/zoom.rb
+==> Verifying checksum for 'e57d04f368b62c81f28c2216ea277e5b0a1b16f0280bd98fdb28a01aac1d99ae--zoom.rb'
+==> Uninstalling Cask zoom
+==> Removing launchctl service us.zoom.updater
+==> Removing launchctl service us.zoom.updater.login.check
+==> Removing launchctl service us.zoom.ZoomDaemon
+==> Signalling 'KILL' to application ID 'us.zoom.xos'
+==> Uninstalling packages with sudo; the password may be necessary:
+==> Removing files:
+/Applications/zoom.us.app
+/Library/Internet Plug-Ins/ZoomUsPlugIn.plugin
+/Library/Logs/DiagnosticReports/zoom.us*
+/Library/PrivilegedHelperTools/us.zoom.ZoomDaemon
+==> Purging files for version 6.3.6.47101 of Cask zoom
+==> Uninstalling Cask google-chrome
+==> Purging files for version 132.0.6834.84 of Cask google-chrome
+==> Uninstalling Cask google-drive
+==> Removing login item Google Drive
+==> Uninstalling packages with sudo; the password may be necessary:
+==> Purging files for version 102.0.2 of Cask google-drive
+==> Uninstalling Cask cisco-jabber
+==> Uninstalling packages with sudo; the password may be necessary:
+==> Removing files:
+/Applications/Cisco Jabber.app
+/Library/Application Support/Cisco/Unified Communications/Jabber/
+/Library/Logs/Jabber/
+==> Purging files for version 20241220015538 of Cask cisco-jabber
+==> Uninstalling Cask microsoft-office-businesspro
+==> Removing launchctl service com.microsoft.office.licensing.helper
+==> Removing launchctl service com.microsoft.office.licensingV2.helper
+==> Removing launchctl service com.microsoft.OneDriveStandaloneUpdater
+==> Removing launchctl service com.microsoft.OneDriveStandaloneUpdaterDaemon
+==> Removing launchctl service com.microsoft.OneDriveUpdaterDaemon
+==> Removing launchctl service com.microsoft.SyncReporter
+==> Removing launchctl service com.microsoft.teams.TeamsUpdaterDaemon
+==> Uninstalling packages with sudo; the password may be necessary:
+==> Removing files:
+/Applications/Microsoft Defender Shim.app
+/Applications/Microsoft Defender.app
+/Applications/Microsoft Excel.app
+/Applications/Microsoft OneNote.app
+/Applications/Microsoft Outlook.app
+/Applications/Microsoft PowerPoint.app
+/Applications/Microsoft Teams.app
+/Applications/Microsoft Word.app
+/Applications/OneDrive.app
+==> Purging files for version 16.93.25011212 of Cask microsoft-office-businesspro
