@@ -2182,3 +2182,14 @@ App Sanity Check Completed
 Updating Homebrew
 su: unknown login: 
 Homebrew installation complete
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is cdm436
+Homebrew update check 1
+Already up-to-date.
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
