@@ -1510,3 +1510,234 @@ File not found: /Users/Shared/NYUAD/09.jpg
 *************End time: Mon Jan 20 16:01:57 +04 2025*************
 *************Elapsed time: 174 seconds*************
 App Sanity Check Completed
+###################################################
+******000000******GSD Fix Started******000000******
+###################################################
+*************Start time: Mon Jan 20 18:13:25 +04 2025*************
+*************Checking Chrome*************
+GC Installed Ver: 132.0.6834.84
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 132.0.6834.84
+GC Installed Ver: 132.0.6834.84
+****** Chrome version checked OK (132.0.6834.84) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.005.20320
+AB Installed Ver: 24.005.20320
+****** Adobe Full is up to date. Exiting ******
+AB Stable Ver: 24.005.20320
+AB Installed Ver: 24.005.20320
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is 16.93.25011212, installed version is 16.93.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+Folder with 'jdk' found.
+Checking Java version
+Java is installed and working
+Performing JDK update...
+ARM architecture. Downloading arm64 binaries...
+Filename: zulu23.30.13-ca-jdk23.0.1-macosx_aarch64.dmg
+****** Java DMG is fresh and metadata matches. Skipping download. ******
+Mon Jan 20 18:13:42 +04 2025: Updating Java...
+Mounting /Users/Shared/zulu23.30.13-ca-jdk23.0.1-macosx_aarch64.dmg
+/dev/disk5          	GUID_partition_scheme          	
+/dev/disk5s1        	Apple_HFS                      	/Volumes/ZuluInstaller
+Mon Jan 20 18:13:42 +04 2025: Clean up JRE traces...
+Installing /Volumes/ZuluInstaller/Double-Click to Install Azul Zulu JDK 23.pkg ****************
+installer: Package name is Azul Zulu JDK 23.30+13
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Found /Users/cdm436/tizen-studio/jdk/Contents/Home/jre/lib/rt.ogjarbak (already .ogjarbak)
+Searching for jrt-fs.ogjarbak...
+Found /Library/Application Support/JAMF/Composer/Sources/Sunapsis 1.0.2 with SH Module/ROOT/Users/Shared/sunapsis/v4.2.9/Contents/runtime/Contents/Home/lib/jrt-fs.ogjarbak (already .ogjarbak)
+Java is required. Install Zulu JDK
+Folder with 'jdk' found.
+Checking Java version
+Skipping JDK update as version 23.0.1 is found in Java version.
+*************Check complete for Java*************
+*************Checking Fiji*************
+Fiji.app not found. Skipping download and install.
+No action taken.
+https://cdn.azul.com/zulu/bin/zulu8.82.0.21-ca-jdk8.0.432-macosx_
+ARM architecture. Downloading arm64 binaries...
+Filename: zulu8.82.0.21-ca-jdk8.0.432-macosx_aarch64.dmg
+****** Java DMG is fresh and metadata matches. Skipping download. ******
+Mon Jan 20 18:14:04 +04 2025: Updating Java...
+Mounting /Users/Shared/zulu8.82.0.21-ca-jdk8.0.432-macosx_aarch64.dmg
+/dev/disk6          	GUID_partition_scheme          	
+/dev/disk6s1        	Apple_HFS                      	/Volumes/ZuluInstaller
+Mon Jan 20 18:14:05 +04 2025: Clean up JRE traces...
+Installing /Volumes/ZuluInstaller/Double-Click to Install Azul Zulu JDK 8.pkg ****************
+installer: Package name is Azul Zulu JDK 8.82.0.21
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+*************Check complete for Fiji *************
+*************Checking Safari*************
+macOS version is above 14.0. Skipping installation.
+*************Check complete for Safari for macOS 11-14 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/ao1217/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Applications/Fiji 3.app
+Path not found, skipping: /Applications/Fiji 2.app
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/__MACOSX/VLC.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is cdm436
+Homebrew update check 1
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+Error: /usr/local/Homebrew is not writable. You should change the
+ownership and permissions of /usr/local/Homebrew back to your
+user account:
+  sudo chown -R cdm436 /usr/local/Homebrew
+Homebrew installation complete
+Application not found at /Applications/Firefox.app. Skipping...
+Installing vlc...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/c2539a0c8502d24678f74769017d7995cd1e00b4/Casks/v/vlc.rb
+==> Verifying checksum for 'c5d08aa7f9ef6c44508a685761006af8aca334546b5309a2080dd116dd47f19c--vlc.rb'
+==> Downloading https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg
+==> Verifying checksum for 'f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg'
+==> Installing Cask vlc
+mv /private/tmp/homebrew-unpack-20250120-93460-eb1ax2/.background.tiff /usr/local/Caskroom/vlc/3.0.21/.background.tiff
+mv /private/tmp/homebrew-unpack-20250120-93460-eb1ax2/VLC.app /usr/local/Caskroom/vlc/3.0.21/VLC.app
+==> Purging files for version 3.0.21 of Cask vlc
+Installing zoom...
+Installing google-chrome...
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250120-94349-vdzt5l/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.84/.keystone_install
+mv /private/tmp/homebrew-unpack-20250120-94349-vdzt5l/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.84/Google Chrome.app
+==> Purging files for version 132.0.6834.84 of Cask google-chrome
+Installing google-drive...
+Installing cisco-jabber...
+Installing microsoft-office-businesspro...
+Application not found at /Applications/Adobe Acrobat Reader.app. Skipping...
+Installing adobe-acrobat-pro...
+Application not found at /Applications/Wireshark.app. Skipping...
+Installing vmware-fusion...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/c2539a0c8502d24678f74769017d7995cd1e00b4/Casks/v/vmware-fusion.rb
+==> Verifying checksum for '99c55e966435d0d9dffdfa058d04c8e41d831d7a82b3ea1036837e3c4f2b1304--vmware-fusion.rb'
+==> Downloading https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/13.6.2/24409261/universal/core/com.vmware.fusion.zip.tar
+Already downloaded: /Users/cdm436/Library/Caches/Homebrew/downloads/10835df6e3631ea2ddb1e1ae9979584b3d2f3d96b7b587fbaede501fee10c272--com.vmware.fusion.zip.tar
+==> Verifying checksum for '10835df6e3631ea2ddb1e1ae9979584b3d2f3d96b7b587fbaede501fee10c272--com.vmware.fusion.zip.tar'
+==> Installing Cask vmware-fusion
+chmod -Rf +rw /private/tmp/cask-installer20250120-95788-4anjbv/com.vmware.fusion.zip
+mv /private/tmp/homebrew-unpack-20250120-95788-8n9216/manifest.plist /usr/local/Caskroom/vmware-fusion/13.6.2,24409261/manifest.plist
+mv /private/tmp/homebrew-unpack-20250120-95788-8n9216/payload /usr/local/Caskroom/vmware-fusion/13.6.2,24409261/payload
+==> Changing ownership of paths required by vmware-fusion with sudo; the password may be necessary.
+==> Purging files for version 13.6.2,24409261 of Cask vmware-fusion
+Application not found at /Applications/Thunderbird.app. Skipping...
+*************Brew check completed*************
+*************Get more info*************
+########TOKEN
+Status:  for user itops
+########MDMLINK
+NOT Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Mon Jan 20 18:16:27 +04 2025*************
+*************Elapsed time: 182 seconds*************
+App Sanity Check Completed
