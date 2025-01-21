@@ -1,0 +1,44 @@
+Downloading umad-2.0.pkg from https://media.githubusercontent.com/media/NYUAD-IT/NYU-umad/refs/heads/main/umad-2.0.pkg...
+Installing umad-2.0.pkg...
+Cleaning up...
+Installation of umad-2.0.pkg completed successfully.
+Pshow: Not on WS1
+Pstatus: Enrolled via DEP: No
+MDM enrollment: No
+Asset is not enrolled
+Condition met: proceeding to migrate
+Base64 pkg already exists
+Enrollment already in progress
+Server is https://nyuad.jamfcloud.com/
+computer UUID: 602EA604-ED78-5D90-AF6F-BAD79916BD4D
+https://nyuad.jamfcloud.com/api/v1/auth/token
+eyJhbGciOiJIUzI1NiJ9.eyJhdXRoZW50aWNhdGVkLWFwcCI6IkdFTkVSSUMiLCJhdXRoZW50aWNhdGlvbi10eXBlIjoiSlNTIiwiZ3JvdXBzIjpbXSwic3ViamVjdC10eXBlIjoiSlNTX1VTRVJfSUQiLCJ0b2tlbi11dWlkIjoiNDVkYmZiMTItN2UxOC00M2E0LWJkYWYtZmY2MmU2NzdiMGVlIiwibGRhcC1zZXJ2ZXItaWQiOi0xLCJzdWIiOiI3NSIsImV4cCI6MTczNzQ4MTgzM30.Ucwy5sVpVSQhD5uVPXzk4gDLhUnaJnOYYwpsUmWsX6I
+get computer ID: curl -m 20 -s https://nyuad.jamfcloud.com/JSSResource/computers/udid/602EA604-ED78-5D90-AF6F-BAD79916BD4D/subset/general -H "Accept: application/xml" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdXRoZW50aWNhdGVkLWFwcCI6IkdFTkVSSUMiLCJhdXRoZW50aWNhdGlvbi10eXBlIjoiSlNTIiwiZ3JvdXBzIjpbXSwic3ViamVjdC10eXBlIjoiSlNTX1VTRVJfSUQiLCJ0b2tlbi11dWlkIjoiNDVkYmZiMTItN2UxOC00M2E0LWJkYWYtZmY2MmU2NzdiMGVlIiwibGRhcC1zZXJ2ZXItaWQiOi0xLCJzdWIiOiI3NSIsImV4cCI6MTczNzQ4MTgzM30.Ucwy5sVpVSQhD5uVPXzk4gDLhUnaJnOYYwpsUmWsX6I..."
+computer record: <html>
+<head>
+   <title>Status page</title>
+</head>
+<body style="font-family: sans-serif;">
+<p style="font-size: 1.2em;font-weight: bold;margin: 1em 0px;">Not Found</p>
+<p>The server has not found anything matching the request URI</p>
+<p>You can get technical details <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.5">here</a>.<br>
+Please continue your visit at our <a href="/">home page</a>.
+</p>
+</body>
+</html>
+computer was not found on https://nyuad.jamfcloud.com/ - exiting.
+unmanage machine: curl -m 20 -s https://nyuad.jamfcloud.com/JSSResource/computercommands/command/UnmanageDevice/id/ -X POST -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdXRoZW50aWNhdGVkLWFwcCI6IkdFTkVSSUMiLCJhdXRoZW50aWNhdGlvbi10eXBlIjoiSlNTIiwiZ3JvdXBzIjpbXSwic3ViamVjdC10eXBlIjoiSlNTX1VTRVJfSUQiLCJ0b2tlbi11dWlkIjoiNDVkYmZiMTItN2UxOC00M2E0LWJkYWYtZmY2MmU2NzdiMGVlIiwibGRhcC1zZXJ2ZXItaWQiOi0xLCJzdWIiOiI3NSIsImV4cCI6MTczNzQ4MTgzM30.Ucwy5sVpVSQhD5uVPXzk4gDLhUnaJnOYYwpsUmWsX6I..."
+<html>
+<head>
+   <title>Status page</title>
+</head>
+<body style="font-family: sans-serif;">
+<p style="font-size: 1.2em;font-weight: bold;margin: 1em 0px;">Not Found</p>
+<p>The server has not found anything matching the request URI</p>
+<p>You can get technical details <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.5">here</a>.<br>
+Please continue your visit at our <a href="/">home page</a>.
+</p>
+</body>
+</html>
+Token successfully invalidated
+Owner information captured and saved to /Users/Shared/owner.csv
