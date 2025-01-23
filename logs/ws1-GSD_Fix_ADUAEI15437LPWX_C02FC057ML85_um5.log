@@ -1,0 +1,1425 @@
+******000000******Start of Script******000000******
+*************Start time: Tue Nov  5 09:29:08 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 
+GC Installed Ver: 
+****** Chrome version checked OK () ******
+*************Checking Firefox*************
+****** Firefox DMG is outdated or metadata mismatch. Downloading again. ******
+FF Stable Ver: 132.0.1
+FF Installed Ver: 132.0
+****** Firefox version differs - installed: 132.0, available: 132.0.1 ******
+****** Firefox is currently running on target Mac. Proceeding Upgrade. ******
+installer: Package name is 
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+****** Latest version of Firefox is installed on target Mac. ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20219
+AB Installed Ver: 24.004.20219
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Tue Nov  5 09:32:11 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Found /Users/um5/OneDrive-nyu.edu (Archive)/Desktop/java/sdk/16975872/lib/rt.ogjarbak (already .ogjarbak)
+Searching for jrt-fs.ogjarbak...
+Java is required. Install Zulu JDK
+Intel architecture. Downloading x64 binaries...
+Filename: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Tue Nov  5 09:32:13 +04 2024: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg already downloaded.
+Tue Nov  5 09:32:13 +04 2024: Updating Java...
+Mounting /Users/Shared/zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Tue Nov  5 09:32:13 +04 2024: Clean up JRE traces...
+Installing  ****************
+installer: Error - the package path specified was invalid: ''.
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+App Sanity Check Completed
+button returned:OK
+****** macOS SU check completed ******
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Deleting: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Searching for .app files with 'adobe' in Trash directories...
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Frameworks/RdrCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/Adobe Acrobat Reader Helper.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/AcroCEF/RdrCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/AdobeResourceSynchronizer.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app
+Deleting from Trash: /private/var/root/.Trash/Adobe Reader 7-53-06.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+Status: DISABLED for user itops
+*************End of Script*************
+*************End time: Tue Nov  5 09:33:11 +04 2024*************
+*************Elapsed time: 243 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Nov 14 16:26:20 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 131.0.6778.70
+GC Installed Ver: 
+****** Chrome version differs - installed: , available: 131.0.6778.70 ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+"disk2" ejected.
+*************Checking Firefox*************
+****** Firefox DMG is outdated or metadata mismatch. Downloading again. ******
+FF Stable Ver: 132.0.2
+FF Installed Ver: 132.0.1
+****** Firefox version differs - installed: 132.0.1, available: 132.0.2 ******
+****** Firefox is currently running on target Mac. Proceeding Upgrade. ******
+installer: Package name is 
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+****** Latest version of Firefox is installed on target Mac. ******
+****** Thunderbird is not installed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20243
+AB Installed Ver: 24.004.20243
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.91.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Nov 14 16:30:42 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Found /Users/um5/OneDrive-nyu.edu (Archive)/Desktop/java/sdk/16975872/lib/rt.ogjarbak (already .ogjarbak)
+Searching for jrt-fs.ogjarbak...
+Java is required. Install Zulu JDK
+Intel architecture. Downloading x64 binaries...
+Filename: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Thu Nov 14 16:30:43 +04 2024: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg already downloaded.
+Thu Nov 14 16:30:43 +04 2024: Updating Java...
+Mounting /Users/Shared/zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Thu Nov 14 16:30:44 +04 2024: Clean up JRE traces...
+Installing  ****************
+installer: Error - the package path specified was invalid: ''.
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************No update found*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 
+Arch is: x86_64
+Installing VLC for Intel
+Latest VLC Installed
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Deleting: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: DISABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Thu Nov 14 16:33:10 +04 2024*************
+*************Elapsed time: 410 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Mon Nov 25 13:11:00 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.86
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 131.0.6778.86
+GC Installed Ver: 131.0.6778.86
+****** Chrome version checked OK (131.0.6778.86) ******
+*************Checking Firefox*************
+****** Firefox DMG is outdated or metadata mismatch. Downloading again. ******
+FF Stable Ver: 132.0.2
+FF Installed Ver: 132.0.2
+****** Firefox version checked OK (132.0.2) ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is either more than 7 days old or does not exist. Running scan...
+****** Scan completed. Log file: /Users/Shared/log4j.log ******
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.004.20272
+AB Installed Ver: 24.004.20272
+****** Adobe Full is up to date. Exiting ******
+AB Stable Ver: 24.004.20272
+AB Installed Ver: 24.004.20272
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is , installed version is 16.91.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Nov 25 13:12:29 +04 2024: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Found /Users/um5/OneDrive-nyu.edu (Archive)/Desktop/java/sdk/16975872/lib/rt.ogjarbak (already .ogjarbak)
+Searching for jrt-fs.ogjarbak...
+Java is required. Install Zulu JDK
+Intel architecture. Downloading x64 binaries...
+Filename: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Mon Nov 25 13:12:30 +04 2024: zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg already downloaded.
+Mon Nov 25 13:12:30 +04 2024: Updating Java...
+Mounting /Users/Shared/zulu23.30.13-ca-jdk23.0.1-macosx_x64.dmg
+Mon Nov 25 13:12:31 +04 2024: Clean up JRE traces...
+Installing  ****************
+installer: Error - the package path specified was invalid: ''.
+*************Check complete for Java*************
+*************Checking Safari*************
+macOS version is above 13.0. Skipping installation.
+*************Check complete for Safari for macOS 11-13 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 1 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/del/VLC.app
+Path not found, skipping: /Users/wm955/bin/JDownloader 2.0.220930
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft Word.app
+Path not found, skipping: /Applications/Microsoft Word.app.installBackup
+Path not found, skipping: /Users/ag9141/Documents/MPI/Applications/Microsoft OneNote.app
+Path not found, skipping: /Users/sb7444/Desktop/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Microsoft Word.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Adobe Acrobat DC/Adobe Acrobat.app
+Path not found, skipping: /opt/homebrew/Cellar/openjdk@11
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Documents/documents26042024/Fiji.app
+Path not found, skipping: /Users/hha026/Downloads/Fiji.app
+Path not found, skipping: /System/Volumes/Data/Users/baglio/Library/Application Support/minecraft
+Path not found, skipping: /System/Volumes/Data/Users/akj4/Dropbox/My Mac (MacBook-Pro.local)/Downloads/merlin-3
+Path not found, skipping: /System/Volumes/Data/Users/nd48/Library/Application Support/minecraft
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Path not found, skipping: /opt/cisco/anyconnect
+Path not found, skipping: /Applications/Cisco/Cisco AnyConnect Secure Mobility Client1.app
+Path not found, skipping: /Users/sm5436/Desktop/DO NOT DELETE MANUALS/Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Get more info*************
+########TOKEN
+Status: DISABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Mon Nov 25 13:13:04 +04 2024*************
+*************Elapsed time: 124 seconds*************
+App Sanity Check Completed
+******000000******Start of Script******000000******
+*************Start time: Thu Dec 12 17:00:11 +04 2024*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.109
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 
+GC Installed Ver: 131.0.6778.109
+****** Chrome version differs - installed: 131.0.6778.109, available:  ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+*************Checking Firefox*************
+****** Firefox DMG is outdated or metadata mismatch. Downloading again. ******
+FF Stable Ver: 133.0.3
+FF Installed Ver: 133.0.3
+****** Firefox version checked OK (133.0.3) ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is either more than 7 days old or does not exist. Running scan...
+****** Scan completed. Log file: /Users/Shared/log4j.log ******
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.005.20320
+AB Installed Ver: 24.004.20272
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400520320
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400520320/AcrobatDCUpd2400520320.dmg
+****** Acrobat DMG is outdated or metadata mismatch. Downloading again. ******
+Thu Dec 12 19:06:36 +04 2024: Mounting installer disk image.
+Thu Dec 12 19:06:36 +04 2024: Installing...
+No process containing 'Acrobat' in its name is currently running.
+installer: Error - the package path specified was invalid: '/Volumes/AcrobatDCUpd2400520320/AcrobatDCUpd2400520320.pkg'.
+Thu Dec 12 19:06:46 +04 2024: Unmounting installer disk image.
+All volumes unmounted.
+Thu Dec 12 19:06:56 +04 2024: Deleting disk image.
+Thu Dec 12 19:06:57 +04 2024: ERROR: Adobe Full update unsuccessful, version remains at 24.004.20272.
+****** Acrobat DC is outdated or metadata mismatch. Downloading again. ******
+###################################################
+******000000******GSD Fix Started******000000******
+###################################################
+*************Start time: Thu Jan 23 15:45:05 +04 2025*************
+*************Checking Chrome*************
+GC Installed Ver: 131.0.6778.267
+****** Chrome DMG is outdated or metadata mismatch. Downloading again. ******
+GC Stable Ver: 132.0.6834.111
+GC Installed Ver: 131.0.6778.267
+****** Chrome version differs - installed: 131.0.6778.267, available: 132.0.6834.111 ******
+****** Application is not running on target Mac. Proceeding Clean Install... ******
+****** Install in progress ******
+"disk2" ejected.
+*************Checking Firefox*************
+****** Firefox DMG is fresh and metadata matches. Skipping download. ******
+FF Stable Ver: 134.0.2
+FF Installed Ver: 134.0.2
+****** Firefox version checked OK (134.0.2) ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is 16.93.25011212, installed version is 16.93.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Thu Jan 23 15:46:20 +04 2025: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Found /Users/um5/OneDrive-nyu.edu (Archive)/Desktop/java/sdk/16975872/lib/rt.ogjarbak (already .ogjarbak)
+Searching for jrt-fs.ogjarbak...
+Java is required. Install Zulu JDK
+Intel architecture. Downloading x64 binaries...
+Filename: zulu23.32.11-ca-jdk23.0.2-macosx_x64.dmg
+****** Java DMG is outdated or metadata mismatch. Downloading again. ******
+Thu Jan 23 15:46:58 +04 2025: Updating Java...
+Mounting /Users/Shared/zulu23.32.11-ca-jdk23.0.2-macosx_x64.dmg
+Checksumming Protective Master Boot Record (MBR : 0)…
+Protective Master Boot Record (MBR :: verified   CRC32 $D8A46977
+Checksumming GPT Header (Primary GPT Header : 1)…
+ GPT Header (Primary GPT Header : 1): verified   CRC32 $BF14DDB5
+Checksumming GPT Partition Data (Primary GPT Table : 2)…
+GPT Partition Data (Primary GPT Tabl: verified   CRC32 $5449BA8C
+Checksumming  (Apple_Free : 3)…
+                    (Apple_Free : 3): verified   CRC32 $00000000
+Checksumming disk image (Apple_HFS : 4)…
+          disk image (Apple_HFS : 4): verified   CRC32 $28C816E8
+Checksumming  (Apple_Free : 5)…
+                    (Apple_Free : 5): verified   CRC32 $00000000
+Checksumming GPT Partition Data (Backup GPT Table : 6)…
+GPT Partition Data (Backup GPT Table: verified   CRC32 $5449BA8C
+Checksumming GPT Header (Backup GPT Header : 7)…
+  GPT Header (Backup GPT Header : 7): verified   CRC32 $A520FBA1
+verified   CRC32 $C10A85C9
+/dev/disk2          	GUID_partition_scheme          	
+/dev/disk2s1        	Apple_HFS                      	/Volumes/ZuluInstaller
+Thu Jan 23 15:47:19 +04 2025: Clean up JRE traces...
+Installing /Volumes/ZuluInstaller/Double-Click to Install Azul Zulu JDK 23.pkg ****************
+installer: Package name is Azul Zulu JDK 23.32+11
+installer: Installing at base path /
+installer: The install was successful.
+"disk2" ejected.
+*************Check complete for Java*************
+*************Checking Fiji*************
+Fiji.app not found. Skipping download and install.
+No action taken.
+*************Check complete for Fiji *************
+*************Checking Safari*************
+macOS version is above 14.0. Skipping installation.
+*************Check complete for Safari for macOS 11-14 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+No new applicable Updates. Seems like all products are up-to-date.
+RemoteUpdateManager exiting with Return Code (0)
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Illustrator 2024
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /Applications/Adobe Photoshop 2024
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/ao1217/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Applications/Fiji 3.app
+Path not found, skipping: /Applications/Fiji 2.app
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/__MACOSX/VLC.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is um5
+Homebrew update check 1
+Initialized empty Git repository in /usr/local/Homebrew/.git/
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+Initialized empty Git repository in /usr/local/Homebrew/.git/
+From https://github.com/Homebrew/brew
+ * [new branch]            attestation-cache       -> origin/attestation-cache
+ * [new branch]            backup/bump-skip-pr-checking-when-up-to-date-explicit-skipped-output -> origin/backup/bump-skip-pr-checking-when-up-to-date-explicit-skipped-output
+ * [new branch]            cleaner-factory         -> origin/cleaner-factory
+ * [new branch]            cleaner-interface       -> origin/cleaner-interface
+ * [new branch]            dependabot/github_actions/docker/build-push-action-6.12.0 -> origin/dependabot/github_actions/docker/build-push-action-6.12.0
+ * [new branch]            deprecate-disable-at-once -> origin/deprecate-disable-at-once
+ * [new branch]            docker-git-gc           -> origin/docker-git-gc
+ * [new branch]            feat/cask/bin_install   -> origin/feat/cask/bin_install
+ * [new branch]            github_runner_matrix-restore-linux-timeout -> origin/github_runner_matrix-restore-linux-timeout
+ * [new branch]            homebrew-user           -> origin/homebrew-user
+ * [new branch]            lail/bump-bundler       -> origin/lail/bump-bundler
+ * [new branch]            load-internal-cask-json-v3 -> origin/load-internal-cask-json-v3
+ * [new branch]            master                  -> origin/master
+ * [new branch]            original-brew-command   -> origin/original-brew-command
+ * [new branch]            rm-unused-unused        -> origin/rm-unused-unused
+ * [new branch]            sorbet-files-update     -> origin/sorbet-files-update
+ * [new branch]            sorbet-ignore-vendor-ruby-dir -> origin/sorbet-ignore-vendor-ruby-dir
+ * [new branch]            srb-strict-for-rubocops -> origin/srb-strict-for-rubocops
+ * [new branch]            sync-shared-config      -> origin/sync-shared-config
+ * [new tag]               0.1                     -> 0.1
+ * [new tag]               0.2                     -> 0.2
+ * [new tag]               0.3                     -> 0.3
+ * [new tag]               0.4                     -> 0.4
+ * [new tag]               0.5                     -> 0.5
+ * [new tag]               0.6                     -> 0.6
+ * [new tag]               0.7                     -> 0.7
+ * [new tag]               0.7.1                   -> 0.7.1
+ * [new tag]               0.8                     -> 0.8
+ * [new tag]               0.8.1                   -> 0.8.1
+ * [new tag]               0.9                     -> 0.9
+ * [new tag]               0.9.1                   -> 0.9.1
+ * [new tag]               0.9.2                   -> 0.9.2
+ * [new tag]               0.9.3                   -> 0.9.3
+ * [new tag]               0.9.4                   -> 0.9.4
+ * [new tag]               0.9.5                   -> 0.9.5
+ * [new tag]               0.9.8                   -> 0.9.8
+ * [new tag]               0.9.9                   -> 0.9.9
+ * [new tag]               1.0.0                   -> 1.0.0
+ * [new tag]               1.0.1                   -> 1.0.1
+ * [new tag]               1.0.2                   -> 1.0.2
+ * [new tag]               1.0.3                   -> 1.0.3
+ * [new tag]               1.0.4                   -> 1.0.4
+ * [new tag]               1.0.5                   -> 1.0.5
+ * [new tag]               1.0.6                   -> 1.0.6
+ * [new tag]               1.0.7                   -> 1.0.7
+ * [new tag]               1.0.8                   -> 1.0.8
+ * [new tag]               1.0.9                   -> 1.0.9
+ * [new tag]               1.1.0                   -> 1.1.0
+ * [new tag]               1.1.1                   -> 1.1.1
+ * [new tag]               1.1.10                  -> 1.1.10
+ * [new tag]               1.1.11                  -> 1.1.11
+ * [new tag]               1.1.12                  -> 1.1.12
+ * [new tag]               1.1.13                  -> 1.1.13
+ * [new tag]               1.1.2                   -> 1.1.2
+ * [new tag]               1.1.3                   -> 1.1.3
+ * [new tag]               1.1.4                   -> 1.1.4
+ * [new tag]               1.1.5                   -> 1.1.5
+ * [new tag]               1.1.6                   -> 1.1.6
+ * [new tag]               1.1.7                   -> 1.1.7
+ * [new tag]               1.1.8                   -> 1.1.8
+ * [new tag]               1.1.9                   -> 1.1.9
+ * [new tag]               1.2.0                   -> 1.2.0
+ * [new tag]               1.2.1                   -> 1.2.1
+ * [new tag]               1.2.2                   -> 1.2.2
+ * [new tag]               1.2.3                   -> 1.2.3
+ * [new tag]               1.2.4                   -> 1.2.4
+ * [new tag]               1.2.5                   -> 1.2.5
+ * [new tag]               1.2.6                   -> 1.2.6
+ * [new tag]               1.3.0                   -> 1.3.0
+ * [new tag]               1.3.1                   -> 1.3.1
+ * [new tag]               1.3.2                   -> 1.3.2
+ * [new tag]               1.3.3                   -> 1.3.3
+ * [new tag]               1.3.4                   -> 1.3.4
+ * [new tag]               1.3.5                   -> 1.3.5
+ * [new tag]               1.3.6                   -> 1.3.6
+ * [new tag]               1.3.7                   -> 1.3.7
+ * [new tag]               1.3.8                   -> 1.3.8
+ * [new tag]               1.3.9                   -> 1.3.9
+ * [new tag]               1.4.0                   -> 1.4.0
+ * [new tag]               1.4.1                   -> 1.4.1
+ * [new tag]               1.4.2                   -> 1.4.2
+ * [new tag]               1.4.3                   -> 1.4.3
+ * [new tag]               1.5.0                   -> 1.5.0
+ * [new tag]               1.5.1                   -> 1.5.1
+ * [new tag]               1.5.10                  -> 1.5.10
+ * [new tag]               1.5.11                  -> 1.5.11
+ * [new tag]               1.5.12                  -> 1.5.12
+ * [new tag]               1.5.13                  -> 1.5.13
+ * [new tag]               1.5.14                  -> 1.5.14
+ * [new tag]               1.5.2                   -> 1.5.2
+ * [new tag]               1.5.3                   -> 1.5.3
+ * [new tag]               1.5.4                   -> 1.5.4
+ * [new tag]               1.5.5                   -> 1.5.5
+ * [new tag]               1.5.6                   -> 1.5.6
+ * [new tag]               1.5.7                   -> 1.5.7
+ * [new tag]               1.5.8                   -> 1.5.8
+ * [new tag]               1.5.9                   -> 1.5.9
+ * [new tag]               1.6.0                   -> 1.6.0
+ * [new tag]               1.6.1                   -> 1.6.1
+ * [new tag]               1.6.10                  -> 1.6.10
+ * [new tag]               1.6.11                  -> 1.6.11
+ * [new tag]               1.6.12                  -> 1.6.12
+ * [new tag]               1.6.13                  -> 1.6.13
+ * [new tag]               1.6.14                  -> 1.6.14
+ * [new tag]               1.6.15                  -> 1.6.15
+ * [new tag]               1.6.16                  -> 1.6.16
+ * [new tag]               1.6.17                  -> 1.6.17
+ * [new tag]               1.6.2                   -> 1.6.2
+ * [new tag]               1.6.3                   -> 1.6.3
+ * [new tag]               1.6.4                   -> 1.6.4
+ * [new tag]               1.6.5                   -> 1.6.5
+ * [new tag]               1.6.6                   -> 1.6.6
+ * [new tag]               1.6.7                   -> 1.6.7
+ * [new tag]               1.6.8                   -> 1.6.8
+ * [new tag]               1.6.9                   -> 1.6.9
+ * [new tag]               1.7.0                   -> 1.7.0
+ * [new tag]               1.7.1                   -> 1.7.1
+ * [new tag]               1.7.2                   -> 1.7.2
+ * [new tag]               1.7.3                   -> 1.7.3
+ * [new tag]               1.7.4                   -> 1.7.4
+ * [new tag]               1.7.5                   -> 1.7.5
+ * [new tag]               1.7.6                   -> 1.7.6
+ * [new tag]               1.7.7                   -> 1.7.7
+ * [new tag]               1.8.0                   -> 1.8.0
+ * [new tag]               1.8.1                   -> 1.8.1
+ * [new tag]               1.8.2                   -> 1.8.2
+ * [new tag]               1.8.3                   -> 1.8.3
+ * [new tag]               1.8.4                   -> 1.8.4
+ * [new tag]               1.8.5                   -> 1.8.5
+ * [new tag]               1.8.6                   -> 1.8.6
+ * [new tag]               1.9.0                   -> 1.9.0
+ * [new tag]               1.9.1                   -> 1.9.1
+ * [new tag]               1.9.2                   -> 1.9.2
+ * [new tag]               1.9.3                   -> 1.9.3
+ * [new tag]               2.0.0                   -> 2.0.0
+ * [new tag]               2.0.1                   -> 2.0.1
+ * [new tag]               2.0.2                   -> 2.0.2
+ * [new tag]               2.0.3                   -> 2.0.3
+ * [new tag]               2.0.4                   -> 2.0.4
+ * [new tag]               2.0.5                   -> 2.0.5
+ * [new tag]               2.0.6                   -> 2.0.6
+ * [new tag]               2.1.0                   -> 2.1.0
+ * [new tag]               2.1.1                   -> 2.1.1
+ * [new tag]               2.1.10                  -> 2.1.10
+ * [new tag]               2.1.11                  -> 2.1.11
+ * [new tag]               2.1.12                  -> 2.1.12
+ * [new tag]               2.1.13                  -> 2.1.13
+ * [new tag]               2.1.14                  -> 2.1.14
+ * [new tag]               2.1.15                  -> 2.1.15
+ * [new tag]               2.1.16                  -> 2.1.16
+ * [new tag]               2.1.2                   -> 2.1.2
+ * [new tag]               2.1.3                   -> 2.1.3
+ * [new tag]               2.1.4                   -> 2.1.4
+ * [new tag]               2.1.5                   -> 2.1.5
+ * [new tag]               2.1.6                   -> 2.1.6
+ * [new tag]               2.1.7                   -> 2.1.7
+ * [new tag]               2.1.8                   -> 2.1.8
+ * [new tag]               2.1.9                   -> 2.1.9
+ * [new tag]               2.2.0                   -> 2.2.0
+ * [new tag]               2.2.1                   -> 2.2.1
+ * [new tag]               2.2.10                  -> 2.2.10
+ * [new tag]               2.2.11                  -> 2.2.11
+ * [new tag]               2.2.12                  -> 2.2.12
+ * [new tag]               2.2.13                  -> 2.2.13
+ * [new tag]               2.2.14                  -> 2.2.14
+ * [new tag]               2.2.15                  -> 2.2.15
+ * [new tag]               2.2.16                  -> 2.2.16
+ * [new tag]               2.2.17                  -> 2.2.17
+ * [new tag]               2.2.2                   -> 2.2.2
+ * [new tag]               2.2.3                   -> 2.2.3
+ * [new tag]               2.2.4                   -> 2.2.4
+ * [new tag]               2.2.5                   -> 2.2.5
+ * [new tag]               2.2.6                   -> 2.2.6
+ * [new tag]               2.2.7                   -> 2.2.7
+ * [new tag]               2.2.8                   -> 2.2.8
+ * [new tag]               2.2.9                   -> 2.2.9
+ * [new tag]               2.3.0                   -> 2.3.0
+ * [new tag]               2.4.0                   -> 2.4.0
+ * [new tag]               2.4.1                   -> 2.4.1
+ * [new tag]               2.4.10                  -> 2.4.10
+ * [new tag]               2.4.11                  -> 2.4.11
+ * [new tag]               2.4.12                  -> 2.4.12
+ * [new tag]               2.4.13                  -> 2.4.13
+ * [new tag]               2.4.14                  -> 2.4.14
+ * [new tag]               2.4.15                  -> 2.4.15
+ * [new tag]               2.4.16                  -> 2.4.16
+ * [new tag]               2.4.2                   -> 2.4.2
+ * [new tag]               2.4.3                   -> 2.4.3
+ * [new tag]               2.4.4                   -> 2.4.4
+ * [new tag]               2.4.5                   -> 2.4.5
+ * [new tag]               2.4.6                   -> 2.4.6
+ * [new tag]               2.4.7                   -> 2.4.7
+ * [new tag]               2.4.8                   -> 2.4.8
+ * [new tag]               2.4.9                   -> 2.4.9
+ * [new tag]               2.5.0                   -> 2.5.0
+ * [new tag]               2.5.1                   -> 2.5.1
+ * [new tag]               2.5.10                  -> 2.5.10
+ * [new tag]               2.5.11                  -> 2.5.11
+ * [new tag]               2.5.12                  -> 2.5.12
+ * [new tag]               2.5.2                   -> 2.5.2
+ * [new tag]               2.5.3                   -> 2.5.3
+ * [new tag]               2.5.4                   -> 2.5.4
+ * [new tag]               2.5.5                   -> 2.5.5
+ * [new tag]               2.5.6                   -> 2.5.6
+ * [new tag]               2.5.7                   -> 2.5.7
+ * [new tag]               2.5.8                   -> 2.5.8
+ * [new tag]               2.5.9                   -> 2.5.9
+ * [new tag]               2.6.0                   -> 2.6.0
+ * [new tag]               2.6.1                   -> 2.6.1
+ * [new tag]               2.6.2                   -> 2.6.2
+ * [new tag]               2.7.0                   -> 2.7.0
+ * [new tag]               2.7.1                   -> 2.7.1
+ * [new tag]               2.7.2                   -> 2.7.2
+ * [new tag]               2.7.3                   -> 2.7.3
+ * [new tag]               2.7.4                   -> 2.7.4
+ * [new tag]               2.7.5                   -> 2.7.5
+ * [new tag]               2.7.6                   -> 2.7.6
+ * [new tag]               2.7.7                   -> 2.7.7
+ * [new tag]               3.0.0                   -> 3.0.0
+ * [new tag]               3.0.1                   -> 3.0.1
+ * [new tag]               3.0.10                  -> 3.0.10
+ * [new tag]               3.0.11                  -> 3.0.11
+ * [new tag]               3.0.2                   -> 3.0.2
+ * [new tag]               3.0.3                   -> 3.0.3
+ * [new tag]               3.0.4                   -> 3.0.4
+ * [new tag]               3.0.5                   -> 3.0.5
+ * [new tag]               3.0.6                   -> 3.0.6
+ * [new tag]               3.0.7                   -> 3.0.7
+ * [new tag]               3.0.8                   -> 3.0.8
+ * [new tag]               3.0.9                   -> 3.0.9
+ * [new tag]               3.1.0                   -> 3.1.0
+ * [new tag]               3.1.1                   -> 3.1.1
+ * [new tag]               3.1.10                  -> 3.1.10
+ * [new tag]               3.1.11                  -> 3.1.11
+ * [new tag]               3.1.12                  -> 3.1.12
+ * [new tag]               3.1.2                   -> 3.1.2
+ * [new tag]               3.1.3                   -> 3.1.3
+ * [new tag]               3.1.4                   -> 3.1.4
+ * [new tag]               3.1.5                   -> 3.1.5
+ * [new tag]               3.1.6                   -> 3.1.6
+ * [new tag]               3.1.7                   -> 3.1.7
+ * [new tag]               3.1.8                   -> 3.1.8
+ * [new tag]               3.1.9                   -> 3.1.9
+ * [new tag]               3.2.0                   -> 3.2.0
+ * [new tag]               3.2.1                   -> 3.2.1
+ * [new tag]               3.2.10                  -> 3.2.10
+ * [new tag]               3.2.11                  -> 3.2.11
+ * [new tag]               3.2.12                  -> 3.2.12
+ * [new tag]               3.2.13                  -> 3.2.13
+ * [new tag]               3.2.14                  -> 3.2.14
+ * [new tag]               3.2.15                  -> 3.2.15
+ * [new tag]               3.2.16                  -> 3.2.16
+ * [new tag]               3.2.17                  -> 3.2.17
+ * [new tag]               3.2.2                   -> 3.2.2
+ * [new tag]               3.2.3                   -> 3.2.3
+ * [new tag]               3.2.4                   -> 3.2.4
+ * [new tag]               3.2.5                   -> 3.2.5
+ * [new tag]               3.2.6                   -> 3.2.6
+ * [new tag]               3.2.7                   -> 3.2.7
+ * [new tag]               3.2.8                   -> 3.2.8
+ * [new tag]               3.2.9                   -> 3.2.9
+ * [new tag]               3.3.0                   -> 3.3.0
+ * [new tag]               3.3.1                   -> 3.3.1
+ * [new tag]               3.3.10                  -> 3.3.10
+ * [new tag]               3.3.11                  -> 3.3.11
+ * [new tag]               3.3.12                  -> 3.3.12
+ * [new tag]               3.3.13                  -> 3.3.13
+ * [new tag]               3.3.14                  -> 3.3.14
+ * [new tag]               3.3.15                  -> 3.3.15
+ * [new tag]               3.3.16                  -> 3.3.16
+ * [new tag]               3.3.2                   -> 3.3.2
+ * [new tag]               3.3.3                   -> 3.3.3
+ * [new tag]               3.3.4                   -> 3.3.4
+ * [new tag]               3.3.5                   -> 3.3.5
+ * [new tag]               3.3.6                   -> 3.3.6
+ * [new tag]               3.3.7                   -> 3.3.7
+ * [new tag]               3.3.8                   -> 3.3.8
+ * [new tag]               3.3.9                   -> 3.3.9
+ * [new tag]               3.4.0                   -> 3.4.0
+ * [new tag]               3.4.1                   -> 3.4.1
+ * [new tag]               3.4.10                  -> 3.4.10
+ * [new tag]               3.4.11                  -> 3.4.11
+ * [new tag]               3.4.2                   -> 3.4.2
+ * [new tag]               3.4.3                   -> 3.4.3
+ * [new tag]               3.4.4                   -> 3.4.4
+ * [new tag]               3.4.5                   -> 3.4.5
+ * [new tag]               3.4.6                   -> 3.4.6
+ * [new tag]               3.4.7                   -> 3.4.7
+ * [new tag]               3.4.8                   -> 3.4.8
+ * [new tag]               3.4.9                   -> 3.4.9
+ * [new tag]               3.5.0                   -> 3.5.0
+ * [new tag]               3.5.1                   -> 3.5.1
+ * [new tag]               3.5.10                  -> 3.5.10
+ * [new tag]               3.5.2                   -> 3.5.2
+ * [new tag]               3.5.3                   -> 3.5.3
+ * [new tag]               3.5.4                   -> 3.5.4
+ * [new tag]               3.5.5                   -> 3.5.5
+ * [new tag]               3.5.6                   -> 3.5.6
+ * [new tag]               3.5.7                   -> 3.5.7
+ * [new tag]               3.5.8                   -> 3.5.8
+ * [new tag]               3.5.9                   -> 3.5.9
+ * [new tag]               3.6.0                   -> 3.6.0
+ * [new tag]               3.6.1                   -> 3.6.1
+ * [new tag]               3.6.10                  -> 3.6.10
+ * [new tag]               3.6.11                  -> 3.6.11
+ * [new tag]               3.6.12                  -> 3.6.12
+ * [new tag]               3.6.13                  -> 3.6.13
+ * [new tag]               3.6.14                  -> 3.6.14
+ * [new tag]               3.6.15                  -> 3.6.15
+ * [new tag]               3.6.16                  -> 3.6.16
+ * [new tag]               3.6.17                  -> 3.6.17
+ * [new tag]               3.6.18                  -> 3.6.18
+ * [new tag]               3.6.19                  -> 3.6.19
+ * [new tag]               3.6.2                   -> 3.6.2
+ * [new tag]               3.6.20                  -> 3.6.20
+ * [new tag]               3.6.21                  -> 3.6.21
+ * [new tag]               3.6.3                   -> 3.6.3
+ * [new tag]               3.6.4                   -> 3.6.4
+ * [new tag]               3.6.5                   -> 3.6.5
+ * [new tag]               3.6.6                   -> 3.6.6
+ * [new tag]               3.6.7                   -> 3.6.7
+ * [new tag]               3.6.8                   -> 3.6.8
+ * [new tag]               3.6.9                   -> 3.6.9
+ * [new tag]               4.0.0                   -> 4.0.0
+ * [new tag]               4.0.1                   -> 4.0.1
+ * [new tag]               4.0.10                  -> 4.0.10
+ * [new tag]               4.0.11                  -> 4.0.11
+ * [new tag]               4.0.12                  -> 4.0.12
+ * [new tag]               4.0.13                  -> 4.0.13
+ * [new tag]               4.0.14                  -> 4.0.14
+ * [new tag]               4.0.15                  -> 4.0.15
+ * [new tag]               4.0.16                  -> 4.0.16
+ * [new tag]               4.0.17                  -> 4.0.17
+ * [new tag]               4.0.18                  -> 4.0.18
+ * [new tag]               4.0.19                  -> 4.0.19
+ * [new tag]               4.0.2                   -> 4.0.2
+ * [new tag]               4.0.20                  -> 4.0.20
+ * [new tag]               4.0.21                  -> 4.0.21
+ * [new tag]               4.0.22                  -> 4.0.22
+ * [new tag]               4.0.23                  -> 4.0.23
+ * [new tag]               4.0.24                  -> 4.0.24
+ * [new tag]               4.0.25                  -> 4.0.25
+ * [new tag]               4.0.26                  -> 4.0.26
+ * [new tag]               4.0.27                  -> 4.0.27
+ * [new tag]               4.0.28                  -> 4.0.28
+ * [new tag]               4.0.29                  -> 4.0.29
+ * [new tag]               4.0.3                   -> 4.0.3
+ * [new tag]               4.0.4                   -> 4.0.4
+ * [new tag]               4.0.5                   -> 4.0.5
+ * [new tag]               4.0.6                   -> 4.0.6
+ * [new tag]               4.0.7                   -> 4.0.7
+ * [new tag]               4.0.8                   -> 4.0.8
+ * [new tag]               4.0.9                   -> 4.0.9
+ * [new tag]               4.1.0                   -> 4.1.0
+ * [new tag]               4.1.1                   -> 4.1.1
+ * [new tag]               4.1.10                  -> 4.1.10
+ * [new tag]               4.1.11                  -> 4.1.11
+ * [new tag]               4.1.12                  -> 4.1.12
+ * [new tag]               4.1.13                  -> 4.1.13
+ * [new tag]               4.1.14                  -> 4.1.14
+ * [new tag]               4.1.15                  -> 4.1.15
+ * [new tag]               4.1.16                  -> 4.1.16
+ * [new tag]               4.1.17                  -> 4.1.17
+ * [new tag]               4.1.18                  -> 4.1.18
+ * [new tag]               4.1.19                  -> 4.1.19
+ * [new tag]               4.1.2                   -> 4.1.2
+ * [new tag]               4.1.20                  -> 4.1.20
+ * [new tag]               4.1.21                  -> 4.1.21
+ * [new tag]               4.1.22                  -> 4.1.22
+ * [new tag]               4.1.23                  -> 4.1.23
+ * [new tag]               4.1.24                  -> 4.1.24
+ * [new tag]               4.1.25                  -> 4.1.25
+ * [new tag]               4.1.3                   -> 4.1.3
+ * [new tag]               4.1.4                   -> 4.1.4
+ * [new tag]               4.1.5                   -> 4.1.5
+ * [new tag]               4.1.6                   -> 4.1.6
+ * [new tag]               4.1.7                   -> 4.1.7
+ * [new tag]               4.1.8                   -> 4.1.8
+ * [new tag]               4.1.9                   -> 4.1.9
+ * [new tag]               4.2.0                   -> 4.2.0
+ * [new tag]               4.2.1                   -> 4.2.1
+ * [new tag]               4.2.10                  -> 4.2.10
+ * [new tag]               4.2.11                  -> 4.2.11
+ * [new tag]               4.2.12                  -> 4.2.12
+ * [new tag]               4.2.13                  -> 4.2.13
+ * [new tag]               4.2.14                  -> 4.2.14
+ * [new tag]               4.2.15                  -> 4.2.15
+ * [new tag]               4.2.16                  -> 4.2.16
+ * [new tag]               4.2.17                  -> 4.2.17
+ * [new tag]               4.2.18                  -> 4.2.18
+ * [new tag]               4.2.19                  -> 4.2.19
+ * [new tag]               4.2.2                   -> 4.2.2
+ * [new tag]               4.2.20                  -> 4.2.20
+ * [new tag]               4.2.21                  -> 4.2.21
+ * [new tag]               4.2.3                   -> 4.2.3
+ * [new tag]               4.2.4                   -> 4.2.4
+ * [new tag]               4.2.5                   -> 4.2.5
+ * [new tag]               4.2.6                   -> 4.2.6
+ * [new tag]               4.2.7                   -> 4.2.7
+ * [new tag]               4.2.8                   -> 4.2.8
+ * [new tag]               4.2.9                   -> 4.2.9
+ * [new tag]               4.3.0                   -> 4.3.0
+ * [new tag]               4.3.1                   -> 4.3.1
+ * [new tag]               4.3.10                  -> 4.3.10
+ * [new tag]               4.3.11                  -> 4.3.11
+ * [new tag]               4.3.12                  -> 4.3.12
+ * [new tag]               4.3.13                  -> 4.3.13
+ * [new tag]               4.3.14                  -> 4.3.14
+ * [new tag]               4.3.15                  -> 4.3.15
+ * [new tag]               4.3.16                  -> 4.3.16
+ * [new tag]               4.3.17                  -> 4.3.17
+ * [new tag]               4.3.18                  -> 4.3.18
+ * [new tag]               4.3.19                  -> 4.3.19
+ * [new tag]               4.3.2                   -> 4.3.2
+ * [new tag]               4.3.20                  -> 4.3.20
+ * [new tag]               4.3.21                  -> 4.3.21
+ * [new tag]               4.3.22                  -> 4.3.22
+ * [new tag]               4.3.23                  -> 4.3.23
+ * [new tag]               4.3.24                  -> 4.3.24
+ * [new tag]               4.3.3                   -> 4.3.3
+ * [new tag]               4.3.4                   -> 4.3.4
+ * [new tag]               4.3.5                   -> 4.3.5
+ * [new tag]               4.3.6                   -> 4.3.6
+ * [new tag]               4.3.7                   -> 4.3.7
+ * [new tag]               4.3.8                   -> 4.3.8
+ * [new tag]               4.3.9                   -> 4.3.9
+ * [new tag]               4.4.0                   -> 4.4.0
+ * [new tag]               4.4.1                   -> 4.4.1
+ * [new tag]               4.4.10                  -> 4.4.10
+ * [new tag]               4.4.11                  -> 4.4.11
+ * [new tag]               4.4.12                  -> 4.4.12
+ * [new tag]               4.4.13                  -> 4.4.13
+ * [new tag]               4.4.14                  -> 4.4.14
+ * [new tag]               4.4.15                  -> 4.4.15
+ * [new tag]               4.4.16                  -> 4.4.16
+ * [new tag]               4.4.17                  -> 4.4.17
+ * [new tag]               4.4.2                   -> 4.4.2
+ * [new tag]               4.4.3                   -> 4.4.3
+ * [new tag]               4.4.4                   -> 4.4.4
+ * [new tag]               4.4.5                   -> 4.4.5
+ * [new tag]               4.4.6                   -> 4.4.6
+ * [new tag]               4.4.7                   -> 4.4.7
+ * [new tag]               4.4.8                   -> 4.4.8
+ * [new tag]               4.4.9                   -> 4.4.9
+Updating files:  68% (1721/2528)Updating files:  69% (1745/2528)Updating files:  70% (1770/2528)Updating files:  71% (1795/2528)Updating files:  72% (1821/2528)Updating files:  73% (1846/2528)Updating files:  74% (1871/2528)Updating files:  75% (1896/2528)Updating files:  76% (1922/2528)Updating files:  77% (1947/2528)Updating files:  78% (1972/2528)Updating files:  79% (1998/2528)Updating files:  80% (2023/2528)Updating files:  81% (2048/2528)Updating files:  82% (2073/2528)Updating files:  83% (2099/2528)Updating files:  84% (2124/2528)Updating files:  85% (2149/2528)Updating files:  86% (2175/2528)Updating files:  87% (2200/2528)Updating files:  88% (2225/2528)Updating files:  89% (2250/2528)Updating files:  90% (2276/2528)Updating files:  91% (2301/2528)Updating files:  92% (2326/2528)Updating files:  93% (2352/2528)Updating files:  94% (2377/2528)Updating files:  95% (2402/2528)Updating files:  96% (2427/2528)Updating files:  97% (2453/2528)Updating files:  98% (2478/2528)Updating files:  99% (2503/2528)Updating files: 100% (2528/2528)Updating files: 100% (2528/2528), done.
+HEAD is now at 0a422daf68 Merge pull request #19134 from Homebrew/improve-test-directory-structure
+==> Downloading https://ghcr.io/v2/homebrew/portable-ruby/portable-ruby/blobs/sha256:4ffc8607e08e9bd536f1df71643b2ecb4cea1a15be9226f297008bc34d0bc8e2
+#=#=#                                                                                                                                                     0.2%#########                                                                 13.2%##################                                                        25.7%###########################                                               38.2%############################                                              38.9%#####################################                                     52.7%################################################                          67.5%#########################################################                 79.5%##############################################################            87.4%####################################################################      95.3%######################################################################## 100.0%
+==> Pouring portable-ruby-3.3.7.el_capitan.bottle.tar.gz
+==> Homebrew collects anonymous analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics have been recorded yet (nor will be during this `brew` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+Updated 1 tap (homebrew/cask).
+==> New Casks
+aide-app
+alcove
+amiberry
+aw-edid-editor
+ayugram
+ba-connected
+bananas
+beaver-notes
+beyond-compare@4
+bindiff
+bobhelper
+bookmacster@beta
+clipbook
+cpu-info
+dehesselle-meld
+display-pilot
+djstudio
+dorico
+fastdmg
+fathom
+font-42dot-sans
+font-agu-display
+font-atkinson-hyperlegible-mono
+font-atkinson-hyperlegible-next
+font-badeen-display
+font-brass-mono
+font-bravura
+font-cica-without-emoji
+font-departure-mono-nerd-font
+font-fairfax-hd
+font-gd-highwaygothicja
+font-ibm-plex-sans-sc
+font-kanchenjunga
+font-kreative-square
+font-liter
+font-maple-mono-nf
+font-montserrat-underline
+font-moralerspace
+font-moralerspace-hw
+font-moralerspace-hw-jpdoc
+font-moralerspace-hw-nf
+font-moralerspace-jpdoc
+font-moralerspace-nf
+font-nanum-square
+font-nanum-square-neo
+font-nanum-square-round
+font-parkinsans
+font-pixel-code
+font-playwrite-ar-guides
+font-playwrite-at-guides
+font-playwrite-au-nsw-guides
+font-playwrite-au-qld-guides
+font-playwrite-au-sa-guides
+font-playwrite-au-tas-guides
+font-playwrite-au-vic-guides
+font-playwrite-be-vlg-guides
+font-playwrite-be-wal-guides
+font-playwrite-br-guides
+font-playwrite-ca-guides
+font-playwrite-cl-guides
+font-playwrite-co-guides
+font-playwrite-cu-guides
+font-playwrite-cz-guides
+font-playwrite-de-grund-guides
+font-playwrite-de-la-guides
+font-playwrite-de-sas-guides
+font-playwrite-de-va-guides
+font-playwrite-dk-loopet-guides
+font-playwrite-dk-uloopet-guides
+font-playwrite-es-deco-guides
+font-playwrite-es-guides
+font-playwrite-fr-moderne-guides
+font-playwrite-fr-trad-guides
+font-playwrite-gb-j-guides
+font-playwrite-gb-s-guides
+font-playwrite-hr-guides
+font-playwrite-hr-lijeva-guides
+font-playwrite-hu-guides
+font-playwrite-id-guides
+font-playwrite-ie-guides
+font-playwrite-in-guides
+font-playwrite-is-guides
+font-playwrite-it-moderna-guides
+font-playwrite-it-trad-guides
+font-playwrite-mx-guides
+font-playwrite-ng-modern-guides
+font-playwrite-nl-guides
+font-playwrite-no-guides
+font-playwrite-nz-guides
+font-playwrite-pe-guides
+font-playwrite-pl-guides
+font-playwrite-pt-guides
+font-playwrite-ro-guides
+font-playwrite-sk-guides
+font-playwrite-tz-guides
+font-playwrite-us-modern-guides
+font-playwrite-us-trad-guides
+font-playwrite-vn-guides
+font-playwrite-za-guides
+font-pochaevsk
+font-ponomar
+font-shafarik
+font-sketchybar-app-font
+font-tagesschrift
+font-tamzen
+font-triodion
+font-udev-gothic-hs
+fontcreator
+ghostty
+ghostty@tip
+green-go-control
+halion-sonic
+helio
+helpwire-operator
+ishare
+istherenet
+kimis
+last-window-quits
+lunatask
+lyric-fever
+macai
+meridiem
+mihomo-party
+mindmaster-cn
+mixing-station
+mouseless
+mythic
+nexonplug
+nvidia-nsight-systems
+octarine
+ontime
+openchrom
+openhv
+pixpin
+radiola
+readest
+restic-browser
+rivet
+rode-virtual-channels
+satdump
+satyrn
+serial-studio
+shortwave
+soundsource@test
+spectrolite
+steinberg-download-assistant
+steinberg-library-manager
+steinberg-mediabay
+stratoshark
+stratoshark@dev
+superwhisper
+supremo
+sys-pc-tool
+tabtab
+taskbar
+tdr-molotok
+tdr-prism
+teleport
+termora
+testfully
+tm-error-logger
+tpvirtual
+website-audit
+widgettoggler
+windowkeys
+windsurf
+wiso-steuer-2025
+wizcli
+zen-browser@twilight
+Error: Failed to link all completions, docs and manpages:
+  Permission denied @ rb_file_s_symlink - (../../../Homebrew/completions/zsh/_brew, /usr/local/share/zsh/site-functions/_brew)
+Homebrew installation complete
+Installing firefox...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/94f0d591b71af3abe6996764b9a446d14a1f56f1/Casks/f/firefox.rb
+==> Verifying checksum for '68b0b069510a798e05cea604a900308c253339d8d6003eb53b92f0ccfd2fb3de--firefox.rb'
+==> Downloading https://download-installer.cdn.mozilla.net/pub/firefox/releases/134.0.2/mac/en-US/Firefox%20134.0.2.dmg
+==> Verifying checksum for 'd74e3e3a69e2a165be6867759a8ff9f91f98f9f642a8d2d5b5d5ab5c59370b14--Firefox 134.0.2.dmg'
+==> Installing Cask firefox
+mv /private/tmp/homebrew-unpack-20250123-11971-q4ijf6/Firefox.app /usr/local/Caskroom/firefox/134.0.2/Firefox.app
+==> Removing App '/Applications/Firefox.app'
+==> Moving App 'Firefox.app' to '/Applications/Firefox.app'
+==> Linking Binary 'firefox.wrapper.sh' to '/usr/local/bin/firefox'
+🍺  firefox was successfully installed!
+Installing vlc...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/94f0d591b71af3abe6996764b9a446d14a1f56f1/Casks/v/vlc.rb
+==> Verifying checksum for 'cda43ac067ace206e49b849ee773f14c8c85114afd0ecb8e0568bed4299e7acb--vlc.rb'
+==> Downloading https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+==> Downloading from https://ask4.mm.fcix.net/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+==> Verifying checksum for 'f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg'
+==> Installing Cask vlc
+mv /private/tmp/homebrew-unpack-20250123-12898-x6gtmv/.background.tiff /usr/local/Caskroom/vlc/3.0.21/.background.tiff
+mv /private/tmp/homebrew-unpack-20250123-12898-x6gtmv/VLC.app /usr/local/Caskroom/vlc/3.0.21/VLC.app
+==> Removing App '/Applications/VLC.app'
+==> Using sudo to gain ownership of path '/Applications/VLC.app'
+==> Purging files for version 3.0.21 of Cask vlc
+Installing zoom...
+==> Upgrading 1 outdated package:
+zoom 6.2.6.41824 -> 6.3.6.47101
+==> Upgrading zoom
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/94f0d591b71af3abe6996764b9a446d14a1f56f1/Casks/z/zoom.rb
+==> Verifying checksum for '765eb2736ada850a82fb154ed8f9cdd3c9cef4f6822066b65241136d2f658311--zoom.rb'
+==> Downloading https://cdn.zoom.us/prod/6.3.6.47101/zoomusInstallerFull.pkg
+==> Verifying checksum for 'adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg'
+==> Removing launchctl service us.zoom.ZoomDaemon
+==> Purging files for version 6.3.6.47101 of Cask zoom
+Installing google-chrome...
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250123-13919-lbtk1v/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.111/.keystone_install
+mv /private/tmp/homebrew-unpack-20250123-13919-lbtk1v/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.111/Google Chrome.app
+==> Removing App '/Applications/Google Chrome.app'
+==> Using sudo to gain ownership of path '/Applications/Google Chrome.app'
+==> Purging files for version 132.0.6834.111 of Cask google-chrome
+Installing google-drive...
+==> Downloading https://dl.google.com/drive-file-stream/5-percent/GoogleDrive.dmg
+==> Verifying checksum for '84693b003c10517f01579bedcab912bc7c5fa5c3b18a8b838de123793c4f0fa7--GoogleDrive.dmg'
+==> Installing Cask google-drive
+mv /private/tmp/homebrew-unpack-20250123-14450-p5x3xe/.keystone_install /usr/local/Caskroom/google-drive/103.0.1/.keystone_install
+mv /private/tmp/homebrew-unpack-20250123-14450-p5x3xe/GoogleDrive.pkg /usr/local/Caskroom/google-drive/103.0.1/GoogleDrive.pkg
+==> Running installer for google-drive with sudo; the password may be necessary.
+==> Purging files for version 103.0.1 of Cask google-drive
+Application not found at /Applications/Cisco Jabber.app. Skipping...
+Installing microsoft-office-businesspro...
+==> Downloading https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+==> Verifying checksum for '64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg'
+==> Installing dependencies: microsoft-auto-update
+==> Downloading https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+==> Verifying checksum for '38b317fabadcb8a2edfbebeecd7292e2bed8635c48543cc0e46c270126c87ac8--Microsoft_AutoUpdate_4.77.24121924_Updater.pkg'
+==> Installing Cask microsoft-auto-update
+cp -p /Users/um5/Library/Caches/Homebrew/downloads/38b317fabadcb8a2edfbebeecd7292e2bed8635c48543cc0e46c270126c87ac8--Microsoft_AutoUpdate_4.77.24121924_Updater.pkg /usr/local/Caskroom/microsoft-auto-update/4.77.24121924/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+==> Running installer for microsoft-auto-update with sudo; the password may be necessary.
+==> Purging files for version 4.77.24121924 of Cask microsoft-auto-update
+Application not found at /Applications/Adobe Acrobat Reader.app. Skipping...
+Installing adobe-acrobat-pro...
+==> Downloading https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/osx10/Acrobat_DC_Web_WWMUI.dmg
+==> Verifying checksum for 'ba73404b0a839adf9392f95ad54351bd977042258f9fbe849474df572d0023ea--Acrobat_DC_Web_WWMUI.dmg'
+==> Installing Cask adobe-acrobat-pro
+mv /private/tmp/homebrew-unpack-20250123-15307-74434n/Acrobat /usr/local/Caskroom/adobe-acrobat-pro/24.005.20320/Acrobat
+mv /private/tmp/homebrew-unpack-20250123-15307-74434n/acro_pro_cdfinder_bg.png /usr/local/Caskroom/adobe-acrobat-pro/24.005.20320/acro_pro_cdfinder_bg.png
+==> Running installer for adobe-acrobat-pro with sudo; the password may be necessary.
+==> Purging files for version 24.005.20320 of Cask adobe-acrobat-pro
+Application not found at /Applications/Wireshark.app. Skipping...
+Application not found at /Applications/VMware Fusion.app. Skipping...
+Application not found at /Applications/Thunderbird.app. Skipping...
+*************Brew check completed*************
+*************Get more info*************
+########TOKEN
+Status: DISABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Thu Jan 23 16:02:21 +04 2025*************
+*************Elapsed time: 1036 seconds*************
+App Sanity Check Completed
