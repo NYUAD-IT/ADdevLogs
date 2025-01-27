@@ -1,16 +1,4 @@
 ============Sync started successfully============
-Wed Nov 13 21:11:37 +04 2024
-Current OS: macOS Sequoia 15
-Current OS URL: https://support.apple.com/en-ae/121238
-Release Date: September 16, 2024
-58 days since release date
-Is the release date more than 100 days? NO
-Installed Version: 14.5
-CURRENT build for 14 is 14.7.1
-Allowed OS is 14 (static)
-Highest version available: 14.7.1
-Notify_Update to 14.7.1
-============Sync started successfully============
 ============Sync started successfully============
 ============Sync started successfully============
 Mon Jan 6 20:43:00 +04 2025
@@ -22,5 +10,21 @@ Is the release date more than 200 days? Yes
 Installed Version: 15.1.1
 CURRENT build for 15 is not available
 List of available version 15.2 15.1.1 15.1 15.0.1 15.0 14.7.2 14.7.1 14.7 14.4.1 13.7.2 13.7.1 13.7 13.6.6 12.7.4 
+Highest version available4: 15.2
+Notify_Update to 15.2
+============Sync started successfully============
+Active network service: Wi-Fi
+Current DNS for 'Wi-Fi':
+No DNS servers are set.
+DNS does not start with 127.0, no changes made.
+Mon Jan 27 19:04:29 +04 2025
+Current OS:  
+Current OS URL: https://support.apple.com
+Release Date: 
+20115 days since release date
+Is the release date more than 0 days? Yes
+Installed Version: 15.1.1
+CURRENT build for 15 is not available
+List of available version 15.2 15.1.1 15.1 15.0.1 14.7.2 14.7.1 13.7.2 13.7.1 12.7.4 
 Highest version available4: 15.2
 Notify_Update to 15.2
