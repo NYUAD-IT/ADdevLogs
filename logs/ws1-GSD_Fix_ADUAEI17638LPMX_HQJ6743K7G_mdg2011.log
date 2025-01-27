@@ -1735,3 +1735,253 @@ File not found: /Users/Shared/NYUAD/09.jpg
 *************End time: Wed Jan 22 01:48:15 EST 2025*************
 *************Elapsed time: 1016 seconds*************
 App Sanity Check Completed
+###################################################
+******000000******GSD Fix Started******000000******
+###################################################
+*************Start time: Mon Jan 27 09:22:25 EST 2025*************
+*************Checking Chrome*************
+GC Installed Ver: 132.0.6834.111
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 132.0.6834.111
+GC Installed Ver: 132.0.6834.111
+****** Chrome version checked OK (132.0.6834.111) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is installed. Proceeding ******
+AB Stable Ver: 24.005.20393
+AB Installed Ver: 24.005.20320
+****** Adobe Full is outdated. Updating ******
+ABCurrVersNormalized: 2400520393
+Latest version of the URL is: https://ardownload2.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2400520393/AcrobatDCUpd2400520393.dmg
+****** Acrobat DMG is outdated or metadata mismatch. Downloading again. ******
+Mon Jan 27 09:23:17 EST 2025: Mounting installer disk image.
+Mon Jan 27 09:23:24 EST 2025: Installing...
+Process containing 'Acrobat' in its name has been killed.
+installer: Package name is Adobe Acrobat (24.005.20393)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+Mon Jan 27 09:26:09 EST 2025: Unmounting installer disk image.
+Unmounting /dev/disk5s1
+Volume AcrobatDCUpd2400520393 on disk5s1 unmounted
+All volumes unmounted.
+Mon Jan 27 09:26:19 EST 2025: Deleting disk image.
+Mon Jan 27 09:26:19 EST 2025: SUCCESS: Adobe Full has been updated to version 24.005.20393
+AB Stable Ver: 24.005.20393
+AB Installed Ver: 24.005.20393
+****** Adobe Full is up to date. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Update available: Latest version is 16.93.25011212, installed version is 16.92.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Jan 27 09:26:20 EST 2025: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Fiji*************
+Fiji.app not found. Skipping download and install.
+No action taken.
+*************Check complete for Fiji *************
+*************Checking Safari*************
+Downloading Safari18.2VenturaAuto.pkg...
+Failed to download Safari18.2VenturaAuto.pkg. URL may be dead or unreachable.
+*************Check complete for Safari for macOS 11-14 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+No instances of Safari.app found outside /Applications.
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+**************************************************
+No new updates are available for Acrobat/Reader
+**************************************************
+Following Updates are applicable on the system :
+		(PHSP/25.12.1.994/macuniversal)
+**************************************************
+Following Updates are to be downloaded :
+		(PHSP/25.12.1.994/macuniversal)
+**************************************************
+*** Downloading (PHSP/25.12.1.994/macuniversal) ...
+*** Successfully downloaded (PHSP/25.12.1.994/macuniversal) ...
+All Updates downloaded successfully ...
+**************************************************
+*** Installing (PHSP/25.12.1.994/macuniversal) ...
+Progress: 0%Progress: 0%*** Failed to install (PHSP/25.12.1.994/macuniversal) ...
+Some Updates failed to install ...
+**************************************************
+Following Updates failed to Install :
+		(PHSP/25.0/25.12.1/macuniversal)
+**************************************************
+Exit Code: 131          
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: arm64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Illustrator 2024
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Deleting: /Applications/Adobe Photoshop 2024
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/ao1217/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Applications/Fiji 3.app
+Path not found, skipping: /Applications/Fiji 2.app
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/__MACOSX/VLC.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Homebrew Installation
+Console user is mdg2011
+Homebrew update check 1
+Checking for Xcode Command Line Tools installation
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+Application not found at /Applications/Firefox.app. Skipping...
+Installing vlc...
+Installing zoom...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/1e851b89355987aaf4e33d0912a8beaf5064c254/Casks/z/zoom.rb
+==> Verifying checksum for 'b4bea47469e1c5a9431b1cb5cd8ba8820b52508e0cc3ba44d7c9ae11352af4fe--zoom.rb'
+==> Downloading https://cdn.zoom.us/prod/6.3.6.47101/zoomusInstallerFull.pkg
+Already downloaded: /Users/mdg2011/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg
+==> Verifying checksum for 'adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg'
+==> Installing Cask zoom
+cp -p /Users/mdg2011/Library/Caches/Homebrew/downloads/adcb81dcd19eb49d939c174bd2bbbc3e33928e1f8cce04d96a8cf5c6f237b547--zoomusInstallerFull.pkg /usr/local/Caskroom/zoom/6.3.6.47101/zoomusInstallerFull.pkg
+==> Running installer for zoom with sudo; the password may be necessary.
+==> Purging files for version 6.3.6.47101 of Cask zoom
+Installing google-chrome...
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250127-35617-hcykrx/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.111/.keystone_install
+mv /private/tmp/homebrew-unpack-20250127-35617-hcykrx/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.111/Google Chrome.app
+==> Removing App '/Applications/Google Chrome.app'
+==> Using sudo to gain ownership of path '/Applications/Google Chrome.app'
+==> Purging files for version 132.0.6834.111 of Cask google-chrome
+Installing google-drive...
+==> Downloading https://dl.google.com/drive-file-stream/5-percent/GoogleDrive.dmg
+==> Verifying checksum for '84693b003c10517f01579bedcab912bc7c5fa5c3b18a8b838de123793c4f0fa7--GoogleDrive.dmg'
+==> Installing Cask google-drive
+mv /private/tmp/homebrew-unpack-20250127-36017-m32aff/.keystone_install /usr/local/Caskroom/google-drive/103.0.3/.keystone_install
+mv /private/tmp/homebrew-unpack-20250127-36017-m32aff/GoogleDrive.pkg /usr/local/Caskroom/google-drive/103.0.3/GoogleDrive.pkg
+==> Running installer for google-drive with sudo; the password may be necessary.
+==> Purging files for version 103.0.3 of Cask google-drive
+Application not found at /Applications/Cisco Jabber.app. Skipping...
+Installing microsoft-office-businesspro...
+==> Downloading https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+Already downloaded: /Users/mdg2011/Library/Caches/Homebrew/downloads/64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg
+==> Verifying checksum for '64d27a7e4fa19f2c9c24499c7e6f15def59df97739a7b8f877b94cba64669fa3--Microsoft_365_and_Office_16.93.25011212_BusinessPro_Installer.pkg'
+==> Installing dependencies: microsoft-auto-update
+==> Downloading https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+Already downloaded: /Users/mdg2011/Library/Caches/Homebrew/downloads/38b317fabadcb8a2edfbebeecd7292e2bed8635c48543cc0e46c270126c87ac8--Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+==> Verifying checksum for '38b317fabadcb8a2edfbebeecd7292e2bed8635c48543cc0e46c270126c87ac8--Microsoft_AutoUpdate_4.77.24121924_Updater.pkg'
+==> Installing Cask microsoft-auto-update
+cp -p /Users/mdg2011/Library/Caches/Homebrew/downloads/38b317fabadcb8a2edfbebeecd7292e2bed8635c48543cc0e46c270126c87ac8--Microsoft_AutoUpdate_4.77.24121924_Updater.pkg /usr/local/Caskroom/microsoft-auto-update/4.77.24121924/Microsoft_AutoUpdate_4.77.24121924_Updater.pkg
+==> Running installer for microsoft-auto-update with sudo; the password may be necessary.
+==> Purging files for version 4.77.24121924 of Cask microsoft-auto-update
+Application not found at /Applications/Adobe Acrobat Reader.app. Skipping...
+Installing adobe-acrobat-pro...
+==> Downloading https://trials.adobe.com/AdobeProducts/APRO/Acrobat_HelpX/osx10/Acrobat_DC_Web_WWMUI.dmg
+Already downloaded: /Users/mdg2011/Library/Caches/Homebrew/downloads/ba73404b0a839adf9392f95ad54351bd977042258f9fbe849474df572d0023ea--Acrobat_DC_Web_WWMUI.dmg
+==> Verifying checksum for 'ba73404b0a839adf9392f95ad54351bd977042258f9fbe849474df572d0023ea--Acrobat_DC_Web_WWMUI.dmg'
+==> Installing Cask adobe-acrobat-pro
+mv /private/tmp/homebrew-unpack-20250127-36747-cbj1qb/Acrobat /usr/local/Caskroom/adobe-acrobat-pro/24.005.20393/Acrobat
+mv /private/tmp/homebrew-unpack-20250127-36747-cbj1qb/acro_pro_cdfinder_bg.png /usr/local/Caskroom/adobe-acrobat-pro/24.005.20393/acro_pro_cdfinder_bg.png
+==> Running installer for adobe-acrobat-pro with sudo; the password may be necessary.
+==> Purging files for version 24.005.20393 of Cask adobe-acrobat-pro
+Application not found at /Applications/Wireshark.app. Skipping...
+Application not found at /Applications/VMware Fusion.app. Skipping...
+Application not found at /Applications/Thunderbird.app. Skipping...
+*************Brew check completed*************
+*************Get more info*************
+########TOKEN
+Status: ENABLED for user itops
+########MDMLINK
+WS1 Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Mon Jan 27 09:28:45 EST 2025*************
+*************Elapsed time: 380 seconds*************
+App Sanity Check Completed
