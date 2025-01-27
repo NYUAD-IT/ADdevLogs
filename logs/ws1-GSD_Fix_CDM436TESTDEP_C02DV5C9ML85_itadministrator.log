@@ -1,0 +1,225 @@
+###################################################
+******000000******GSD Fix Started******000000******
+###################################################
+*************Start time: Mon Jan 27 18:23:37 +04 2025*************
+*************Checking Chrome*************
+GC Installed Ver: 132.0.6834.111
+****** Chrome DMG is fresh and metadata matches. Skipping download. ******
+GC Stable Ver: 132.0.6834.111
+GC Installed Ver: 132.0.6834.111
+****** Chrome version checked OK (132.0.6834.111) ******
+****** Firefox is not installed ******
+****** Thunderbird is not installed ******
+*************Checking Adobe Air*************
+Uninstaller not present
+Forgetting package
+****** Adobe Air check completed ******
+*************Checking Acrobat Reader*************
+****** Adobe Acrobat Reader is not installed. Exiting ******
+****** Adobe Acrobat Reader check completed ******
+*************Checking log4j*************
+JAR file already exists. Skipping download.
+Using existing JAR file: /Users/Shared/log4jscan-latest.jar
+Log file is not more than 7 days old. Skipping scan.
+*************Checking Acrobat Full Version*************
+****** Adobe Acrobat Full is not installed. Exiting ******
+****** Adobe Acrobat Full check completed ******
+*************Checking Microsoft Office*************
+Microsoft AutoUpdate is installed.
+Opening Microsoft AutoUpdate app...
+Continuing script execution...
+Installing updates...
+Microsoft Word is not installed.
+*************Check complete for Microsoft Office*************
+*************Checking Silverlight*************
+
+*************Check complete for Silverlight*************
+*************Checking Java*************
+No folder with 'jdk' found.
+Removing JRE
+Mon Jan 27 18:23:56 +04 2025: Clean up JRE traces...
+Searching for rt.jar...
+Searching for jrt-fs.jar...
+Searching for catalina.jar...
+Searching for struts-core-1.3.8.jar...
+Searching for rt.ogjarbak...
+Searching for jrt-fs.ogjarbak...
+*************Check complete for Java*************
+*************Checking Fiji*************
+Fiji.app not found. Skipping download and install.
+No action taken.
+*************Check complete for Fiji *************
+*************Checking Safari*************
+macOS version is above 14.0. Skipping installation.
+*************Check complete for Safari for macOS 11-14 only *************
+*************Checking Rogue Apps*************
+Searching for Google Chrome.app...
+Searching for Safari.app...
+Searching for Firefox.app...
+No instances of Firefox.app found outside /Applications.
+Searching for Thunderbird.app...
+No instances of Thunderbird.app found outside /Applications.
+Searching for Foxit Reader.app...
+No instances of Foxit Reader.app found outside /Applications.
+*************Task completed in 0 seconds to Remove rogue apps*************
+*************Checking Adobe Apps*************
+Remote Update Manager is already installed.
+Adobe Apps Update in progress...
+RemoteUpdateManager version is : 3.1.0.3
+Starting the RemoteUpdateManager...
+
+*************Adobe apps check completed*************
+*************Checking MacOS SU*************
+Performing Software Update Check for macOS
+*************Notify for updated*************
+****** macOS SU check completed ******
+*************Checking VLC*************
+VLC version: 3.0.21
+Arch is: x86_64
+VLC up to date
+****** VLC check completed ******
+*************Manual files removal*************
+Path not found, skipping: /Applications/Adobe Acrobat 2015
+Path not found, skipping: /Applications/Adobe Digital Editions 4.5.app
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015
+Path not found, skipping: /Applications/Adobe Illustrator CC 2016
+Path not found, skipping: /Applications/Adobe Illustrator CC 2017
+Path not found, skipping: /Applications/Adobe Illustrator CC 2018
+Path not found, skipping: /Applications/Adobe Illustrator CC 2019
+Path not found, skipping: /Applications/Adobe Illustrator 2020
+Path not found, skipping: /Applications/Adobe Illustrator 2021
+Path not found, skipping: /Applications/Adobe Illustrator 2022
+Path not found, skipping: /Applications/Adobe Illustrator 2023
+Path not found, skipping: /Applications/Adobe Illustrator 2024
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015
+Path not found, skipping: /Applications/Adobe Photoshop CC 2016
+Path not found, skipping: /Applications/Adobe Photoshop CC 2017
+Path not found, skipping: /Applications/Adobe Photoshop CC 2018
+Path not found, skipping: /Applications/Adobe Photoshop 2020
+Path not found, skipping: /Applications/Adobe Photoshop 2021
+Path not found, skipping: /Applications/Adobe Photoshop 2022
+Path not found, skipping: /Applications/Adobe Photoshop 2023
+Path not found, skipping: /Applications/Adobe Photoshop 2024
+Path not found, skipping: /private/var/root/.Trash/Adobe Acrobat Reader.app
+Path not found, skipping: /private/var/root/.Trash/Adobe Reader19-49-38.app
+Path not found, skipping: /Users/mm9511/Library/CloudStorage/GoogleDrive-mm9511@nyu.edu/My Drive/Adobe Acrobat Reader.app
+Path not found, skipping: /Applications/Adobe Acrobat XI Pro
+Path not found, skipping: /Users/ag9141/Documents/mpi/Applications/Adobe Acrobat Reader DC.app
+Path not found, skipping: /Applications/Adobe Animate CC 2017
+Path not found, skipping: /Applications/Adobe Animate 2022
+Path not found, skipping: /Applications/Adobe Illustrator CC 2015.3
+Path not found, skipping: /Applications/Adobe Photoshop CC 2015.5
+Path not found, skipping: /Users/ao1217/Downloads/Fiji.app
+Path not found, skipping: /Users/ag6042/Downloads/download26042024/Fiji.app
+Path not found, skipping: /Applications/Fiji 3.app
+Path not found, skipping: /Applications/Fiji 2.app
+Path not found, skipping: /Users/mohamadabbas/Desktop/Desktop/Shows/Programs/Mac 2/__MACOSX/VLC.app
+Searching for .app files with 'adobe' in Trash directories...
+*************Cleanup completedd*************
+*************Checking Brew*************
+Checking Command Line Tools for Xcode
+Command Line Tools for Xcode not found. Installing from softwareupdate…
+Software Update Tool
+
+Finding available software
+
+Downloading Command Line Tools for Xcode
+Downloaded Command Line Tools for Xcode
+Installing Command Line Tools for Xcode
+Done with Command Line Tools for Xcode
+Done.
+Command Line Tools for Xcode have been installed.
+Homebrew Installation
+Console user is itadministrator
+Checking for Xcode Command Line Tools installation
+Installing Homebrew
+Initialized empty Git repository in /usr/local/Homebrew/.git/
+HEAD is now at 9fd2b27a35 Merge pull request #19151 from Homebrew/fix_case_commands
+==> Downloading https://ghcr.io/v2/homebrew/core/md5sha1sum/manifests/0.9.5_1-1
+==> Fetching dependencies for md5sha1sum: ca-certificates and openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-12-31
+==> Fetching ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:414ada64e60703cd4e9aa97f36e29c1a7ec73d60862b5219b8110731fcfd2cb7
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.4.0
+==> Fetching openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:28e2abc928e8afd0c58303de69dab5e4ec8663c5591fe3c425ad9177bf377ded
+==> Fetching md5sha1sum
+==> Downloading https://ghcr.io/v2/homebrew/core/md5sha1sum/blobs/sha256:5f3870382f7bfa8e95a952fb263d0225a6b0405264d1fbcdcdf3c693a9c787af
+==> Installing dependencies for md5sha1sum: ca-certificates and openssl@3
+==> Installing md5sha1sum dependency: ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-12-31
+Already downloaded: /Users/itadministrator/Library/Caches/Homebrew/downloads/c41a485689e1507291617fb1f0e2322a087064960638fd050663df867bf53928--ca-certificates-2024-12-31.bottle_manifest.json
+==> Pouring ca-certificates--2024-12-31.all.bottle.tar.gz
+[34m==>[0m [1mRegenerating CA certificate bundle from keychain, this may take a while...[0m
+🍺  /usr/local/Cellar/ca-certificates/2024-12-31: 4 files, 233.9KB
+==> Installing md5sha1sum dependency: openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.4.0
+Already downloaded: /Users/itadministrator/Library/Caches/Homebrew/downloads/a8a169d38329b14f967d497d0ea77eee6dc5444175093fc7b26026b357e81736--openssl@3-3.4.0.bottle_manifest.json
+==> Pouring openssl@3--3.4.0.sonoma.bottle.tar.gz
+🍺  /usr/local/Cellar/openssl@3/3.4.0: 7,236 files, 33.8MB
+==> Installing md5sha1sum
+==> Pouring md5sha1sum--0.9.5_1.sonoma.bottle.1.tar.gz
+🍺  /usr/local/Cellar/md5sha1sum/0.9.5_1: 9 files, 63.4KB
+==> Running `brew cleanup md5sha1sum`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+Updating Homebrew
+==> Updating Homebrew...
+Already up-to-date.
+Homebrew installation complete
+Application not found at /Applications/Firefox.app. Skipping...
+Installing vlc...
+==> Downloading https://raw.githubusercontent.com/Homebrew/homebrew-cask/1e851b89355987aaf4e33d0912a8beaf5064c254/Casks/v/vlc.rb
+==> Verifying checksum for 'e0a1c3c4443ea8f53e45b9b7046d03e106f429b41abfb544119e3e3e2aeadf36--vlc.rb'
+==> Downloading https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+==> Downloading from https://mirror.mangohost.net/videolan/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg
+==> Verifying checksum for 'f8f4c305170532bb8a08edb14e8118fe8e105039372eda17f9347bc3c980d628--vlc-3.0.21-intel64.dmg'
+==> Installing Cask vlc
+mv /private/tmp/homebrew-unpack-20250127-75196-38r99a/.background.tiff /usr/local/Caskroom/vlc/3.0.21/.background.tiff
+mv /private/tmp/homebrew-unpack-20250127-75196-38r99a/VLC.app /usr/local/Caskroom/vlc/3.0.21/VLC.app
+==> Removing App '/Applications/VLC.app'
+==> Moving App 'VLC.app' to '/Applications/VLC.app'
+==> Linking Binary 'vlc.wrapper.sh' to '/usr/local/bin/vlc'
+🍺  vlc was successfully installed!
+Application not found at /Applications/zoom.us.app. Skipping...
+Installing google-chrome...
+==> Downloading https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg
+==> Verifying checksum for '88881e66883c4776fff9b3019b48a26795020439a33ddbedd3bd4620283aecd2--googlechrome.dmg'
+==> Installing Cask google-chrome
+mv /private/tmp/homebrew-unpack-20250127-75844-i8f8ki/.keystone_install /usr/local/Caskroom/google-chrome/132.0.6834.111/.keystone_install
+mv /private/tmp/homebrew-unpack-20250127-75844-i8f8ki/Google Chrome.app /usr/local/Caskroom/google-chrome/132.0.6834.111/Google Chrome.app
+==> Removing App '/Applications/Google Chrome.app'
+==> Using sudo to gain ownership of path '/Applications/Google Chrome.app'
+==> Purging files for version 132.0.6834.111 of Cask google-chrome
+Application not found at /Applications/Google Drive.app. Skipping...
+Application not found at /Applications/Cisco Jabber.app. Skipping...
+Application not found at /Applications/Microsoft Outlook.app. Skipping...
+Application not found at /Applications/Adobe Acrobat Reader.app. Skipping...
+Application not found at /Applications/Adobe Acrobat DC. Skipping...
+Application not found at /Applications/Wireshark.app. Skipping...
+Application not found at /Applications/VMware Fusion.app. Skipping...
+Application not found at /Applications/Thunderbird.app. Skipping...
+*************Brew check completed*************
+*************Get more info*************
+########TOKEN
+Status: DISABLED for user itops
+########MDMLINK
+NOT Enrolled
+########BIGFIX
+########XDR
+*************TEMP Task*************
+*************SSaver update Nov 2024*************
+File not found: /Users/Shared/NYUAD/01.jpg
+File not found: /Users/Shared/NYUAD/02.jpg
+File not found: /Users/Shared/NYUAD/03.jpg
+File not found: /Users/Shared/NYUAD/04.jpg
+File not found: /Users/Shared/NYUAD/05.jpg
+File not found: /Users/Shared/NYUAD/06.jpg
+File not found: /Users/Shared/NYUAD/07.jpg
+File not found: /Users/Shared/NYUAD/08.jpg
+File not found: /Users/Shared/NYUAD/09.jpg
+*************End of Script*************
+*************End time: Mon Jan 27 18:39:03 +04 2025*************
+*************Elapsed time: 926 seconds*************
+App Sanity Check Completed
