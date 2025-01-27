@@ -1,0 +1,9 @@
+Downloading umad-2.0.pkg from https://media.githubusercontent.com/media/NYUAD-IT/NYU-umad/refs/heads/main/umad-2.0.pkg...
+Installing umad-2.0.pkg...
+Cleaning up...
+Installation of umad-2.0.pkg completed successfully.
+Pshow: WS1 link found
+Pstatus: Enrolled via DEP: Yes
+MDM enrollment: Yes (User Approved)
+MDM server: https://ds1688.awmdm.com/DeviceServices/AppleMDM/Processor.aspx
+Found enrolled on WS1 manually
