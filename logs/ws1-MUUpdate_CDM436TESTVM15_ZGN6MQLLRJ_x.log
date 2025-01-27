@@ -51,3 +51,31 @@ CURRENT build for 15 is 15.2
 List of available version 15.2 15.1.1 15.1.1 15.1 15.1 15.0.1 14.7.2 14.7.1 13.7.2 13.7.1 12.7.4 
 Highest version available2: 15.2
 Compliant. No action required.
+============Sync started successfully============
+2025-01-27 19:52:40 | v36.1 | [log_rotate] Finished rotating logs in /Library/Management/erase-install/log
+
+2025-01-27 19:52:40 | v36.1 | [erase-install] v36.1 script execution started: Mon Jan 27 19:52:40 +04 2025
+
+2025-01-27 19:52:40 | v36.1 | [erase-install] Arguments provided: --reinstall -min-drive-space=35 —no-fs --rebootdelay 300 --check-power --power-wait-limit 600 --current-user --no-jamfhelper --no-timeout --test-run
+
+2025-01-27 19:52:40 | v36.1 | *** TEST-RUN ONLY! ***
+2025-01-27 19:52:40 | v36.1 | * This script will perform all tasks up to the point of erase or reinstall,
+2025-01-27 19:52:40 | v36.1 | * but will not actually erase or reinstall.
+2025-01-27 19:52:40 | v36.1 | * Remove the --test-run argument to perform the erase or reinstall.
+2025-01-27 19:52:40 | v36.1 | **********************
+
+2025-01-27 19:52:40 | v36.1 | [set_localisations] Set language to en-US
+2025-01-27 19:52:40 | v36.1 | [erase-install] System version: 15.2 (Build: 24C101)
+2025-01-27 19:52:40 | v36.1 | [check_for_swiftdialog_app] swiftDialog v2.5.2.4777 is installed (/Library/Application Support/Dialog/Dialog.app)
+2025-01-27 19:52:40 | v36.1 | [check_for_swiftdialog_app] Creating dialog log (/var/tmp/dialog.7g7)...
+2025-01-27 19:52:40 | v36.1 | [erase-install] Caffeinating this script (pid=15241)
+2025-01-27 19:52:40 | v36.1 | [check_free_space] ERROR - 29 GB free/purgeable disk space detected
+2025-01-27 19:52:40 | v36.1 | [get_default_dialog_args] Invoking utility dialog
+{
+
+}
+
+2025-01-27 19:52:52 | v36.1 | [erase-install] terminating the process 'caffeinate' process
+
+2025-01-27 19:52:52 | v36.1 | [finish] sending quit message to dialog (/var/tmp/dialog.7g7)
+2025-01-27 19:52:53 | v36.1 | [finish] Script exit code: 1
